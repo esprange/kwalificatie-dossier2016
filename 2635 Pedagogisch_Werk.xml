@@ -1,0 +1,1686 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<sbb>
+  <domeinen>
+    <domein nr="4121" titel="Bouw en infra" crebo="79000" prijsfactor="1.0" OBK_ID="bk:17b41166-ab49-4a56-bcf1-32317da752ef" />
+    <domein nr="4122" titel="Afbouw, hout en onderhoud" crebo="79010" prijsfactor="1.0" OBK_ID="bk:3ed67cca-37f6-4d7b-b1eb-872f6671caf7" />
+    <domein nr="4123" titel="Techniek en procesindustrie" crebo="79020" prijsfactor="1.0" OBK_ID="bk:c6c55e80-9fae-440b-b50a-4a1f70432734" />
+    <domein nr="4124" titel="Ambacht, laboratorium en gezondheidstechniek" crebo="79030" prijsfactor="1.0" OBK_ID="bk:b658110d-0115-4059-9889-cc7cc6369cc7" />
+    <domein nr="4125" titel="Media en vormgeving" crebo="79040" prijsfactor="1.0" OBK_ID="bk:2c366888-5642-4262-922d-f84908767235" />
+    <domein nr="4126" titel="Informatie en communicatietechnologie" crebo="79050" prijsfactor="1.0" OBK_ID="bk:fd8df586-d10e-4cd2-8ef7-c0c93f0bc5cd" />
+    <domein nr="4127" titel="Mobiliteit en voertuigen" crebo="79060" prijsfactor="1.0" OBK_ID="bk:d761bbea-3e5c-4887-89e6-f1129b9c77de" />
+    <domein nr="4128" titel="Transport, scheepvaart en logistiek" crebo="79070" prijsfactor="1.0" OBK_ID="bk:9ca10565-ec88-44b7-abc2-582dfdea5abc" />
+    <domein nr="4129" titel="Handel en ondernemerschap" crebo="79080" prijsfactor="1.0" OBK_ID="bk:3912477b-4bd1-40ca-aeba-eb7a748728b8" />
+    <domein nr="4130" titel="Economie en administratie" crebo="79090" prijsfactor="1.0" OBK_ID="bk:8ce88270-8fc1-41fa-97c0-6a59b66218f7" />
+    <domein nr="4131" titel="Veiligheid en sport" crebo="79100" prijsfactor="1.0" OBK_ID="bk:8aa21fc6-4da8-4bdf-9de2-d9e5e707d003" />
+    <domein nr="4132" titel="Uiterlijke verzorging" crebo="79110" prijsfactor="1.0" OBK_ID="bk:4c5ca35d-a5b7-4408-af1f-9bbbcf96caa6" />
+    <domein nr="4133" titel="Horeca en bakkerij" crebo="79120" prijsfactor="1.0" OBK_ID="bk:bac03586-16fe-4384-98f5-8e0d6845ec72" />
+    <domein nr="4134" titel="Toerisme en recreatie" crebo="79130" prijsfactor="1.0" OBK_ID="bk:6bd98aec-fc1a-4732-b1a8-a6e526f153a9" />
+    <domein nr="4135" titel="Zorg en welzijn" crebo="79140" prijsfactor="1.0" OBK_ID="bk:750580b3-11c3-46a8-9bc2-dd5a6e7612b6" />
+    <domein nr="4136" titel="Voedsel, natuur en leefomgeving" crebo="79160" prijsfactor="1.0" OBK_ID="bk:5e86dc82-1981-48df-bbe5-abd4a9b3767b" />
+    <domein nr="4137" titel="Voedsel, natuur en leefomgeving (EZ)" crebo="79150" prijsfactor="1.0" OBK_ID="bk:5e86dc82-1981-48df-bbe5-abd4a9b3767b" />
+    <domein nr="7172" titel="Niet toebedeeld aan opleidingsdomein" crebo="" prijsfactor="1.0" OBK_ID="" />
+  </domeinen>
+  <sectorkamers>
+    <sectorkamer nr="5672" titel="Sectorkamer techniek en gebouwde omgeving" />
+    <sectorkamer nr="5673" titel="Sectorkamer mobiliteit, transport, logistiek en maritiem" />
+    <sectorkamer nr="5674" titel="Sectorkamer zorg, welzijn en sport" />
+    <sectorkamer nr="5675" titel="Sectorkamer handel" />
+    <sectorkamer nr="5676" titel="Sectorkamer ICT en creatieve industrie" />
+    <sectorkamer nr="5677" titel="Sectorkamer voedsel, groen en gastvrijheid" />
+    <sectorkamer nr="5678" titel="Sectorkamer zakelijke dienstverlening en veiligheid" />
+    <sectorkamer nr="5679" titel="Sectorkamer specialistisch vakmanschap" />
+    <sectorkamer nr="5680" titel="Bovensectoraal" />
+  </sectorkamers>
+  <competenties>
+    <competentie nr="3084" titel="Beslissen en activiteiten initiëren" code="A" />
+    <competentie nr="3085" titel="Aansturen" code="B" />
+    <competentie nr="3086" titel="Begeleiden" code="C" />
+    <competentie nr="3087" titel="Aandacht en begrip tonen" code="D" />
+    <competentie nr="3088" titel="Samenwerken en overleggen" code="E" />
+    <competentie nr="3089" titel="Ethisch en integer handelen" code="F" />
+    <competentie nr="3090" titel="Relaties bouwen en netwerken" code="G" />
+    <competentie nr="3091" titel="Overtuigen en beïnvloeden" code="H" />
+    <competentie nr="3092" titel="Presenteren" code="I" />
+    <competentie nr="3093" titel="Formuleren en rapporteren" code="J" />
+    <competentie nr="3094" titel="Vakdeskundigheid toepassen" code="K" />
+    <competentie nr="3095" titel="Materialen en middelen inzetten" code="L" />
+    <competentie nr="3096" titel="Analyseren" code="M" />
+    <competentie nr="3097" titel="Onderzoeken" code="N" />
+    <competentie nr="3098" titel="Creëren en innoveren" code="O" />
+    <competentie nr="3099" titel="Leren" code="P" />
+    <competentie nr="3100" titel="Plannen en organiseren" code="Q" />
+    <competentie nr="3101" titel="Op de behoeften en verwachtingen van de &quot;klant&quot; richten" code="R" />
+    <competentie nr="3102" titel="Kwaliteit leveren" code="S" />
+    <competentie nr="3103" titel="Instructies en procedures opvolgen" code="T" />
+    <competentie nr="3104" titel="Omgaan met verandering en aanpassen" code="U" />
+    <competentie nr="3105" titel="Met druk en tegenslag omgaan" code="V" />
+    <competentie nr="3106" titel="Gedrevenheid en ambitie tonen" code="W" />
+    <competentie nr="3107" titel="Ondernemend en commercieel handelen" code="X" />
+    <competentie nr="3108" titel="Bedrijfsmatig handelen" code="Y" />
+  </competenties>
+  <dossiers>
+    <dossier nr="2635" titel="Pedagogisch Werk" versie="" referentievorigeversie="" status="Vastgesteld" referentiedomein="4135" wettelijkeberoepsvereisten="Nee" positief_advies_toetsingskamer="Ja">
+      <dossiercrebos>
+        <dossiercrebo ministerie="OCW" prijsfactor="1,10" Geldig_vanaf="01-08-2015" Datum_einde_instroom="" Datum_einde_opleiding="">23183</dossiercrebo>
+      </dossiercrebos>
+      <kennisenvaardigheden>
+        <kennisofvaardigheid nr="965993" titel="heeft algemene kennis van het werkveld kinderopvang" />
+        <kennisofvaardigheid nr="965979" titel="heeft basiskennis van begrippen van (dys)functioneren door (chronische) ziekte(n) " />
+        <kennisofvaardigheid nr="965977" titel="heeft basiskennis van inhoud en belang van (SLO) doelen voor het jonge kind" />
+        <kennisofvaardigheid nr="965982" titel="heeft basiskennis van systemen voor kwaliteitszorg" />
+        <kennisofvaardigheid nr="966009" titel="heeft brede en specialistische kennis van begrippen en theorieën m.b.t. didactiek " />
+        <kennisofvaardigheid nr="965984" titel="heeft brede en specialistische kennis van begrippen en theorieën m.b.t. taalontwikkeling, -achterstanden, -stimulering, culturele verschillen" />
+        <kennisofvaardigheid nr="965985" titel="heeft brede en specialistische kennis van begrippen en theorieën m.b.t. Voor- en Vroegschoolse Educatie (VVE) en de sociale context van VVE (2e taalverwerving, sociaal economische achtergrond, leefomgeving/buurt)" />
+        <kennisofvaardigheid nr="965986" titel="heeft brede en specialistische kennis van begrippen en theorieën uit de (ortho)pedagogiek" />
+        <kennisofvaardigheid nr="965987" titel="heeft brede en specialistische kennis van begrippen en theorieën van beperkingen, (chronische) ziektebeelden, ontwikkelingsachterstanden" />
+        <kennisofvaardigheid nr="965988" titel="heeft brede en specialistische kennis van begrippen en theorieën van leer-, gedrags- en opvoedingsproblemen " />
+        <kennisofvaardigheid nr="965983" titel="heeft brede en specialistische kennis van begrippen en theorieën van ontwikkelingspsychologie " />
+        <kennisofvaardigheid nr="966012" titel="heeft brede en specialistische kennis van begrippen en uitgangspunten m.b.t. leerstijlen, leerbehoeften, leeractiviteiten en een activerende leeromgeving" />
+        <kennisofvaardigheid nr="966028" titel="heeft brede en specialistische kennis van belang en noodzaak van verzamelen en registreren van (ontwikkelings-) gegevens" />
+        <kennisofvaardigheid nr="966022" titel="heeft brede en specialistische kennis van de cognitieve, motorische, sociale, emotionele, zintuiglijke, seksuele en creatieve ontwikkeling van een kind van 0 - 16 jaar (waaronder ook de afwijkende ontwikkeling)" />
+        <kennisofvaardigheid nr="965980" titel="heeft brede en specialistische kennis van de invloed van tweetaligheid op de ontwikkeling van een kind" />
+        <kennisofvaardigheid nr="966029" titel="heeft brede en specialistische kennis van de toepassing van kwaliteitszorgsystemen" />
+        <kennisofvaardigheid nr="965999" titel="heeft brede en specialistische kennis van de vakinhoud van leergebieden van het primair onderwijs (w.o. rekenen, taal, Engels, aardrijkskunde, geschiedenis, natuur en techniek)" />
+        <kennisofvaardigheid nr="966023" titel="heeft brede en specialistische kennis van diversiteit en interculturele communicatie" />
+        <kennisofvaardigheid nr="965981" titel="heeft brede en specialistische kennis van doorgaande leerlijnen (ketenregie)" />
+        <kennisofvaardigheid nr="966030" titel="heeft brede en specialistische kennis van dyslexie en dyscalculie" />
+        <kennisofvaardigheid nr="966024" titel="heeft brede en specialistische kennis van een ‘reguliere’ taalontwikkeling" />
+        <kennisofvaardigheid nr="966021" titel="heeft brede en specialistische kennis van erkende VVE methodieken: doelstelling, aanpak, inhoud, resultaten" />
+        <kennisofvaardigheid nr="966025" titel="heeft brede en specialistische kennis van het belang van spel om de ontwikkeling te stimuleren" />
+        <kennisofvaardigheid nr="965990" titel="heeft brede en specialistische kennis van het werkveld in relatie tot haar werzaamheden" />
+        <kennisofvaardigheid nr="965991" titel="heeft brede en specialistische kennis van het werkveld onderwijs" />
+        <kennisofvaardigheid nr="966031" titel="heeft brede en specialistische kennis van materialen en middelen om de (taal) ontwikkeling doelgericht te stimuleren" />
+        <kennisofvaardigheid nr="966032" titel="heeft brede en specialistische kennis van mogelijkheden van ontwikkelingsstimulering van kinderen" />
+        <kennisofvaardigheid nr="966033" titel="heeft brede en specialistische kennis van nut en mogelijke resultaten van opbrengstgericht werken" />
+        <kennisofvaardigheid nr="965989" titel="heeft brede en specialistische kennis van relevante doelgroepen in relatie tot haar werkzaamheden  " />
+        <kennisofvaardigheid nr="965992" titel="heeft brede en specialistische kennis van taalontwikkeling en taalstimulering" />
+        <kennisofvaardigheid nr="966026" titel="heeft brede en specialistische kennis van taalverwerving bij meertaligheid" />
+        <kennisofvaardigheid nr="966034" titel="heeft brede en specialistische kennis van toepassing en gebruik van sociale media" />
+        <kennisofvaardigheid nr="966027" titel="heeft brede en specialistische kennis van wet- en regelgeving waaronder Meldcode huiselijk geweld en kindermishandeling. " />
+        <kennisofvaardigheid nr="966035" titel="heeft brede en specialistische kennis van zelfsturing bij kinderen (2-4 jaar)" />
+        <kennisofvaardigheid nr="970273" titel="heeft kennis en inzicht in belang en waarde van stimulering van de ontwikkeling van een kind en van haar eigen rol daarin" />
+        <kennisofvaardigheid nr="965996" titel="heeft kennis en inzicht in de consequenties van haar handelen" />
+        <kennisofvaardigheid nr="966020" titel="heeft kennis van (verantwoord) gebruik van sociale media in relatie tot haar werkzaamheden" />
+        <kennisofvaardigheid nr="967586" titel="heeft kennis van aanleiding, inhoud en consequenties van het 'vier-ogen-principe' ter voorkoming van kindermishandeling/seksueel misbruik" />
+        <kennisofvaardigheid nr="965998" titel="heeft kennis van beelden die (culturele) groepen van elkaar hebben" />
+        <kennisofvaardigheid nr="966000" titel="heeft kennis van begrippen en theorieën m.b.t. (ortho)pedagogiek" />
+        <kennisofvaardigheid nr="966010" titel="heeft kennis van begrippen en uitgangspunten m.b.t. doelgroepen in de kinderopvang" />
+        <kennisofvaardigheid nr="966014" titel="heeft kennis van begrippen m.b.t. het werkveld onderwijs" />
+        <kennisofvaardigheid nr="966002" titel="heeft kennis van de beleidscyclus: onderdelen, stappen en betrokken actoren" />
+        <kennisofvaardigheid nr="966003" titel="heeft kennis van de cognitieve, motorische, sociale, emotionele, zintuiglijke, seksuele en creatieve ontwikkeling van een kind (0 - 23 jaar)" />
+        <kennisofvaardigheid nr="966004" titel="heeft kennis van de sociale kaart in relatie tot haar werkzaamheden" />
+        <kennisofvaardigheid nr="966005" titel="heeft kennis van diversiteit en interculturele communicatie" />
+        <kennisofvaardigheid nr="966006" titel="heeft kennis van financiële rapportages in relatie tot haar werkzaamheden" />
+        <kennisofvaardigheid nr="966008" titel="heeft kennis van gezonde voeding" />
+        <kennisofvaardigheid nr="975526" titel="heeft kennis van het belang van spel voor de ontwikkeling van het kind" />
+        <kennisofvaardigheid nr="1004367" titel="heeft kennis van kwaliteitszorg(systemen)" />
+        <kennisofvaardigheid nr="966016" titel="heeft kennis van relevante wet- en regelgeving waaronder: Meldcode huiselijk geweld en kindermishandeling" />
+        <kennisofvaardigheid nr="1004688" titel="heeft kennis van speel-, spel- en ontwikkelingsmaterialen ten behoeve van de uitvoering van activiteiten" />
+        <kennisofvaardigheid nr="989081" titel="heeft kennis van taalontwikkeling en taalstimulering" />
+        <kennisofvaardigheid nr="966018" titel="heeft kennis van veel voorkomende gedragsproblematieken bij kinderen " />
+        <kennisofvaardigheid nr="966019" titel="heeft kennis van veelvoorkomende (kinder)ziekten" />
+        <kennisofvaardigheid nr="1004360" titel="heeft specialistische kennis van de cognitieve, motorische, sociale, emotionele, zintuigelijke, seksuele en creatieve ontwikkeling van een kind van 0 - 13 jaar" />
+        <kennisofvaardigheid nr="965962" titel="kan (kinder)EHBO/eerste hulp bij kleine ongevallen toepassen" />
+        <kennisofvaardigheid nr="965965" titel="kan adviesvaardigheden toepassen gericht op ouders, kinderen, leerlingen/studenten " />
+        <kennisofvaardigheid nr="965966" titel="kan bedrijfsculturen herkennen" />
+        <kennisofvaardigheid nr="966039" titel="kan de natuur en producten uit de natuur verwerken in activiteiten" />
+        <kennisofvaardigheid nr="970269" titel="kan de ontwikkeling van kinderen stimuleren d.m.v. methodische interventies" />
+        <kennisofvaardigheid nr="965967" titel="kan de ontwikkeling van leerlingen/studenten stimuleren d.m.v. methodische interventies" />
+        <kennisofvaardigheid nr="965969" titel="kan educatieve interactievaardigheden toepassen: praten en uitleggen, ontwikkelingsstimulering, begeleiden van interacties" />
+        <kennisofvaardigheid nr="965970" titel="kan een afwijkende ontwikkeling van kinderen herkennen" />
+        <kennisofvaardigheid nr="965971" titel="kan een erkende VVE-aanpak in de praktijk herkennen" />
+        <kennisofvaardigheid nr="965972" titel="kan evaluatievaardigheden toepassen in relatie tot haar werkzaamheden" />
+        <kennisofvaardigheid nr="965973" titel="kan feedbackvaardigheden toepassen in relatie tot haar werkzaamheden" />
+        <kennisofvaardigheid nr="965974" titel="kan gesprekstechnieken toepassen in relatie tot haar werkzaamheden" />
+        <kennisofvaardigheid nr="966043" titel="kan groepsprocessen methodisch hanteren" />
+        <kennisofvaardigheid nr="966036" titel="kan ICT-vaardigheden toepassen in relatie tot haar werkzaamheden" />
+        <kennisofvaardigheid nr="966038" titel="kan instructievaardigheden toepassen" />
+        <kennisofvaardigheid nr="966042" titel="kan kennis van gezondheid, ziekte, besmetting toepassen" />
+        <kennisofvaardigheid nr="966044" titel="kan methodische technieken toepassen in relatie tot haar werkzaamheden" />
+        <kennisofvaardigheid nr="966045" titel="kan mondelinge en schriftelijke rapportagevaardigheden toepassen in relatie tot haar werkzaamheden" />
+        <kennisofvaardigheid nr="966046" titel="kan motivatietechnieken toepassen in relatie tot haar werkzaamheden" />
+        <kennisofvaardigheid nr="966062" titel="kan motorische en creatieve vaardigheden toepassen voor het uitvoeren van creatieve, muzische en kunstzinnige (spel)activiteiten" />
+        <kennisofvaardigheid nr="966048" titel="kan observatiemethodieken toepassen om informatie te verzamelen" />
+        <kennisofvaardigheid nr="966049" titel="kan omgaan met culturele diversiteit in werkcontacten " />
+        <kennisofvaardigheid nr="966050" titel="kan omgaan met normoverschrijdend gedrag, conflictsituaties en agressie " />
+        <kennisofvaardigheid nr="966059" titel="kan ontwikkelingsdoelen  SMART formuleren" />
+        <kennisofvaardigheid nr="966052" titel="kan ontwikkelingsgericht werken: signaleren, creëren en benutten van kansen op cognitief, motorisch, zintuigelijk en sociaal-emotioneel gebied" />
+        <kennisofvaardigheid nr="966053" titel="kan ouders betrekken bij de ontwikkeling van hun kind(eren)" />
+        <kennisofvaardigheid nr="966054" titel="kan presentatietechnieken toepassen voor ouders/vervangende opvoeders en kinderen" />
+        <kennisofvaardigheid nr="966055" titel="kan reflecteren op haar eigen handelen  in relatie tot haar werkzaamheden" />
+        <kennisofvaardigheid nr="966056" titel="kan resultaatgericht werken" />
+        <kennisofvaardigheid nr="967585" titel="kan risicofactoren herkennen om dader resp. slachtoffer te worden van pesten, kindermishandeling, seksueel misbruik" />
+        <kennisofvaardigheid nr="966057" titel="kan signalen van laaggeletterdheid bij ouders/opvoeders herkennen" />
+        <kennisofvaardigheid nr="966058" titel="kan signalen van sociale problematiek herkennen waaronder pesten, huiselijk geweld, kindermishandeling, ongeletterdheid, seksueel misbruik en actie ondernemen volgens wet- en regelgeving en het beleid /protocol van de organisatie" />
+        <kennisofvaardigheid nr="966060" titel="kan sociale vaardigheden toepassen  in relatie tot haar werkzaamheden" />
+        <kennisofvaardigheid nr="966061" titel="kan uitgangspunten van kinderparticipatie toepassen" />
+        <kennisofvaardigheid nr="966063" titel="kan vergadertechnieken toepassen  in relatie tot haar werkzaamheden" />
+        <kennisofvaardigheid nr="966064" titel="kan voorbeeldgedrag tonen in doen en laten" />
+        <kennisofvaardigheid nr="966065" titel="kan voorleesvaardigheden toepassen" />
+        <kennisofvaardigheid nr="966066" titel="kan voorlichtingsvaardigheden toepassen gericht op kinderen en ouders " />
+        <kennisofvaardigheid nr="966041" titel="kan werken met antwoordmodellen" />
+        <kennisofvaardigheid nr="970270" titel="kan werken met een kindvolgsysteem " />
+        <kennisofvaardigheid nr="966067" titel="kan werken met een leerlingvolgsysteem" />
+        <kennisofvaardigheid nr="966068" titel="kan werken op basis van groepsplannen en handelingsplannen" />
+        <kennisofvaardigheid nr="966069" titel="kan werken op basis van planningen (jaarplan, maand/weekplan)" />
+      </kennisenvaardigheden>
+      <categoriekennisenvaardigheden />
+      <voorblad titel="Voorblad">
+        <omschrijving>
+          <penvoerder>
+            <sectorkamer referentie="5674" />
+          </penvoerder>
+          <verantwoording>
+            <vaststellingsinformatie>
+              <vastgestelddoor>Sectorkamer zorg, welzijn en sport</vastgestelddoor>
+              <vastgesteldop>26-11-2015</vastgesteldop>
+              <vastgesteldte>Zoetermeer</vastgesteldte>
+            </vaststellingsinformatie>
+          </verantwoording>
+        </omschrijving>
+      </voorblad>
+      <inleiding titel="Inleiding">
+        <omschrijving><![CDATA[<labeltext>
+                                          &lt;h1&gt;Leeswijzer&lt;/h1&gt;
+      &lt;p&gt;Het kwalificatiedossier voor het middelbaar beroepsonderwijs geeft weer wat de beginnend beroepsbeoefenaar moet kennen en kunnen aan het einde van de mbo - opleiding.&lt;/p&gt;
+      &lt;h2&gt;Opbouw dossier&lt;/h2&gt;
+      &lt;p&gt;Dit kwalificatiedossier bevat de kwalificatie - eisen voor één of meerdere mbo -beroepen en bestaat uit:&lt;/p&gt;
+      1.	Het basisdeel (B), dat gevormd wordt door: &lt;br&gt;
+&lt;ol&gt; &lt;li type="a"&gt;De beroepsspecifieke onderdelen. Dit betreft gemeenschappelijke kerntaken en werkprocessen voor het gehele kwalificatie - dossier (met eventueel aanvullende eisen per profiel).&lt;/li&gt;
+&lt;li type="a"&gt;De generieke onderdelen. De generieke onderdelen zijn door de landelijke overheid geformuleerd. Het betreft de onderdelen:&lt;/li&gt;
+            &lt;ul&gt;&lt;li type="1"&gt;Nederlandse taal;&lt;/li&gt;
+            &lt;li type="1"&gt;rekenen;&lt;/li&gt;
+            &lt;li type="1"&gt;loopbaan en burgerschap;&lt;/li&gt;
+            &lt;li type="1"&gt;voor zover het niveau 4 betreft: Engels.&lt;/li&gt;&lt;/ul&gt;&lt;/ol&gt;&lt;br&gt;&lt;/li&gt;
+&lt;p&gt;2.	Het profieldeel (P). Profielen bestaan uit kerntaken (K ) en werkprocessen (W) waarop de kwalificaties in dit kwalificatiedossier van elkaar verschillen. &lt;/p&gt;
+&lt;p&gt;Het kwalificatiedossier bevat een verwijzing naar het keuzedeel (D). Het keuzedeel vergroot de arbeidsmarktkansen van de mbo - student of vergemakkelijkt de doorstroom naar een vervolgstudie. Het vormt als het ware een ‘plus’ op het diploma. Het keuzedeel is dan ook geen onderdeel van de kwalificatie - eis, maar wordt wel op het diploma vermeld.&lt;/p&gt;
+            &lt;h2&gt;Taal en rekenen&lt;/h2&gt;
+&lt;p&gt;De generieke eisen voor taal en rekenen zijn benoemd in het basisdeel. Als sprake is van beroepsspecifieke taal- en rekeneisen is dit aangegeven in de kolom ‘vakkennis en vaardigheden’. Daarnaast kan in de kolom ‘gedrag’ een extra verduidelijking aangegeven zijn hoe deze beroepsspecifieke taal- en rekeneisen worden ingezet in een werkproces.&lt;/p&gt;
+&lt;h2&gt;Verantwoordingsinformatie&lt;/h2&gt;
+&lt;p&gt;Aanvullende (verantwoordings-)informatie bij dit kwalificatiedossier is te vinden op www.kwalificatiesmbo.nl. Deze informatie is geen onderdeel van het kwalificatiedossier.&lt;/p&gt;
+            
+        </labeltext>]]></omschrijving>
+      </inleiding>
+      <basis titel="Basisdeel">
+        <typeringberoepengroep titel="Typering van de beroepengroep">
+          <context>
+            <omschrijving><![CDATA[De pedagogisch werker is breed inzetbaar in een kindercentrum, in de kinderopvang  (kinderdagverblijf, buitenschoolse opvang) of peuterspeelzaal, in een integraal kindcentrum en/of in het onderwijs (basisschool, brede school, speciaal onderwijs, voortgezet onderwijs, MBO). De pedagogisch werker  werkt in het algemeen met een groep kinderen, d.w.z. met ten minste twee kinderen. De pedagogisch werker werkt met kinderen afkomstig uit alle lagen van de bevolking en heeft daardoor te maken met een grote diversiteit aan culturen, leefstijlen en maatschappelijke posities. 
+
+]]></omschrijving>
+          </context>
+          <beroepshouding>
+            <omschrijving><![CDATA[Werken in de sociaal-agogische sector of in het onderwijs betekent direct werken met mensen, in het pedagogisch werk met kinderen, in het onderwijs met leerlingen/studenten. Hierbij speelt de pedagogisch werker als persoon een essentiële rol. Haar* kwaliteiten en persoonlijkheid zijn van doorslaggevend belang bij het aangaan van een professionele relatie en bij het bereiken van de gewenste resultaten. Voor een verantwoorde beroepsuitoefening moet de pedagogisch werker betrokken, empathisch, assertief, representatief en integer zijn. De pedagogisch werker heeft een functie als rolmodel en weet (veelvuldig) inhoud te geven aan haar voorbeeldfunctie.
+De pedagogisch werker biedt geborgenheid en veiligheid, gaat respectvol om met de kinderen**, kan diversiteit hanteren en toont een open houding waardoor ze vraagstukken bespreekbaar maakt. 
+Ze speelt creatief en flexibel in op de wensen en leer- en ontwikkelingsmogelijkheden van het kind en de gegeven situatie, maar treedt vooral creatief (vindingrijk) én handelend op in onverwachte, mogelijk escalerende situaties. Ze straalt rust en stabiliteit uit. 
+Ze is zich ervan bewust dat zij te maken heeft met vertrouwelijke gegevens bestaande uit zowel privacygevoelige als organisatiegevoelige informatie.
+De pedagogisch werker werkt mens- en resultaatgericht, sociaal-communicatief, efficiënt, methodisch, hygiënisch, veilig, kostenbewust, milieubewust en ergonomisch verantwoord. Ze is initiatiefrijk, leergierig en zelfstandig. Ze reflecteert regelmatig op haar beroepsmatig handelen, zodat zij blijft leren van haar werkzaamheden en haar handelingsrepertoire optimaliseert. Zij werkt steeds volgens het beleid en de visie van de organisatie. Ze is flexibel om te kunnen schakelen van de ene situatie naar de andere; van de ene leerstijl naar de andere, van de ene gesprekspartner naar de andere. 
+
+*Overal waar in dit kwalificatiedossier 'zij' of 'haar' staat, wordt ook 'hij' of 'zijn' bedoeld.
+
+**In dit kwalificatiedossier is 'kind' ook te lezen als: leerling, jeugdige, jongere of student.]]></omschrijving>
+          </beroepshouding>
+          <resultaatvanhetberoep>
+            <omschrijving><![CDATA[De pedagogisch werker heeft het kind en/of de groep kinderen in een kindercentrum (kinderdagverblijf, peuterspeelzaal, buitenschoolse opvang) of in het onderwijs in een veilige (leer)omgeving in de ontwikkeling gestimuleerd en de eigenheid van het kind gewaarborgd waardoor elk kind zich optimaal ontwikkelt.  
+]]></omschrijving>
+          </resultaatvanhetberoep>
+        </typeringberoepengroep>
+        <basistaken titel="Beroepsspecifieke onderdelen">
+          <basiskerntaken>
+            <kerntaak nr="966104" titel="Begeleiden van kinderen bij hun ontwikkeling" hoofdstuk="1">
+              <complexiteit><![CDATA[De pedagogisch werker werkt in groepsverband met kinderen, leerlingen of studenten aan hun ontwikkeling en draagt bij aan hun opvoeding. Daarbij onderhoudt ze - afhankelijk van de setting - ook contacten met ouder/vervangende opvoeder. Ze werkt daarbij vooral volgens standaardprocedures en protocollen van de organisatie. Hierbij heeft ze bijvoorbeeld te maken met de grenzen van het werken met protocollen en procedures enerzijds en het respecteren van de eigenheid van het kind anderzijds. De complexiteit van haar werkzaamheden zit voornamelijk in de hectiek die het werken met kinderen met zich meebrengt en het tegelijkertijd werken volgens de richtlijnen en doelstellingen van de organisatie. Zo wordt van haar verwacht dat ze aandacht schenkt aan elk kind en gelijk voor de groep als geheel en kan omgaan met verschillen in culturele waarden, normen en leefstijl. Ook wordt van haar verwacht dat zij kan inspelen op wisselende en onverwachte omstandigheden die direct om een oplossing vragen.]]><complexiteitperprofiel><aanvullend><profiel referentie="966080" /><complexiteit><![CDATA[De gespecialiseerd pedagogisch medewerker beschikt over vaardigheden om vraagstukken op te lossen door combinaties van standaardprocedures toe te passen of door nieuwe oplossingen te bedenken.]]></complexiteit></aanvullend><aanvullend><profiel referentie="966094" /><complexiteit><![CDATA[De onderwijsassistent beschikt over vaardigheden om vraagstukken op te lossen door combinaties van standaardprocedures toe te passen of door nieuwe oplossingen te bedenken.]]></complexiteit></aanvullend></complexiteitperprofiel></complexiteit>
+              <verantwoordelijkheid><![CDATA[De pedagogisch medewerker kinderopvang werkt samen met collega's in een team. Haar werkzaamheden stemt ze af met het team en voert ze zelfstandig uit onder regie van een (functioneel) leidinggevende. Ze is verantwoordelijk voor de kwaliteit van haar eigen werkzaamheden en haar eigen aandeel in de samenwerking in het team. Bij nieuwe of complexe vraagstukken kan de pedagogisch werker terugvallen op haar (functioneel) leidinggevende en op het team. Eindverantwoordelijkheid ligt bij haar leidinggevende.]]><verantwoordelijkheidperprofiel><aanvullend><profiel referentie="966080" /><verantwoordelijkheid><![CDATA[De gespecialiseerd pedagogisch medewerker voert haar werkzaamheden zelfstandig uit. Ze werkt samen met collega's/gelijken, leidinggevende en ouders/vervangende opvoeders.Ze heeft een inhoudelijk aansturende rol ten aanzien van haar collega's in het team. Ze draagt verantwoordelijkheid voor de uitvoering en kwaliteit van haar eigen werkzaamheden. Eindverantwoordelijkheid ligt bij haar leidinggevende.]]></verantwoordelijkheid></aanvullend><aanvullend><profiel referentie="966094" /><verantwoordelijkheid><![CDATA[]]></verantwoordelijkheid></aanvullend></verantwoordelijkheidperprofiel></verantwoordelijkheid>
+              <vakkennisenvaardigheden>
+                <vakkennisenvaardigheden referentie="966000" />
+                <vakkennisenvaardigheden referentie="965983" />
+                <vakkennisenvaardigheden referentie="965979" />
+                <vakkennisenvaardigheden referentie="966018" />
+                <vakkennisenvaardigheden referentie="966019" />
+                <vakkennisenvaardigheden referentie="965998" />
+                <vakkennisenvaardigheden referentie="966003" />
+                <vakkennisenvaardigheden referentie="966008" />
+                <vakkennisenvaardigheden referentie="966016" />
+                <vakkennisenvaardigheden referentie="965996" />
+                <vakkennisenvaardigheden referentie="989081" />
+                <vakkennisenvaardigheden referentie="970273" />
+                <vakkennisenvaardigheden referentie="965973" />
+                <vakkennisenvaardigheden referentie="966046" />
+                <vakkennisenvaardigheden referentie="965962" />
+                <vakkennisenvaardigheden referentie="966062" />
+                <vakkennisenvaardigheden referentie="966042" />
+                <vakkennisenvaardigheden referentie="966066" />
+                <vakkennisenvaardigheden referentie="966050" />
+                <vakkennisenvaardigheden referentie="966060" />
+                <vakkennisenvaardigheden referentie="965972" />
+                <vakkennisenvaardigheden referentie="966043" />
+                <vakkennisenvaardigheden referentie="965974" />
+                <vakkennisenvaardigheden referentie="966058" />
+                <vakkennisenvaardigheden referentie="966064" />
+                <vakkennisenvaardigheden referentie="966044" />
+                <vakkennisenvaardigheden referentie="966039" />
+                <vakkennisenvaardigheden referentie="966065" />
+                <vakkennisenvaardigheden referentie="966048" />
+                <vakkennisenvaardigheden referentie="966069" />
+                <vakkennisenvaardigheden referentie="966045" />
+                <vakkennisenvaardigheden referentie="966061" />
+                <vakkennisenvaardigheden referentie="965969" />
+                <vakkennisenvaardigheden referentie="967585" />
+                <vakkennisenvaardigheden referentie="965970" />
+                <vakkennisenvaardighedenperprofiel>
+                  <aanvullend>
+                    <profiel referentie="966080" />
+                    <vakkennisenvaardighedenonderdelen />
+                  </aanvullend>
+                  <aanvullend>
+                    <profiel referentie="966094" />
+                    <vakkennisenvaardighedenonderdelen />
+                  </aanvullend>
+                </vakkennisenvaardighedenperprofiel>
+                <vakkennisenvaardigheden_met_categorie />
+              </vakkennisenvaardigheden>
+              <basiswerkprocessen>
+                <werkproces nr="966105" titel="Inventariseert behoeften en wensen van het kind" hoofdstuk="1">
+                  <werkprocesomschrijving><![CDATA[De pedagogisch werker verzamelt informatie over het kind door te inventariseren wat de wensen en behoeften van het kind zelf zijn en/of door reeds bekende informatie te verzamelen, bijvoorbeeld door informatie te vragen aan collega's, gegevens uit intake- en oudergesprekken te inventariseren en/of door - met toestemming - het kinddossier te lezen. Ze vult haar gegevens aan met informatie die ze verzamelt door het kind in verschillende situaties te observeren. De observatiegegevens legt ze schriftelijk vast en ze rapporteert hierover aan haar leidinggevende en/of het team. 
+  
+
+	
+]]><werkprocesomschrijvingperprofiel /></werkprocesomschrijving>
+                  <werkprocesresultaat><![CDATA[De ontwikkeling van het kind en zijn wensen en behoeften met betrekking tot de begeleiding zijn duidelijk vastgelegd. 
+
+]]><werkprocesresultaatperprofiel /></werkprocesresultaat>
+                  <werkprocesgedrag><![CDATA[De pedagogisch werker:
+- creëert vertrouwen;
+- is tactvol en empathisch bij het bespreken van zaken die mogelijk schaamtevol en moeilijk bespreekbaar zijn;
+- inventariseert op methodische wijze de ontwikkeling, wensen en behoeften van het kind; 
+- observeert zorgvuldig, methodisch en volgens geldende protocollen en procedures;
+- registreert haar waarneming nauwgezet en accuraat;
+- past de interactievaardigheden 'sensitieve responsiteit', respect voor autonomie' en 'praten en uitleggen' effectief toe.
+ 
+]]><werkprocesgedragperprofiel /></werkprocesgedrag>
+                  <werkprocescompetenties>
+                    <competentie referentie="3089" />
+                    <competentie referentie="3097" />
+                    <competentie referentie="3101" />
+                    <competentie referentie="3103" />
+                    <competentie referentie="3087" />
+                    <werkprocescompetentiesperprofiel />
+                  </werkprocescompetenties>
+                </werkproces>
+                <werkproces nr="966106" titel="Bereidt de uitvoering van activiteiten voor" hoofdstuk="2">
+                  <werkprocesomschrijving><![CDATA[De pedagogisch werker bereidt de uitvoering van activiteiten voor. Zij bedenkt wat voor soort activiteit ze wil uitvoeren, bijvoorbeeld een kunstzinnige, muzische, creatieve of op de natuur gerichte activiteit dan wel mogelijkheden bieden voor spontaan spel, passend bij de behoeften en ontwikkeling van het kind en/of de groep en/of de situatie. Ze bedenkt welke materialen ze daarbij wil gebruiken en verzamelt deze. Indien nodig bewerkt ze materialen voor zodat ze klaar zijn voor gebruik door de kinderen. Ze maakt een planning voor de uitvoering van de activiteit.]]><werkprocesomschrijvingperprofiel /></werkprocesomschrijving>
+                  <werkprocesresultaat><![CDATA[De activiteiten zijn voorbereid.     
+]]><werkprocesresultaatperprofiel /></werkprocesresultaat>
+                  <werkprocesgedrag><![CDATA[De pedagogisch werker:
+- regelt ruim van tevoren activiteiten;
+- kiest passende materialen;
+- schat de benodigde tijd juist in;
+- houdt effectief rekening met randvoorwaarden en onvoorziene omstandigheden. 
+]]><werkprocesgedragperprofiel /></werkprocesgedrag>
+                  <werkprocescompetenties>
+                    <competentie referentie="3095" />
+                    <competentie referentie="3100" />
+                    <werkprocescompetentiesperprofiel />
+                  </werkprocescompetenties>
+                </werkproces>
+                <werkproces nr="966107" titel="Richt ruimten in ter voorbereiding op activiteiten " hoofdstuk="3">
+                  <werkprocesomschrijving><![CDATA[De pedagogisch werker zorgt ter voorbereiding op activiteiten voor het inrichten van de ruimte alsook voor de materialen die daarbij nodig zijn. Zij beoordeelt of de ruimte en de aanwezige materialen geschikt zijn voor de gebruiksdoelen: of ze uitdagend zijn om de gestelde ontwikkelingsdoelen van kind/kinderen te gaan realiseren, veilig zijn en/of geborgenheid bieden. Ze maakt de ruimte geschikt en verzamelt de overig gewenste materialen.  
+]]><werkprocesomschrijvingperprofiel /></werkprocesomschrijving>
+                  <werkprocesresultaat><![CDATA[De ruimte en de materialen zijn geschikt voor het uitvoeren van de beoogde activiteiten, zijn passend voor de gestelde ontwikkelingsdoelen van het kind of de groep, en voldoen aan geldende normen en richtlijnen. ]]><werkprocesresultaatperprofiel /></werkprocesresultaat>
+                  <werkprocesgedrag><![CDATA[De pedagogisch werker:
+- kiest passende materialen afgestemd op het doel;
+- toetst ruimte en materialen op vastgestelde criteria; 
+- maakt verantwoord en doeltreffend gebruik van schoonmaakmiddelen en materialen;
+- werkt veilig en gezond overeenkomstig de voorschriften. ]]><werkprocesgedragperprofiel /></werkprocesgedrag>
+                  <werkprocescompetenties>
+                    <competentie referentie="3095" />
+                    <competentie referentie="3103" />
+                    <competentie referentie="3096" />
+                    <werkprocescompetentiesperprofiel />
+                  </werkprocescompetenties>
+                </werkproces>
+                <werkproces nr="966108" titel="Stemt de werkzaamheden af met betrokkenen" hoofdstuk="4">
+                  <werkprocesomschrijving><![CDATA[De pedagogisch werker stemt af en neemt deel aan voor de afstemming relevante overlegvormen. Zij stemt de werkzaamheden af met collega’s of anderszins betrokkenen (vanuit andere disciplines en (aanverwante) instellingen). Daarbij bespreekt zij de verdeling van de taken. Zij geeft richting aan overleggen om zowel overeenstemming als voldoende steun voor besluiten te verkrijgen. Zij houdt rekening met mogelijkheden, eisen, prioriteiten, wensen, behoeftes en verwachtingen van betrokkenen en de daaruit voortkomende consequenties. Met behulp van de uitgewisselde informatie vormt zij een compleet beeld van de dienstverlening. Zij past haar aanpak aan als blijkt dat dit nodig is. Daarnaast bespreekt zij eventuele knelpunten in de werkzaamheden en zoekt naar mogelijkheden om deze op te lossen. ]]><werkprocesomschrijvingperprofiel /></werkprocesomschrijving>
+                  <werkprocesresultaat><![CDATA[Werkzaamheden zijn onderling afgestemd waardoor kwaliteit, continuïteit en eenduidigheid gewaarborgd zijn.  ]]><werkprocesresultaatperprofiel /></werkprocesresultaat>
+                  <werkprocesgedrag><![CDATA[De pedagogisch werker:
+- voert tijdig en regelmatig overleg met alle betrokkenen;
+- staat open voor meningen, ideeën en feedback van anderen; 
+- formuleert duidelijke en haalbare doelen;
+- neemt actief en effectief deel aan het overleg/de gesprekken/de discussies;
+- realiseert in gesprekken en tijdens overleg meerdere gespreksdoelen; 
+- houdt rekening met de haalbaarheid van werkzaamheden in tijd en kwaliteit; 
+- bouwt professioneel aan de onderlinge band en samenwerking.               ]]><werkprocesgedragperprofiel /></werkprocesgedrag>
+                  <werkprocescompetenties>
+                    <competentie referentie="3088" />
+                    <competentie referentie="3100" />
+                    <competentie referentie="3091" />
+                    <werkprocescompetentiesperprofiel />
+                  </werkprocescompetenties>
+                </werkproces>
+                <werkproces nr="966109" titel="Stimuleert de ontwikkeling door het aanbieden van activiteiten" hoofdstuk="5">
+                  <werkprocesomschrijving><![CDATA[De pedagogisch werker biedt het kind ontwikkelingsgerichte activiteiten aan, gericht op de reguliere/gemiddelde motorische, cognitieve en sociaal-emotionele ontwikkeling van het kind. Ze maakt daarbij gebruik van speel-, spel-, sport- en/of ontwikkelingsmaterialen. Zij voert de activiteiten uit en begeleidt en stimuleert individuele kinderen of een groep(je) kinderen doelgericht bij de uitvoering van de activiteiten. Bij het voorlezen bijvoorbeeld betrekt zij de kinderen actief bij het verhaal en lokt zij reacties uit. Zij zet de taal in als gerichte interventie om (ook) de taal-denkontwikkeling te stimuleren. Ze is daarbij alert op kansen die zich spontaan voordoen om de ontwikkeling te stimuleren en benut deze. Ze signaleert voortgang en/of afwijkingen in de ontwikkeling van het kind bij de uitvoering van de ontwikkelingsgerichte activiteiten. 
+
+]]><werkprocesomschrijvingperprofiel /></werkprocesomschrijving>
+                  <werkprocesresultaat><![CDATA[De kinderen zijn in hun ontwikkeling gestimuleerd door het uitvoeren van activiteiten.
+
+]]><werkprocesresultaatperprofiel /></werkprocesresultaat>
+                  <werkprocesgedrag><![CDATA[De pedagogisch werker:
+- gebruikt materialen effectief en vindingrijk;
+- schakelt snel tussen de verschillende kinderen en van het individuele kind naar de groep;
+- speelt flexibel in op veranderingen in de situatie;
+- toont voorbeeldgedrag in correct taalgebruik (woordenschat, synoniemen, zinsbouw, zinsconstructie, uitspraak, intonatie);
+- past bij het voorlezen wisselende intonatie en stiltemomenten op een aantrekkelijke wijze toe;
+- past interactievaardigheden effectief toe: respect voor autonomie, structureren en grenzen stellen, praten en uitleggen en ontwikkelingsstimulering. 
+
+]]><werkprocesgedragperprofiel /></werkprocesgedrag>
+                  <werkprocescompetenties>
+                    <competentie referentie="3086" />
+                    <competentie referentie="3094" />
+                    <competentie referentie="3095" />
+                    <competentie referentie="3104" />
+                    <werkprocescompetentiesperprofiel />
+                  </werkprocescompetenties>
+                </werkproces>
+                <werkproces nr="966110" titel="Ondersteunt bij verzorgende taken " hoofdstuk="6">
+                  <werkprocesomschrijving><![CDATA[De pedagogisch werker begeleidt kinderen om zelfredzaam te worden op het gebied van persoonlijke verzorging, toiletgang, aan- en uitkleden, hygiëne, gezond gedrag, voeding en handelen bij kleine ongevallen. Ze geeft het kind informatie en/of instructie en stimuleert het kind tot zo zelfstandig mogelijk functioneren. Ze past daarbij verschillende manieren toe om kennis en vaardigheden over te dragen aan het kind/de kinderen. Ze stimuleert het kind de persoonlijke verzorging zo zelfstandig mogelijk uit te voeren en respecteert daarbij verschillen tussen kinderen. Ze creëert en grijpt kansen om de seksuele ontwikkeling van kinderen bespreekbaar te maken en bewaakt daarbij waarden en normen. Ze past de verzorgende taken aan het kind of de groep aan. Ze signaleert bijzonderheden, bijvoorbeeld symptomen van de meest voorkomende kinderziekten, en informeert collega's, leidinggevende en de ouders/verzorgers over voorvallen en gesignaleerde bijzonderheden. In voorkomende situaties verleent ze eerste hulp bij kleine ongevallen.  ]]><werkprocesomschrijvingperprofiel /></werkprocesomschrijving>
+                  <werkprocesresultaat><![CDATA[Het kind is gestimuleerd tot zelfredzaamheid ten aanzien van zijn persoonlijke verzorging. Bij ziekte en ongevallen is adequaat gehandeld en zijn betrokkenen geïnformeerd. ]]><werkprocesresultaatperprofiel /></werkprocesresultaat>
+                  <werkprocesgedrag><![CDATA[De pedagogisch werker:
+- gaat discreet om met lichaamscontact tijdens de persoonlijke verzorging;
+- respecteert vertrouwelijkheid;
+- past interactievaardigheden effectief toe: praten en uitleggen, ontwikkelingssstimulering, sensitieve responsiteit en respect voor autonomie effectief toe;
+- houdt zich aan geldende procedures en richtlijnen, waaronder het 'vier-ogen-principe'; 
+- reageert snel en effectief op signalen van behoefte aan verzorging; 
+- handelt snel en effectief in geval van (signalen van) onveiligheid van de kinderen.
+]]><werkprocesgedragperprofiel /></werkprocesgedrag>
+                  <werkprocescompetenties>
+                    <competentie referentie="3087" />
+                    <competentie referentie="3089" />
+                    <competentie referentie="3101" />
+                    <competentie referentie="3103" />
+                    <competentie referentie="3094" />
+                    <competentie referentie="3086" />
+                    <competentie referentie="3104" />
+                    <werkprocescompetentiesperprofiel />
+                  </werkprocescompetenties>
+                </werkproces>
+                <werkproces nr="966111" titel="Zorgt voor een veilig pedagogisch klimaat " hoofdstuk="7">
+                  <werkprocesomschrijving><![CDATA[De pedagogisch werker zorgt voor een optimaal groepsklimaat door een positieve en enthousiaste houding te tonen, aandacht te schenken aan elk individu en aan de groep en door te zorgen voor een aangename aankleding van de verblijfsruimte. Ze biedt structuur en (dag)ritme. Ze bevordert de positieve sfeer door het kiezen van activiteiten die daaraan bijdragen. Ze houdt zicht op de kinderen in de groep en stimuleert positief gedrag. Ze signaleert problemen in de interactie tussen kinderen, biedt emotionele steun en begeleidt de kinderen op een pedagogische manier om te komen tot 'oplossingen'. Ze bespreekt waarden en normen met de kinderen. Ze handhaaft orde, reageert op agressie en treedt regelend op bij in de groep ongewenst gedrag. Ze signaleert wanneer kinderen zorgwekkend gedrag vertonen en bespreekt dit met collega's. Ze zorgt dat de gang van zaken volgens verwachting verloopt en let daarbij op het welbevinden van elk kind, op veiligheid en onregelmatigheden.]]><werkprocesomschrijvingperprofiel /></werkprocesomschrijving>
+                  <werkprocesresultaat><![CDATA[Een groep waarin het kind veilig is en zich thuis voelt en waarin kinderen prettig met elkaar omgaan.
+
+
+]]><werkprocesresultaatperprofiel /></werkprocesresultaat>
+                  <werkprocesgedrag><![CDATA[De pedagogisch werker:
+- behandelt de kinderen rechtvaardig;
+- laat elk kind in de groep tot zijn recht komen;
+- toont overwicht bij het handhaven van afspraken en regels;
+- toont rust en zelfvertrouwen - ook in onzekere en onduidelijke situaties;
+- onderneemt tijdig doeltreffende actie op vermoedens en signalen van pesten, kindermishandeling en seksueel misbruik;
+- past interactievaardigheden effectief toe: sensitieve responsiviteit, respect voor autonomie, structureren en grenzen, praten en uitleggen, ontwikkelingsstimulering, begeleiden van interacties.]]><werkprocesgedragperprofiel /></werkprocesgedrag>
+                  <werkprocescompetenties>
+                    <competentie referentie="3085" />
+                    <competentie referentie="3087" />
+                    <competentie referentie="3104" />
+                    <competentie referentie="3086" />
+                    <competentie referentie="3103" />
+                    <competentie referentie="3094" />
+                    <werkprocescompetentiesperprofiel />
+                  </werkprocescompetenties>
+                </werkproces>
+                <werkproces nr="966112" titel="Evalueert de werkzaamheden " hoofdstuk="8">
+                  <werkprocesomschrijving><![CDATA[De pedagogisch werker evalueert, periodiek en aan het eind van het uitvoeringstraject, de werkzaamheden/dienstverlening, zowel naar proces als naar resultaat. Ze verzamelt relevante gegevens over  de uitvoering en de behaalde resultaten. Ze analyseert deze gegevens en reflecteert op haar werkwijze.]]><werkprocesomschrijvingperprofiel><aanvullend><profiel referentie="966080" /><omschrijving><![CDATA[De gespecialiseerd medewerker bespreekt de gegevens uit de evaluatie met kinderen en ouders/vervangende opvoeders alsook met het team en toetst de gegevens op betrouwbaarheid, volledigheid en relevantie. Op basis daarvan trekt zij conclusies over voortgang en/of resultaat van de werkzaamheden / dienstverlening en schrijft ze een evaluatieverslag. Daarbij doet zij voorstellen tot verbetering. Het evaluatieverslag schrijft en verwerkt ze overeenkomstig de richtlijnen in de organisatie.]]></omschrijving></aanvullend><aanvullend><profiel referentie="966094" /><omschrijving><![CDATA[De onderwijsassistent bespreekt de gegevens uit de evaluatie met kinderen alsook met  de leraar of het lerarenteam en toetst de gegevens op betrouwbaarheid, volledigheid en relevantie. Op basis daarvan trekt zij conclusies over voortgang en/of resultaat van de werkzaamheden en schrijft ze een evaluatieverslag. Daarbij doet zij voorstellen tot verbetering. Het evaluatieverslag schrijft en verwerkt ze overeenkomstig de richtlijnen in de organisatie.]]></omschrijving></aanvullend></werkprocesomschrijvingperprofiel></werkprocesomschrijving>
+                  <werkprocesresultaat><![CDATA[De pedagogisch werker heeft relevante evaluatiegegevens verzameld en heeft gereflecteerd op haar werkwijze. De evaluatie levert input voor verbetering van de werkzaamheden en de dienstverlening. 
+]]><werkprocesresultaatperprofiel><aanvullend><profiel referentie="966080" /><omschrijving><![CDATA[Er zijn voorstellen vastgelegd voor het (eventueel) bijstellen van de werkzaamheden en/of de dienstverlening. Er is een inhoudelijk juist evaluatieverslag dat verwerkt is volgens geldende richtlijnen.]]></omschrijving></aanvullend><aanvullend><profiel referentie="966094" /><omschrijving><![CDATA[Er zijn voorstellen vastgelegd voor het (eventueel) bijstellen van de werkzaamheden. Er is een inhoudelijk juist evaluatieverslag dat verwerkt is volgens geldende richtlijnen.]]></omschrijving></aanvullend></werkprocesresultaatperprofiel></werkprocesresultaat>
+                  <werkprocesgedrag><![CDATA[De pedagogisch werker:
+- kiest passende methode(n) om evaluatiegegevens te verzamelen;
+- verzamelt gegevens actief, doelgericht en met gebruikmaking van de juiste taalvariant;
+- toont interesse, begrip en interculturele sensitiviteit voor de standpunten van anderen;
+- formuleert scherp en kernachtig;
+- vormt een reëel beeld van haar eigen werkwijze;
+- trekt uit gegevens de belangrijkste conclusies;
+- registreert relevante gegevens op de voorgeschreven wijze.
+]]><werkprocesgedragperprofiel><aanvullend><profiel referentie="966080" /><omschrijving><![CDATA[- beoordeelt ‘conclusies’ op relevantie en prioriteit;
+- formuleert realistische voorstellen tot verbetering/verandering;
+- schrijft een inhoudelijk juist en gestructureerd evaluatieverslag. ]]></omschrijving></aanvullend><aanvullend><profiel referentie="966094" /><omschrijving><![CDATA[- beoordeelt ‘conclusies’ op relevantie en prioriteit;
+- formuleert realistische voorstellen tot verbetering/verandering;
+- schrijft een inhoudelijk juist en gestructureerd evaluatieverslag.
+]]></omschrijving></aanvullend></werkprocesgedragperprofiel></werkprocesgedrag>
+                  <werkprocescompetenties>
+                    <competentie referentie="3093" />
+                    <competentie referentie="3096" />
+                    <competentie referentie="3087" />
+                    <competentie referentie="3088" />
+                    <competentie referentie="3097" />
+                    <werkprocescompetentiesperprofiel>
+                      <aanvullend>
+                        <profiel referentie="966080" />
+                        <omschrijving>
+                          <competentie referentie="3093" />
+                          <competentie referentie="3096" />
+                        </omschrijving>
+                      </aanvullend>
+                      <aanvullend>
+                        <profiel referentie="966094" />
+                        <omschrijving>
+                          <competentie referentie="3093" />
+                          <competentie referentie="3096" />
+                        </omschrijving>
+                      </aanvullend>
+                    </werkprocescompetentiesperprofiel>
+                  </werkprocescompetenties>
+                </werkproces>
+              </basiswerkprocessen>
+            </kerntaak>
+            <kerntaak nr="966113" titel="Werken aan kwaliteit en deskundigheid" hoofdstuk="2">
+              <complexiteit><![CDATA[De pedagogisch werker verricht werkzaamheden ten behoeve van de kwaliteit van de dienstverlening en haar eigen deskundigheid. Ze past daarbij algemene beroepsvaardigheden toe als communicatievaardigheden, rapportagevaardigheden, evaluatie- en reflectievaardigheden. Bij het uitvoeren van de organisatiegebonden taken werkt zij aan de hand van standaardprocessen en procedures.]]><complexiteitperprofiel><aanvullend><profiel referentie="966072" /><complexiteit><![CDATA[De pedagogisch medewerker kinderopvang maakt gebruik van algemene kennis van het werkveld, de organisatie en kwaliteitszorg. ]]></complexiteit></aanvullend><aanvullend><profiel referentie="966080" /><complexiteit><![CDATA[De gespecialiseerd pedagogisch medewerker maakt gebruik van brede en specialistische kennis van het werkveld, de organisatie en kwaliteitszorg. ]]></complexiteit></aanvullend><aanvullend><profiel referentie="966094" /><complexiteit><![CDATA[De onderwijsassistent maakt gebruik van brede en specialistische kennis van het werkveld, de organisatie en kwaliteitszorg. ]]></complexiteit></aanvullend></complexiteitperprofiel></complexiteit>
+              <verantwoordelijkheid><![CDATA[De pedagogisch werker voert haar taken zelfstandig uit en draagt daarvoor zelf verantwoordelijkheid. Daarnaast werkt ze samen met collega's in een team. Ze is verantwoordelijk voor haar aandeel in de samenwerking. Eindverantwoordelijkheid ligt bij haar (functioneel) leidinggevende.]]><verantwoordelijkheidperprofiel><aanvullend><profiel referentie="966072" /><verantwoordelijkheid><![CDATA[]]></verantwoordelijkheid></aanvullend><aanvullend><profiel referentie="966080" /><verantwoordelijkheid><![CDATA[De gespecialiseerd pedagogisch medewerker werkt ook samen met collega's buiten het team, bijvoorbeeld een kwaliteitscoördinator. Ze draagt daarbij verantwoordelijkheid voor de uitvoering van haar eigen taken of haar eigen bijdrage. 
+In voorkomende situaties heeft de gespecialiseerd pedagogisch medewerker de regie op en verantwoordelijkheid voor de uitvoering van organisatiegebonden taken door collega’s. 
+]]></verantwoordelijkheid></aanvullend><aanvullend><profiel referentie="966094" /><verantwoordelijkheid><![CDATA[]]></verantwoordelijkheid></aanvullend></verantwoordelijkheidperprofiel></verantwoordelijkheid>
+              <vakkennisenvaardigheden>
+                <vakkennisenvaardigheden referentie="1004367" />
+                <vakkennisenvaardigheden referentie="966055" />
+                <vakkennisenvaardigheden referentie="965973" />
+                <vakkennisenvaardigheden referentie="966063" />
+                <vakkennisenvaardigheden referentie="965974" />
+                <vakkennisenvaardighedenperprofiel>
+                  <aanvullend>
+                    <profiel referentie="966072" />
+                    <vakkennisenvaardighedenonderdelen>
+                      <vakkennisenvaardigheden referentie="965993" />
+                      <vakkennisenvaardigheden referentie="965982" />
+                      <vakkennisenvaardigheden referentie="966016" />
+                    </vakkennisenvaardighedenonderdelen>
+                  </aanvullend>
+                  <aanvullend>
+                    <profiel referentie="966080" />
+                    <vakkennisenvaardighedenonderdelen>
+                      <vakkennisenvaardigheden referentie="965990" />
+                      <vakkennisenvaardigheden referentie="966029" />
+                      <vakkennisenvaardigheden referentie="966027" />
+                    </vakkennisenvaardighedenonderdelen>
+                  </aanvullend>
+                  <aanvullend>
+                    <profiel referentie="966094" />
+                    <vakkennisenvaardighedenonderdelen>
+                      <vakkennisenvaardigheden referentie="966029" />
+                      <vakkennisenvaardigheden referentie="965991" />
+                      <vakkennisenvaardigheden referentie="966027" />
+                    </vakkennisenvaardighedenonderdelen>
+                  </aanvullend>
+                </vakkennisenvaardighedenperprofiel>
+                <vakkennisenvaardigheden_met_categorie />
+              </vakkennisenvaardigheden>
+              <basiswerkprocessen>
+                <werkproces nr="966114" titel="Werkt aan de eigen deskundigheid" hoofdstuk="1">
+                  <werkprocesomschrijving><![CDATA[De pedagogisch werker werkt aan haar eigen deskundigheid. Zij zorgt ervoor dat zij op de hoogte blijft van maatschappelijke, technologische en vakinhoudelijke ontwikkelingen. Zij leest daarvoor vakliteratuur en volgt bijscholingen. Ze reflecteert op haar eigen functioneren, vraagt om feedback over haar eigen functioneren en geeft feedback aan anderen. Ze stelt samen met haar leidinggevende een persoonlijk ontwikkelplan op en onderneemt stappen om vakkennis, vaardigheden en beroepshouding te  verbeteren. 
+Zij zorgt ervoor dat ze op de hoogte is van actuele wet- en regelgeving m.b.t. de beroepsuitoefening en van de actuele visie op pedagogisch werk. Ze neemt deel aan inhoudelijke discussies met collega's en anderen over beroepstaken en werkzaamheden. Zo ontwikkelt zij zichzelf en levert zij een bijdrage aan de ontwikkeling van de beroepsuitoefening. Tevens draagt ze de beroeps- en organisatievisie uit naar anderen.             ]]><werkprocesomschrijvingperprofiel /></werkprocesomschrijving>
+                  <werkprocesresultaat><![CDATA[De pedagogisch werker heeft haar persoonlijk ontwikkelplan uitgevoerd waardoor zij haar deskundigheid verder ontwikkeld heeft. Zij is op de hoogte van actuele wet- en regelgeving en de actuele visie op pedagogisch werk. Zij heeft haar deskundigheid gedeeld met collega's.
+]]><werkprocesresultaatperprofiel /></werkprocesresultaat>
+                  <werkprocesgedrag><![CDATA[De pedagogisch werker:
+-  haalt betekenis uit teksten met hoge informatiedichtheid: zowel mondeling als schriftelijk;
+-  draagt eigen kennis en expertise begrijpelijk over; 
+-  gebruikt passend taal- en woordgebruik;
+-  gebruikt feedback om zich verder te ontwikkelen.
+]]><werkprocesgedragperprofiel /></werkprocesgedrag>
+                  <werkprocescompetenties>
+                    <competentie referentie="3094" />
+                    <competentie referentie="3099" />
+                    <competentie referentie="3093" />
+                    <werkprocescompetentiesperprofiel />
+                  </werkprocescompetenties>
+                </werkproces>
+                <werkproces nr="966115" titel="Werkt aan het bewaken en bevorderen van kwaliteitszorg" hoofdstuk="2">
+                  <werkprocesomschrijving><![CDATA[De pedagogisch werker werkt mee aan het verbeteren van de kwaliteit van de beroepstaken en werkzaamheden. Dat doet zij door bijvoorbeeld te participeren in ontwikkel- of intervisiegroepen en door haar kennis van het vakgebied in te zetten bij verbetertrajecten. Zij let op de kwaliteit van haar werkzaamheden. Zij signaleert en meldt knelpunten. ]]><werkprocesomschrijvingperprofiel><aanvullend><profiel referentie="966080" /><omschrijving><![CDATA[Ze draagt eraan bij dat anderen zich houden aan de protocollen gericht op kwaliteitszorg.]]></omschrijving></aanvullend><aanvullend><profiel referentie="966094" /><omschrijving><![CDATA[Ze draagt eraan bij dat anderen zich houden aan de protocollen gericht op kwaliteitszorg.]]></omschrijving></aanvullend></werkprocesomschrijvingperprofiel></werkprocesomschrijving>
+                  <werkprocesresultaat><![CDATA[De pedagogisch werker heeft vanuit haar eigen deskundigheid een bijdrage geleverd aan het bevorderen en bewaken van de kwaliteitszorg.]]><werkprocesresultaatperprofiel><aanvullend><profiel referentie="966080" /><omschrijving><![CDATA[]]></omschrijving></aanvullend><aanvullend><profiel referentie="966094" /><omschrijving><![CDATA[]]></omschrijving></aanvullend></werkprocesresultaatperprofiel></werkprocesresultaat>
+                  <werkprocesgedrag><![CDATA[De pedagogisch werker:
+-  is zorgvuldig in het volgen van voorgeschreven protocollen, procedures en wettelijke richtlijnen;
+-  zet functioneel de eigen expertise in voor het verbeteren van de kwaliteit van de werkzaamheden;
+-  geeft actief gesignaleerde tekortkomingen in werkwijze door aan de juiste persoon.  
+
+
+
+]]><werkprocesgedragperprofiel><aanvullend><profiel referentie="966080" /><omschrijving><![CDATA[- motiveert anderen om zich te houden aan de voorgeschreven protocollen rondom kwaliteitsverbetering;
+- brengt tijdig knelpunten naar voren;
+- brengt verbetervoorstellen met overtuigingskracht.]]></omschrijving></aanvullend><aanvullend><profiel referentie="966094" /><omschrijving><![CDATA[- motiveert anderen om zich te houden aan de voorgeschreven protocollen rondom kwaliteitszorg;
+- brengt tijdig knelpunten naar voren;
+- brengt verbetervoorstellen met overtuigingskracht.]]></omschrijving></aanvullend></werkprocesgedragperprofiel></werkprocesgedrag>
+                  <werkprocescompetenties>
+                    <competentie referentie="3103" />
+                    <competentie referentie="3102" />
+                    <werkprocescompetentiesperprofiel>
+                      <aanvullend>
+                        <profiel referentie="966080" />
+                        <omschrijving>
+                          <competentie referentie="3091" />
+                        </omschrijving>
+                      </aanvullend>
+                      <aanvullend>
+                        <profiel referentie="966094" />
+                        <omschrijving>
+                          <competentie referentie="3091" />
+                          <competentie referentie="3103" />
+                        </omschrijving>
+                      </aanvullend>
+                    </werkprocescompetentiesperprofiel>
+                  </werkprocescompetenties>
+                </werkproces>
+              </basiswerkprocessen>
+            </kerntaak>
+          </basiskerntaken>
+          <generieke_onderdelen titel="Generieke onderdelen">
+            <omschrijving><![CDATA[<labeltext>
+                            &lt;h1&gt;Generieke onderdelen&lt;/h1&gt;
+&lt;p&gt;Elke kwalificatie kent - naast (beroepsgerichte) specifieke kwalificatieonderdelen - ook generieke kwalificatieonderdelen.&lt;/p&gt;
+&lt;h2&gt;Nederlandse taal&lt;/h2&gt;
+&lt;p&gt;Van elke kwalificatie in dit kwalificatiedossier maakt het generieke kwalificatieonderdeel Nederlandse taal deel uit. De referentieniveaus en de kwalificatie - eisen voor dit generieke onderdeel zijn opgenomen in bijlage 1 bij het Besluit referentieniveaus Nederlandse taal en rekenen. Deze bijlage is te vinden op www.kwalificatiesmbo.nl en vormt een integraal onderdeel van het kwalificatiedossier.&lt;/p&gt;
+Het betreft de volgende referentieniveaus:
+&lt;br&gt;voor entreekwalificaties en voor kwalificaties op niveau 2 en 3: 2F;
+&lt;br&gt;voor kwalificaties op niveau 4: 3F.
+&lt;h2&gt;Rekenen&lt;/h2&gt;
+&lt;p&gt;Van elke kwalificatie in dit kwalificatiedossier maakt het generieke kwalificatieonderdeel rekenen deel uit. De referentieniveaus en de kwalificatie - eisen voor dit generieke onderdeel zijn opgenomen in bijlage 2 bij het Besluit referentieniveaus Nederlandse taal en rekenen. Deze bijlage is te vinden op www.kwalificatiesmbo.nl en vormt een integraal onderdeel van het kwalificatiedossier.&lt;/p&gt;
+Het betreft de volgende referentieniveaus:
+&lt;br&gt;voor entreekwalificaties en voor kwalificaties op niveau 2 en 3: 2F;
+&lt;br&gt;voor kwalificaties op niveau 4: 3F.
+&lt;h2&gt;Loopbaan en burgerschap&lt;/h2&gt;
+&lt;p&gt;Van elke kwalificatie in dit kwalificatiedossier maakt het generieke kwalificatieonderdeel loopbaan en burgerschap deel uit. De kwalificatie - eisen voor dit generieke onderdeel zijn opgenomen in bijlage 1 bij het Examen- en kwalificatiebesluit beroepsopleidingen WEB. Deze bijlage is te vinden op www.kwalificatiesmbo.nl en vormt een integraal onderdeel van het kwalificatiedossier.&lt;/p&gt;
+&lt;h2&gt;Engels (alleen voor niveau 4)&lt;/h2&gt;
+&lt;p&gt;Van elke kwalificatie op mbo niveau 4 in dit kwalificatiedossier maakt het generieke kwalificatieonderdeel Engels deel uit. Op grond van artikel 17a van het Examen- en kwalificatiebesluit beroepsopleidingen WEB zijn de referentieniveaus en de kwalificatie - eisen voor dit generieke onderdeel opgenomen in bijlage 2 bij dit besluit. Deze bijlage is te vinden op www.kwalificatiesmbo.nl en vormt een integraal onderdeel van het kwalificatiedossier. &lt;/p&gt;
+Het betreft de volgende referentieniveaus:
+&lt;br&gt;lezen en luisteren: B1;
+&lt;br&gt;schrijven, spreken en gesprekken voeren: A2.
+    
+        </labeltext>]]></omschrijving>
+          </generieke_onderdelen>
+        </basistaken>
+      </basis>
+      <profielen titel="Profieldeel">
+        <profiel nr="966072" titel="Pedagogisch medewerker kinderopvang" hoofdstuk="1" niveau="3" beroepsgroep="Welzijn">
+          <omschrijving>
+            <typeringvanhetberoep><![CDATA[De pedagogisch medewerker kinderopvang werkt binnen een (integraal) kindercentrum waar diensten als kinderopvang, buitenschoolse opvang en/of peuterspeelzaalwerk worden aangeboden. Typerend voor de pedagogisch medewerker kinderopvang is dat zij voortdurend gebruik maakt van taal om de taal-denkontwikkeling van kinderen te stimuleren. Resultaat van het handelen van de pedagogisch medewerker is dat zij een veilige, vertrouwde omgeving voor opvoeding en ontwikkeling van kinderen creëert, waarbij ze zorgt voor een balans tussen rust en structuur enerzijds en uitdaging, activiteiten en (vrij) spel anderzijds.]]></typeringvanhetberoep>
+            <wettelijkeberoepsvereisten>Nee</wettelijkeberoepsvereisten>
+            <toelichtingwettelijkeberoepsvereisten><![CDATA[]]></toelichtingwettelijkeberoepsvereisten>
+            <bronwettelijkeberoepsvereisten></bronwettelijkeberoepsvereisten>
+            <certificaten />
+            <sbu>4800</sbu>
+            <soortopleiding>vakopleiding</soortopleiding>
+            <instellingendieaanmogenbieden />
+          </omschrijving>
+          <creboinformatie>
+            <crebo ministerie="OCW" prijsfactor="1,10" Geldig_vanaf="01-08-2015" Datum_einde_instroom="" Datum_einde_opleiding="">25486</crebo>
+          </creboinformatie>
+          <profielkerntaken>
+            <kerntaak nr="966073" titel="Opvoeden en ontwikkelen van het kind/de kinderen in de kinderopvang" hoofdstuk="1">
+              <complexiteit><![CDATA[De pedagogisch medewerker biedt de kinderen opvang en zorg gedurende de dag of delen van de dag en biedt een stimulerende omgeving voor de ontwikkeling. Ze onderhoudt daarnaast contacten met de ouders/vervangende opvoeders. Ze maakt daarbij gebruik van beroepsmatige kennis van opvoeden en ontwikkelen van kinderen in groepsverband en past daarbij beroepsspecifieke begeleidingsvaardigheden toe, alsook vaardigheden om speel- spel en ontwikkelingsactiviteiten uit te voeren met kinderen. Ze werkt vooral volgens standaardprocedures en volgens protocollen van de organisatie. Daarbij moet ze om kunnen gaan van de 'grenzen' van protocollen en procedures in de begeleiding van kinderen, bijvoorbeeld als het gaat om het respecteren van de eigenheid van het kind. De complexiteit van haar werkzaamheden zit voornamelijk in de hectiek die het werken met kinderen met zich mee brengt en het tegelijkertijd werken volgens de richtlijnen en doelstellingen van de organisatie. Zo wordt van haar verwacht dat ze aandacht schenkt aan elk kind, tegelijk aandacht heeft voor de groep als geheel en kan omgaan met verschillen in culturele waarden, normen en leefstijl.
+]]></complexiteit>
+              <verantwoordelijkheid><![CDATA[De pedagogisch medewerker kinderopvang werkt samen met collega's in een team. Haar werkzaamheden stemt ze af met het team en voert ze zelfstandig uit onder regie van een (functioneel) leidinggevende. Ze is verantwoordelijk voor de kwaliteit van haar eigen werkzaamheden en haar eigen aandeel in de samenwerking in het team. Eindverantwoordelijkheid ligt bij haar leidinggevende.]]></verantwoordelijkheid>
+              <vakkennisenvaardigheden>
+                <vakkennisenvaardigheden referentie="965993" />
+                <vakkennisenvaardigheden referentie="966010" />
+                <vakkennisenvaardigheden referentie="966005" />
+                <vakkennisenvaardigheden referentie="975526" />
+                <vakkennisenvaardigheden referentie="967586" />
+                <vakkennisenvaardigheden referentie="1004360" />
+                <vakkennisenvaardigheden referentie="1004688" />
+                <vakkennisenvaardigheden referentie="966049" />
+                <vakkennisenvaardigheden referentie="966062" />
+                <vakkennisenvaardigheden referentie="966052" />
+                <vakkennisenvaardigheden referentie="966061" />
+                <vakkennisenvaardigheden referentie="970269" />
+                <vakkennisenvaardigheden referentie="965969" />
+                <vakkennisenvaardigheden referentie="965973" />
+                <vakkennisenvaardigheden referentie="965974" />
+                <vakkennisenvaardigheden referentie="966060" />
+                <vakkennisenvaardigheden_met_categorie />
+              </vakkennisenvaardigheden>
+              <profielwerkprocessen>
+                <werkproces nr="966074" titel="Voert gesprekken met de ouders/vervangende opvoeders en het kind" hoofdstuk="1">
+                  <werkprocesomschrijving><![CDATA[De pedagogisch medewerker kinderopvang voert een kennismakingsgesprek met het kind en de ouders/vervangende opvoeders, om de situatie, wensen en verwachtingen in kaart te brengen. Niet reële verwachtingen stuurt ze bij door het verstrekken van informatie over het kindercentrum/de organisatie. Bij het komen en gaan van de kinderen wisselt ze dagelijkse informatie uit met de ouders/vervangende opvoeders. Ze informeert hen over de (dagelijkse) gang van zaken in de opvang. Ze bespreekt met regelmaat met het kind en de ouders/vervangende opvoeders het welbevinden en de ontwikkeling van het kind. Op deze momenten en/of op afspraak deelt zij kennis, ervaring en inzichten met betrekking tot de opvoeding van het kind met de ouders/vervangende opvoeders en indien van toepassing ook met het kind. In voorkomende situaties geeft zij de ouders/vervangende opvoeders advies bij opvoedingsvraagstukken. ]]></werkprocesomschrijving>
+                  <werkprocesresultaat><![CDATA[De pedagogisch medewerker kinderopvang heeft op een juiste wijze gesprekken gevoerd met de ouders/vervangende opvoeders en het kind en heeft daarbij relevante informatie uitgewisseld. ]]></werkprocesresultaat>
+                  <werkprocesgedrag><![CDATA[De pedagogisch medewerker kinderopvang:
+- inventariseert doelgericht de wensen en verwachtingen van de ouders/vervangende opvoeders;
+- snijdt 'moeilijke' en vertrouwelijke zaken tactvol aan; 
+- past interactievaardigheden op effectieve wijze toe: sociale responsiviteit, praten en uitleggen;
+- zorgt in (advies)gesprekken over ontwikkelingsbevordering en over specifieke problematiek m.b.t. het kind voor een adequate informatieoverdracht: past het woordgebruik aan de ouders/vervangende opvoeders aan, drukt gevoelens genuanceerd uit, varieert in woordgebruik, is adequaat in woordkeuze en geeft een duidelijke structuur aan het gesprek.  
+]]></werkprocesgedrag>
+                  <werkprocescompetenties>
+                    <competentie referentie="3101" />
+                    <competentie referentie="3087" />
+                    <competentie referentie="3094" />
+                  </werkprocescompetenties>
+                </werkproces>
+                <werkproces nr="966075" titel="Stelt een activiteitenprogramma op " hoofdstuk="2">
+                  <werkprocesomschrijving><![CDATA[De pedagogisch medewerker kinderopvang stelt zich op de hoogte van het ontwikkelingsniveau wensen en interesses van de kinderen waar het activiteitenprogramma bij moet aansluiten. Indien mogelijk betrekt zij de kinderen bij het bedenken van activiteiten door hen input te laten leveren. Zij zoekt uit welke mogelijkheden voor activiteiten er zijn en stelt zich op de hoogte van randvoorwaarden binnen de organisatie en de groep. Ze selecteert activiteiten en stemt deze op elkaar af en stelt een activiteitenprogramma op.]]></werkprocesomschrijving>
+                  <werkprocesresultaat><![CDATA[Een activiteitenprogramma dat aansluit bij de wensen en ontwikkeling(sbehoeften) van de kinderen en dat uitvoerbaar is binnen de organisatie en de groep.  ]]></werkprocesresultaat>
+                  <werkprocesgedrag><![CDATA[De pedagogisch medewerker kinderopvang:
+- stimuleert effectief kinderen tot het leveren van input voor het activiteitenprogramma; 
+- toont sociale en interculturele sensititviteit;
+- past interactievaardigheden effectief toe: sensitieve responsiviteit en ontwikkelingsstimulering;
+- maakt een juiste selectie van activiteiten die voldoen aan de gestelde criteria en de randvoorwaarden.
+
+
+ 
+ 
+]]></werkprocesgedrag>
+                  <werkprocescompetenties>
+                    <competentie referentie="3100" />
+                    <competentie referentie="3088" />
+                    <competentie referentie="3094" />
+                  </werkprocescompetenties>
+                </werkproces>
+                <werkproces nr="966076" titel="Maakt een plan van aanpak voor de begeleiding " hoofdstuk="3">
+                  <werkprocesomschrijving><![CDATA[De pedagogisch medewerker kinderopvang maakt een plan van aanpak voor de begeleiding van een individueel kind, voor de begeleiding van de groep en/of voor problemen in de interactie tussen kinderen. Hiervoor consulteert ze leidinggevende, collega's en het kind/de kinderen en/of ouders/vervangende opvoeders. Ze legt het plan van aanpak voor aan het kind/de kinderen en/of ouders/vervangende opvoeders om instemming te verkrijgen voor het plan. Indien nodig, stelt zij het plan van aanpak bij. Ze informeert betrokkenen over het plan. ]]></werkprocesomschrijving>
+                  <werkprocesresultaat><![CDATA[Er is een duidelijk en uitvoerbaar plan van aanpak. Het kind/de kinderen, ouders/vervangende opvoeders en collega's zijn op de hoogte gesteld van de inhoud van het plan van aanpak. ]]></werkprocesresultaat>
+                  <werkprocesgedrag><![CDATA[De pedagogisch medewerker kinderopvang:
+- verzamelt relevante en betrouwbare informatie;
+- past op effectieve wijze interactievaardigheden toe: sensitieve responsiteit, praten en uitleggen;
+- houdt effectief rekening met haalbaarheid en uitvoerbaarheid van het plan van aanpak;
+- informeert alle betrokkenen tijdig; 
+- voert op soepele wijze gesprekken met meerdere doelen.
+
+]]></werkprocesgedrag>
+                  <werkprocescompetenties>
+                    <competentie referentie="3088" />
+                    <competentie referentie="3093" />
+                  </werkprocescompetenties>
+                </werkproces>
+                <werkproces nr="966077" titel="Zorgt voor uitvoering van een dagprogramma" hoofdstuk="4">
+                  <werkprocesomschrijving><![CDATA[De pedagogisch medewerker kinderopvang biedt het kind opvang / een '(tweede) thuis' en begeleiding door het verzorgen van een gestructureerd dagprogramma. Ze voert dit dagprogramma uit samen met een of meer collega's. Ze levert gedurende de uitvoering van het dagprogramma een bijdrage aan de uitbreiding van het gedragsrepertoire van het kind door voorbeeldgedrag te tonen en door het kind zo nodig feedback te geven op zijn gedrag en alternatieven te bespreken. Ze begeleidt het kind bij het omgaan met beperkingen of gedragsproblemen. Ze voedt kinderen (mede) op, ze draagt waarden en normen over en leert kinderen omgaan met praktische zaken (zoals persoonlijke eigendommen, financiën, huiswerk).
+De pedagogisch medewerker kinderopvang signaleert voortgang en/of afwijkingen in de ontwikkeling van het kind. Ze bespreekt dit in het team en/of met de verantwoordelijke collega. ]]></werkprocesomschrijving>
+                  <werkprocesresultaat><![CDATA[Het dagprogramma is volgens plan uitgevoerd. De kinderen zijn professioneel begeleid. Bijzonderheden zijn gemeld.
+
+]]></werkprocesresultaat>
+                  <werkprocesgedrag><![CDATA[De pedagogisch medewerker kinderopvang:
+- toont overwicht in haar handelen;  
+- stimuleert het kind om - zo nodig stapsgewijs en onder begeleiding - alternatieven uit te proberen;
+- toont betrokkenheid bij het kind en de ouders/vervangende opvoeders;
+- past interactievaardigheden effectief toe: sensitieve responsiteit, respect voor autonomie, structureren en grenzen stellen, praten en uitleggen, ontwikkelingsstimulering en begeleiden van interacties.
+
+]]></werkprocesgedrag>
+                  <werkprocescompetenties>
+                    <competentie referentie="3085" />
+                    <competentie referentie="3086" />
+                    <competentie referentie="3087" />
+                    <competentie referentie="3088" />
+                    <competentie referentie="3104" />
+                  </werkprocescompetenties>
+                </werkproces>
+                <werkproces nr="966078" titel="Biedt persoonlijke verzorging" hoofdstuk="5">
+                  <werkprocesomschrijving><![CDATA[De pedagogisch medewerker kinderopvang biedt het kind persoonlijke verzorging. Deze persoonlijke verzorging voert ze op gezette tijden uit en daarnaast is ze alert op signalen dat het kind zorg behoeft. Bij de persoonlijke verzorging schenkt ze aandacht aan het kind en houdt ze rekening met specifieke persoonlijke behoeften van het kind. Ze signaleert bijzonderheden en handelt daarnaar, bijvoorbeeld door collega's en ouders/vervangende opvoeders te informeren.
+]]></werkprocesomschrijving>
+                  <werkprocesresultaat><![CDATA[Het kind heeft op een prettige en veilige manier de benodigde zorg ontvangen en heeft daarbij persoonlijke aandacht gekregen. Bij bijzonderheden is tijdig en effectief gehandeld. ]]></werkprocesresultaat>
+                  <werkprocesgedrag><![CDATA[De pedagogisch medewerker kinderopvang:
+- geeft het kind een op de persoon toegesneden verzorging; 
+- reageert snel en effectief op signalen van behoefte aan persoonlijke verzorging van het kind;
+- gaat discreet om met lichaamscontact tijdens de persoonlijke verzorging;
+- gaat adequaat om met de dynamiek van baby's en jonge kinderen;
+- werkt volgens het 'vier-ogen-principe';
+- communiceert actief met kind/kinderen (ook met baby's);
+- past interactievaardigheden effectief toe: respect voor autonomie, sensitieve responsiteit, praten en uitleggen. 
+
+]]></werkprocesgedrag>
+                  <werkprocescompetenties>
+                    <competentie referentie="3089" />
+                    <competentie referentie="3094" />
+                    <competentie referentie="3101" />
+                    <competentie referentie="3103" />
+                  </werkprocescompetenties>
+                </werkproces>
+                <werkproces nr="966079" titel="Draagt zorg voor huishoudelijke werkzaamheden" hoofdstuk="6">
+                  <werkprocesomschrijving><![CDATA[De pedagogisch medewerker kinderopvang zorgt ervoor dat de opvoeding en ontwikkeling van de kinderen in een opgeruimde, schone, hygiënische en gezonde omgeving kan verlopen. Ze voert voorkomende werkzaamheden uit zoals afwassen, wassen van textiel, schoonmaken en bereiden van (eenvoudige) maaltijden en/of zorgt ervoor dat huishoudelijke taken door de verantwoordelijke beroepsbeoefenaren uitgevoerd kunnen worden.]]></werkprocesomschrijving>
+                  <werkprocesresultaat><![CDATA[De begeleiding, opvoeding en ontwikkeling van de kinderen kan plaatsvinden in een opgeruimde, schone, hygiënische en gezonde omgeving.]]></werkprocesresultaat>
+                  <werkprocesgedrag><![CDATA[-De pedagogisch medewerker kinderopvang:
+- werkt veilig en hygiënisch;
+- voert de werkzaamheden vlot en bedreven uit;
+- gebruikt materialen en middelen op een doeltreffende en verantwoorde manier.
+
+
+
+]]></werkprocesgedrag>
+                  <werkprocescompetenties>
+                    <competentie referentie="3095" />
+                    <competentie referentie="3103" />
+                  </werkprocescompetenties>
+                </werkproces>
+              </profielwerkprocessen>
+            </kerntaak>
+          </profielkerntaken>
+        </profiel>
+        <profiel nr="966080" titel="Gespecialiseerd pedagogisch medewerker " hoofdstuk="2" niveau="4" beroepsgroep="Welzijn">
+          <omschrijving>
+            <typeringvanhetberoep><![CDATA[De gespecialiseerd pedagogisch medewerker werkt binnen een kindercentrum waar diensten als kinderopvang, buitenschoolse opvang, peuterspeelzaalwerk, voor- en vroegschoolse educatie worden aangeboden, in onderwijsvoorzieningen waar voor- en vroegschoolse educatie wordt aangeboden dan wel in organisaties die combinaties van deze diensten aanbieden, zoals een integraal kindcentrum of brede school. Ook kan de gespecialiseerd pedagogisch medewerker werkzaam zijn in organisaties die opvoedingsondersteuning en/of ondersteuning aanbieden aan kinderen of jongeren met specifieke ondersteuningsvragen, bijvoorbeeld op grond van ontwikkelingsachterstand, al dan niet als gevolg van een zintuigelijke, lichamelijke of verstandelijke beperking dan wel vanwege de leef- of opvoedingssituatie. 
+De gespecialiseerd pedagogisch medewerker biedt veelal in groepsverband een stimulerende omgeving voor de ontwikkeling van elk kind. Ze creëert een veilige, vertrouwde omgeving waarbinnen ze zorgt voor balans tussen rust en structuur enerzijds en uitdaging, activiteiten en (vrij) spel anderzijds. Afhankelijk van de setting kan ze een aansturende en begeleidende rol vervullen voor collega's en vrijwilligers en is zij het aanspreekpunt voor de ouders/vervangende opvoeders en betrokken zoals interne collega's en externe deskundigen. Voor het management kan zij een informerende en beleidsondersteunende rol vervullen. Ze weet van aanpakken en toont een ondernemende houding.]]></typeringvanhetberoep>
+            <wettelijkeberoepsvereisten>Nee</wettelijkeberoepsvereisten>
+            <toelichtingwettelijkeberoepsvereisten><![CDATA[]]></toelichtingwettelijkeberoepsvereisten>
+            <bronwettelijkeberoepsvereisten></bronwettelijkeberoepsvereisten>
+            <certificaten />
+            <sbu>4800</sbu>
+            <soortopleiding>middenkaderopleiding</soortopleiding>
+            <instellingendieaanmogenbieden />
+          </omschrijving>
+          <creboinformatie>
+            <crebo ministerie="OCW" prijsfactor="1,10" Geldig_vanaf="01-08-2015" Datum_einde_instroom="" Datum_einde_opleiding="">25484</crebo>
+          </creboinformatie>
+          <profielkerntaken>
+            <kerntaak nr="966081" titel="Opvoeden en ontwikkelen van het kind/de kinderen " hoofdstuk="1">
+              <complexiteit><![CDATA[De gespecialiseerd pedagogisch medewerker werkt met kinderen, jongeren, leerlingen of studenten aan hun ontwikkeling en draagt bij aan hun opvoeding. Ze richt zich daarbij met name op kinderen met een specifieke ondersteuningsbehoefte. Ze maakt daarbij gebruik van beroepsmatige, brede en gespecialiseerde kennis van opvoeden en ontwikkelen van kinderen (in groepsverband) en past daarbij beroepsspecifieke begeleidingsvaardigheden toe alsook vaardigheden om speel- spel en ontwikkelingsactiviteiten uit te voeren met kinderen met een specifieke ondersteuningsbehoefte. Ze werkt voor een belangrijk deel volgens standaardprocedures en combinaties daarvan, maar bedenkt voor specifieke en nieuwe vraagstukken nieuwe oplossingen. De complexiteit van haar werkzaamheden zit voornamelijk in de hectiek die het werken met kinderen met zich meebrengt en het tegelijkertijd werken volgens de richtlijnen en doelstellingen van de organisatie. Zo wordt van haar verwacht dat ze bij het werken met groepen zowel aandacht heeft voor elk kind, aandacht heeft voor de groep als geheel en adequaat inspeelt op (snel) veranderende ondersteuningsbehoeften van kind of groep. De gespecialiseerd medewerker heeft te maken met de verwachtingen en wensen van ouders waaraan de organisatie niet altijd kan of wil voldoen. Dilemma's doen zich ook voor wanneer de ontwikkeling van het kind bijvoorbeeld ‘stagnatie’ vertoont en beoordeeld moet worden of het plan van aanpak moet worden aangepast ofwel dat de huidige aanpak moet worden doorgezet.
+]]></complexiteit>
+              <verantwoordelijkheid><![CDATA[De gespecialiseerd pedagogisch medewerker werkt samen met collega's, leidinggevende, professionele hulpverleners en ouders/vervangende opvoeders. Ze voert haar taken ofwel zelfstandig uit waarbij ze verantwoordelijk is voor de kwaliteit van haar eigen werkzaamheden en waarbij ze gedeelde verantwoordelijkheid draagt voor de werkzaamheden die collega's onder haar regie uitvoeren. In voorkomende situaties voert ze haar werkzaamheden uit onder regie van een professionele hulpverlener of van een multidisciplinair ondersteuningsteam. Ze draagt verantwoordelijkheid voor de kwaliteit van de werkzaamheden die ze uitvoert. 
+
+
+
+]]></verantwoordelijkheid>
+              <vakkennisenvaardigheden>
+                <vakkennisenvaardigheden referentie="965989" />
+                <vakkennisenvaardigheden referentie="965990" />
+                <vakkennisenvaardigheden referentie="965988" />
+                <vakkennisenvaardigheden referentie="965986" />
+                <vakkennisenvaardigheden referentie="965987" />
+                <vakkennisenvaardigheden referentie="965984" />
+                <vakkennisenvaardigheden referentie="965985" />
+                <vakkennisenvaardigheden referentie="966023" />
+                <vakkennisenvaardigheden referentie="966004" />
+                <vakkennisenvaardigheden referentie="966034" />
+                <vakkennisenvaardigheden referentie="965977" />
+                <vakkennisenvaardigheden referentie="965980" />
+                <vakkennisenvaardigheden referentie="965981" />
+                <vakkennisenvaardigheden referentie="966021" />
+                <vakkennisenvaardigheden referentie="966024" />
+                <vakkennisenvaardigheden referentie="966025" />
+                <vakkennisenvaardigheden referentie="966026" />
+                <vakkennisenvaardigheden referentie="966028" />
+                <vakkennisenvaardigheden referentie="966031" />
+                <vakkennisenvaardigheden referentie="966032" />
+                <vakkennisenvaardigheden referentie="966033" />
+                <vakkennisenvaardigheden referentie="966035" />
+                <vakkennisenvaardigheden referentie="966010" />
+                <vakkennisenvaardigheden referentie="966022" />
+                <vakkennisenvaardigheden referentie="1004360" />
+                <vakkennisenvaardigheden referentie="1004688" />
+                <vakkennisenvaardigheden referentie="966058" />
+                <vakkennisenvaardigheden referentie="966049" />
+                <vakkennisenvaardigheden referentie="966036" />
+                <vakkennisenvaardigheden referentie="966054" />
+                <vakkennisenvaardigheden referentie="966068" />
+                <vakkennisenvaardigheden referentie="966052" />
+                <vakkennisenvaardigheden referentie="965965" />
+                <vakkennisenvaardigheden referentie="965969" />
+                <vakkennisenvaardigheden referentie="966059" />
+                <vakkennisenvaardigheden referentie="965971" />
+                <vakkennisenvaardigheden referentie="966038" />
+                <vakkennisenvaardigheden referentie="966057" />
+                <vakkennisenvaardigheden referentie="970270" />
+                <vakkennisenvaardigheden referentie="970269" />
+                <vakkennisenvaardigheden_met_categorie />
+              </vakkennisenvaardigheden>
+              <profielwerkprocessen>
+                <werkproces nr="966082" titel="Voert gesprekken met de ouders/vervangende opvoeders en het kind" hoofdstuk="1">
+                  <werkprocesomschrijving><![CDATA[De gespecialiseerd pedagogisch medewerker voert een kennismakingsgesprek met het kind en de ouders/vervangende opvoeders, om de situatie, wensen en verwachtingen in kaart te brengen. Niet reële verwachtingen stuurt ze bij door het verstrekken van informatie over het kindercentrum/de organisatie. Bij het komen en gaan van de kinderen wisselt ze dagelijkse informatie uit met de ouders/vervangende opvoeders. Ze informeert hen over de (dagelijkse) gang van zaken. Ze bespreekt met regelmaat met het kind en de ouders/vervangende opvoeders het welbevinden en de ontwikkeling van het kind en de eventuele taal- of ontwikkelingsachterstand, gedragsproblematiek of opvoedproblematiek. Op deze momenten en/of op afspraak deelt zij met de ouders/vervangende opvoeders en indien van toepassing ook het kind, kennis, ervaring en inzichten met betrekking tot de ontwikkeling en opvoeding van het kind. In voorkomende gevallen gaat ze na wat de mogelijke oorzaken zijn van afwijkingen in de ontwikkeling of het gedrag. Zo nodig geeft zij bij de dagelijkse informatie-uitwisseling en in oudergesprekken specifiek advies bij opvoedingsvraagstukken.]]></werkprocesomschrijving>
+                  <werkprocesresultaat><![CDATA[De gespecialiseerd pedagogisch medewerker heeft op een juiste wijze gesprekken gevoerd met de ouders/vervangende opvoeders en het kind en heeft daarbij relevante informatie uitgewisseld en toegesneden advies gegeven. ]]></werkprocesresultaat>
+                  <werkprocesgedrag><![CDATA[De gespecialiseerd pedagogisch medewerker:
+- gebruikt verschillende bronnen en methoden om relevante informatie te verzamelen;
+- maakt bij een taalprobleem gebruik van non-verbale communicatie en visuele communicatiemiddelen, passend bij de communicatiestijl van de gesprekspartner(s);
+- snijdt 'moeilijke' en vertrouwelijke zaken tactvol aan;
+- geeft heldere en relevante informatie;
+- stelt open, reflecterende vragen;
+- past interactievaardigheden op effectieve wijze toe: sociale responsiviteit, praten en uitleggen. 
+]]></werkprocesgedrag>
+                  <werkprocescompetenties>
+                    <competentie referentie="3097" />
+                    <competentie referentie="3101" />
+                    <competentie referentie="3087" />
+                    <competentie referentie="3094" />
+                  </werkprocescompetenties>
+                </werkproces>
+                <werkproces nr="966083" titel="Stelt een (gespecialiseerd) activiteitenprogramma op" hoofdstuk="2">
+                  <werkprocesomschrijving><![CDATA[De gespecialiseerd pedagogisch medewerker stelt zich op de hoogte van de specifieke ontwikkelingsproblemen van een kind. Ze inventariseert welke activiteiten passend zijn voor de gegeven problematiek. Ze betrekt kind/kinderen bij de inventarisatie door hen input te laten leveren en helpt hen bij het verwoorden van hun wensen. Zij zoekt uit welke mogelijkheden voor activiteiten er zijn en stelt zich op de hoogte van randvoorwaarden binnen de organisatie en de groep. Vervolgens selecteert ze geschikte activiteiten - zo mogelijk in overleg met kind/kinderen - en programmeert deze in de tijd. 
+
+]]></werkprocesomschrijving>
+                  <werkprocesresultaat><![CDATA[Een activiteitenprogramma dat aansluit bij de wensen en mogelijk specifieke ontwikkeling(sbehoeften) van de kinderen en dat uitvoerbaar is binnen de organisatie en de groep. 
+]]></werkprocesresultaat>
+                  <werkprocesgedrag><![CDATA[De gespecialiseerd pedagogisch medewerker:
+- past interactievaardigheden effectief toe: sociale responsiteit, ontwikkelingsstimulering;
+- stimuleert het kind/de kinderen effectief tot het leveren van input voor het activiteitenprogramma;
+- schakelt waar mogelijk haar netwerk in;
+- maakt een juiste selectie van activiteiten gericht op de gestelde criteria en de geldende randvoorwaarden; 
+- maakt een aantrekkelijke en logische planning van activiteiten.
+
+
+]]></werkprocesgedrag>
+                  <werkprocescompetenties>
+                    <competentie referentie="3088" />
+                    <competentie referentie="3100" />
+                    <competentie referentie="3094" />
+                    <competentie referentie="3101" />
+                  </werkprocescompetenties>
+                </werkproces>
+                <werkproces nr="966084" titel="Ontwikkelt (mede) een begeleidingsplan " hoofdstuk="3">
+                  <werkprocesomschrijving><![CDATA[De gespecialiseerd pedagogisch medewerker stelt (mede) een begeleidingsplan op voor de begeleiding van een individueel kind met specifieke begeleidingsbehoeften, voor de begeleiding van de groep en voor problemen in de interactie tussen kinderen. Ze legt het begeleidingsplan, indien mogelijk, voor aan het kind en ouders/vervangende opvoeders om instemming te verkrijgen. Indien nodig, stelt zij het begeleidingsplan bij. Zij bespreekt met het kind en de ouders/vervangende opvoeders de mogelijkheden voor dienstverlening. 
+Wanneer sprake is van een specifieke begeleidingsvraag, analyseert de gespecialiseerd pedagogisch medewerker de gegevens uit het intakegesprek. Ook deze gegevens gebruikt ze bij het schrijven van het begeleidingsplan. Zij geeft aan het kind en de ouders/vervangende opvoeders aan welke ondersteuning van buiten de organisatie eventueel nodig is of ze verwijst naar aanvullende zorg- of dienstverlening.
+]]></werkprocesomschrijving>
+                  <werkprocesresultaat><![CDATA[Een begeleidingsplan waarin het kind (en ouders/vervangende opvoeders) gekend is, dat accuraat en duidelijk is en dat uitvoerbaar is binnen de organisatie en de groep.]]></werkprocesresultaat>
+                  <werkprocesgedrag><![CDATA[De gespecialiseerd pedagogisch medewerker:
+- verzamelt doelgericht informatie uit verschillende bronnen; 
+- trekt relevante conclusies uit de beschikbare informatie; 
+- weegt verschillende alternatieven af op hun consequenties; 
+- geeft ouders/vervangende opvoeders adequate informatie en passend advies;
+- overtuigt met een goed opgebouwde en steekhoudende argumentatie; 
+- past op effectieve wijze interactievaardigheden toe: sensitieve responsiteit, praten en uitleggen, respect voor autonomie.
+
+
+ ]]></werkprocesgedrag>
+                  <werkprocescompetenties>
+                    <competentie referentie="3093" />
+                    <competentie referentie="3096" />
+                    <competentie referentie="3094" />
+                    <competentie referentie="3085" />
+                    <competentie referentie="3097" />
+                  </werkprocescompetenties>
+                </werkproces>
+                <werkproces nr="966085" titel="Biedt (gespecialiseerde) opvang" hoofdstuk="4">
+                  <werkprocesomschrijving><![CDATA[De gespecialiseerd pedagogisch medewerker biedt het kind opvang/een '(tweede) thuis' en begeleiding, en houdt daarbij rekening met de specifieke begeleidingsvraag van het kind. De gespecialiseerd pedagogisch medewerker levert een bijdrage aan de uitbreiding van het gedragsrepertoire van het kind door voorbeeldgedrag te tonen en door het kind zo nodig feedback te geven op zijn gedrag en alternatieven te bespreken. Ze begeleidt het kind bij het omgaan met specifieke beperkingen of gedragsproblemen. Ze voedt kinderen (mede) op, ze draagt waarden en normen over en leert kinderen omgaan met praktische zaken (zoals persoonlijke eigendommen, financiën, huiswerk).
+De gespecialiseerd pedagogisch medewerker signaleert en onderzoekt indien nodig op specifieke punten voortgang en/of afwijkingen in de sociaal-emotionele ontwikkeling van het kind. ]]></werkprocesomschrijving>
+                  <werkprocesresultaat><![CDATA[Het kind heeft zich sociaal-emotioneel ontwikkeld en voelt zich thuis. Eventuele afwijkingen in de ontwikkeling zijn gesignaleerd en eventueel onderzocht. 
+]]></werkprocesresultaat>
+                  <werkprocesgedrag><![CDATA[De gespecialiseerd pedagogisch medewerker:
+- toont overwicht in haar wijze van optreden; 
+- stimuleert kind/kinderen tot het uitproberen van alternatieven; 
+- past effectieve interventies toe gericht op de ontwikkeling van het kind;
+- weegt vragen of problemen af vanuit diverse gezichtspunten; 
+- past interactievaardigheden op effectieve wijze toe: sensitieve responsiteit, respect voor autonomie, structureren en grenzen stellen. praten en uileggen, ontwikkelingsstimulering en begeleiden van interacties. 
+
+]]></werkprocesgedrag>
+                  <werkprocescompetenties>
+                    <competentie referentie="3085" />
+                    <competentie referentie="3086" />
+                    <competentie referentie="3087" />
+                  </werkprocescompetenties>
+                </werkproces>
+                <werkproces nr="966086" titel="Biedt persoonlijke verzorging" hoofdstuk="5">
+                  <werkprocesomschrijving><![CDATA[De gespecialiseerd pedagogisch medewerker biedt het kind persoonlijke verzorging. Aan kinderen met een specifieke zorgbehoefte(n) biedt ze de gewenste specifieke verzorging. De persoonlijke verzorging voert ze op gezette tijden uit en daarnaast is ze alert op signalen dat het kind zorg behoeft. Bij de persoonlijke verzorging schenkt ze aandacht aan het kind en houdt ze rekening met specifieke persoonlijke behoeften van het kind. Ze signaleert bijzonderheden en handelt daarnaar, bijvoorbeeld door een arts in te schakelen of door collega's en ouders/vervangende opvoeders te informeren.]]></werkprocesomschrijving>
+                  <werkprocesresultaat><![CDATA[Het kind heeft op de juiste wijze en op een prettige, veilige manier de benodigde zorg ontvangen en heeft daarbij persoonlijke aandacht gekregen. Bij bijzonderheden is tijdig en effectief gehandeld. ]]></werkprocesresultaat>
+                  <werkprocesgedrag><![CDATA[De gespecialiseerd pedagogisch medewerker:
+- geeft het kind een op de persoon toegesneden verzorging; 
+- reageert snel en effectief op signalen van behoefte aan persoonlijke verzorging van het kind;
+- gaat discreet om met lichaamscontact tijdens de persoonlijke verzorging;
+- gaat adequaat om met de dynamiek van baby's en jonge kinderen;
+- werkt volgens het 'vier-ogen-principe'; 
+- communiceert actief met kind/kinderen (ook met baby's);
+- past interactievaardigheden op effectieve wijze toe: respect voor autonomie, praten en uitleggen, ontwikkelingsstimulering. 
+
+]]></werkprocesgedrag>
+                  <werkprocescompetenties>
+                    <competentie referentie="3094" />
+                    <competentie referentie="3089" />
+                    <competentie referentie="3101" />
+                    <competentie referentie="3103" />
+                  </werkprocescompetenties>
+                </werkproces>
+                <werkproces nr="966088" titel="Draagt zorg voor huishoudelijke werkzaamheden" hoofdstuk="6">
+                  <werkprocesomschrijving><![CDATA[De gespecialiseerd pedagogisch medewerker voorziet in randvoorwaarden om de opvoeding en ontwikkeling van de kinderen in een opgeruimde, schone, hygiënische en gezonde omgeving te laten verlopen. Ze voert voorkomende werkzaamheden uit zoals afwassen, wassen van textiel, schoonmaken en bereiden van (eenvoudige) maaltijden en/of ze zorgt ervoor dat huishoudelijke taken door de verantwoordelijke beroepsbeoefenaren uitgevoerd kunnen worden.
+
+]]></werkprocesomschrijving>
+                  <werkprocesresultaat><![CDATA[De begeleiding, opvoeding en ontwikkeling van de kinderen kan plaatsvinden in een opgeruimde, schone, hygiënische en gezonde omgeving. ]]></werkprocesresultaat>
+                  <werkprocesgedrag><![CDATA[De gespecialiseerd pedagogisch medewerker:
+- werkt veilig en hygiënisch;
+- voert de werkzaamheden vlot en bedreven uit;
+- gebruikt materialen en middelen op een doeltreffende en verantwoorde manier.
+
+]]></werkprocesgedrag>
+                  <werkprocescompetenties>
+                    <competentie referentie="3095" />
+                    <competentie referentie="3103" />
+                  </werkprocescompetenties>
+                </werkproces>
+                <werkproces nr="966087" titel="Biedt (specifieke) ontwikkelingsgerichte activiteiten aan" hoofdstuk="7">
+                  <werkprocesomschrijving><![CDATA[De gespecialiseerd pedagogisch medewerker biedt kinderen specifieke ontwikkelingsgerichte activiteiten aan op basis van een erkende VVE-methodiek, afgestemd op de specifieke individuele (leer- of ontwikkelings)problematiek van het kind. Zij organiseert de activiteiten, voert ze uit (eventueel met behulp van anderen), kiest sport-, spel- en speelmateriaal dat past bij de gewenste ontwikkeling van het kind en begeleidt en stimuleert individuele kinderen of een groep(je) kinderen bij de uitvoering van de activiteiten. Ze begeleidt kinderen eventueel bij het huiswerk. Ze signaleert spontane kansen om de ontwikkeling van het kind te stimuleren en grijpt deze aan. Ze monitort de ontwikkeling van het kind, signaleert en onderzoekt voortgang en/of stagnatie in de ontwikkeling en legt gegevens vast.  
+Indien mogelijk zoekt ze samenwerking met ouders/vervangende opvoeders, stagiaires of vrijwilligers om mee te werken aan de uitvoering van activiteiten. Ze enthousiasmeert hen en werkt met hen samen. In voorkomende situaties stimuleert en adviseert ze ouders/vervangende opvoeders met betrekking tot het versterken van de leeromgeving thuis. ]]></werkprocesomschrijving>
+                  <werkprocesresultaat><![CDATA[De kinderen zijn in hun (specifieke) ontwikkeling gestimuleerd door het uitvoeren van activiteiten op basis van een erkende VVE-methodiek. ]]></werkprocesresultaat>
+                  <werkprocesgedrag><![CDATA[De gespecialiseerd pedagogisch medewerker:
+- motiveert de kinderen om hun best te doen, uitdagingen aan te gaan en doelen te bereiken;
+- past effectieve interventies toe gericht op de ontwikkeling van het kind;
+- kiest passende leer- en ontwikkelingsmaterialen;
+- bewaakt de voortgang in de ontwikkeling van de kinderen zorgvuldig;
+- onderzoekt belemmeringen in de voortgang van de ontwikkeling van een kind;
+- stelt reëele, haalbare (tussen) doelen;
+- houdt effectief rekening met onvoorziene omstandigheden;
+- legt accuraat relevante gegevens vast;
+- past interactievaardigheden effectief toe: sensitieve responsiteit,respect voor autonomie, structureren en grenzen stellen, praten en uitleggen, ontwikkelingsstimulering en begeleiden van interacties. 
+
+]]></werkprocesgedrag>
+                  <werkprocescompetenties>
+                    <competentie referentie="3086" />
+                    <competentie referentie="3100" />
+                    <competentie referentie="3094" />
+                    <competentie referentie="3096" />
+                    <competentie referentie="3095" />
+                  </werkprocescompetenties>
+                </werkproces>
+              </profielwerkprocessen>
+            </kerntaak>
+            <kerntaak nr="966089" titel="Organiseren van de werkzaamheden" hoofdstuk="2">
+              <complexiteit><![CDATA[De gespecialiseerd pedagogisch medewerker werkt in een stabiele omgeving waarin situaties sterk en snel kunnen fluctueren, voornamelijk door de hectiek van het werken met kinderen. Bij het organiseren van de werkzaamheden wordt van haar verwacht dat zij activiteiten onderneemt om de organisatie in goede banen te leiden en snel beslissingen kan nemen, in overleg met haar leidinggevende dan wel zelfstandig, wanneer de situatie dat vraagt. Bij knelpunten (bijvoorbeeld in de planning) en in crisissituaties draagt ze alternatieven en oplossingen aan. Ze maakt gebruik van brede, specialistische kennis van het pedagogisch werk en de organisatie daarvan en past oplossingsvaardigheden, communicatie- en netwerkvaardigheden toe. 
+]]></complexiteit>
+              <verantwoordelijkheid><![CDATA[De gespecialiseerd pedagogisch medewerker voert haar werkzaamheden zelfstandig uit en is verantwoordelijk voor haar werk en draagt daarbij soms ook eindverantwoordelijkheid. Zij draagt mede-verantwoordelijkheid voor de continuïteit van de dienstverlening en voor het informeren van de ouders/vervangende opvoeders. 
+Ze voert zelfstandig coördinerende, beleidsmatige en beheertaken uit en heeft contacten in het kader van netwerken, al naar gelang deze taken aan haar gedelegeerd worden. Ze legt verantwoording af aan haar leidinggevende. Bij bijzonderheden kan ze terugvallen op haar leidinggevende en/of het team. 
+
+]]></verantwoordelijkheid>
+              <vakkennisenvaardigheden>
+                <vakkennisenvaardigheden referentie="966002" />
+                <vakkennisenvaardigheden referentie="966006" />
+                <vakkennisenvaardigheden referentie="965989" />
+                <vakkennisenvaardigheden referentie="966004" />
+                <vakkennisenvaardigheden referentie="966034" />
+                <vakkennisenvaardigheden referentie="966020" />
+                <vakkennisenvaardigheden referentie="966054" />
+                <vakkennisenvaardigheden referentie="966036" />
+                <vakkennisenvaardigheden referentie="966063" />
+                <vakkennisenvaardigheden_met_categorie />
+              </vakkennisenvaardigheden>
+              <profielwerkprocessen>
+                <werkproces nr="966090" titel="Voert coördinerende taken uit" hoofdstuk="1">
+                  <werkprocesomschrijving><![CDATA[De gespecialiseerd pedagogisch medewerker voert coördinerende taken uit. Zij maakt een planning en verdeelt de werkzaamheden. Zij draagt zorg voor randvoorwaarden en bepaalt de prioriteiten binnen de werkzaamheden. Zij coördineert de werkzaamheden van de verschillende collega’s en/of vrijwilligers en zorgt voor procesbewaking. Ze onderhoudt contact met de medewerkers, maakt het functioneren van de medewerkers bespreekbaar en toont waardering voor hun ideeën en bijdragen. Zij deelt kennis en ervaring met collega's en deskundigen binnen en buiten de organisatie en vrijwilligers, bijvoorbeeld door het geven van presentaties of het geven van werkbegeleiding. Zij zorgt voor een goede afstemming met deskundigen vanuit andere disciplines, continuïteit van de dienstverlening en ondersteuning bij de werkzaamheden.
+In voorkomende situaties draagt ze gegevens over het kind over aan relevante extern betrokkenen, bijvoorbeeld - in het kader van vroegschoolse activiteiten of warme overdracht - aan collega's van de basisschool.]]></werkprocesomschrijving>
+                  <werkprocesresultaat><![CDATA[De gespecialiseerd pedagogisch medewerker heeft ondersteuning en begeleiding van kinderen (en ouders) zodanig georganiseerd en gecoördineerd dat de kwaliteit, continuïteit en eenduidigheid van de dienstverlening gewaarborgd is. ]]></werkprocesresultaat>
+                  <werkprocesgedrag><![CDATA[De gespecialiseerd pedagogisch medewerker:
+- gaat secuur en integer om met privacy-gegevens van het kind en zijn ouders/vervangende opvoeders;  
+- handelt vanuit de visie en uitgangspunten van de organisatie;
+- raadpleegt tijdig en regelmatig medewerkers en andere deskundigen;
+- deelt proactief haar kennis en ervaringen met medewerkers en/of deskundigen;
+- houdt rekening met de beschikbare capaciteit en middelen;  
+- geeft heldere en relevante informatie/ instructies;
+- bewaakt effectief de voortgang van de werkzaamheden;
+- spreekt zo nodig medewerkers aan op functioneren door het geven van constructieve feedback.]]></werkprocesgedrag>
+                  <werkprocescompetenties>
+                    <competentie referentie="3085" />
+                    <competentie referentie="3088" />
+                    <competentie referentie="3100" />
+                    <competentie referentie="3086" />
+                    <competentie referentie="3089" />
+                  </werkprocescompetenties>
+                </werkproces>
+                <werkproces nr="966091" titel="Bouwt en onderhoudt een netwerk" hoofdstuk="2">
+                  <werkprocesomschrijving><![CDATA[De gespecialiseerd pedagogisch medewerker bouwt en onderhoudt een actief netwerk van contacten met collega's en deskundigen van andere organisaties en disciplines. Ze neemt in het kader van dit netwerk deel aan relevante overlegvormen en collegiale consultatie met betrekking tot de ondersteuning en begeleiding van de kinderen. Zij draagt gegevens over aan collega's in organisaties die bij het kind betrokken zijn. Ze gebruikt haar netwerk om (werk gerelateerde) doelen te bereiken.]]></werkprocesomschrijving>
+                  <werkprocesresultaat><![CDATA[De gespecialiseerd pedagogisch medewerker heeft een actueel netwerk aan contacten opgebouwd die de organisatie en de dienstverlening ten goede komen. Ze heeft acties ondernomen om haar netwerk te onderhouden en om werkgerelateerde doelen te (gaan) bereiken.]]></werkprocesresultaat>
+                  <werkprocesgedrag><![CDATA[De gespecialiseerd pedagogisch medewerker:
+- investeert actief in het opbouwen van een netwerk door het leggen van contacten met relevante personen; 
+- onderscheidt hoofdzaken van bijzaken en komt daardoor snel tot de kern; 
+- houdt regelmatig en tijdig overleg met betrokkenen;
+- bouwt een goede werkrelatie op met collega's en personen uit haar netwerk.  ]]></werkprocesgedrag>
+                  <werkprocescompetenties>
+                    <competentie referentie="3090" />
+                    <competentie referentie="3088" />
+                  </werkprocescompetenties>
+                </werkproces>
+                <werkproces nr="966092" titel="Voert beleidsondersteunende taken uit" hoofdstuk="3">
+                  <werkprocesomschrijving><![CDATA[De gespecialiseerd pedagogisch medewerker volgt ontwikkelingen binnen en buiten de organisatie, in de branche en in de samenleving en signaleert kansen voor nieuw of aangepast beleid van de organisatie. Ze signaleert knelpunten in bestaand beleid en rapporteert hierover. 
+Ze doet voorstellen voor beleidswijzigingen en/of nieuwe (PR)activiteiten en toetst de haalbaarheid van deze voorstellen. Op basis hiervan stelt zij mogelijk uit te voeren activiteiten van de organisatie/vestiging voor.
+De gespecialiseerd pedagogisch medewerker draagt bij aan de vertaling van het beleid van de organisatie naar de werkvloer. Zij verwoordt het beleid en handelt ernaar. Zij vraagt collega's naar knelpunten in het beleid en zoekt oplossingen voor deze knelpunten.
+In voorkomende situaties verwoordt ze het beleid van de organisatie richting extern betrokkenen zoals samenwerkingspartners, vrijwilligers en beleidsmakers. ]]></werkprocesomschrijving>
+                  <werkprocesresultaat><![CDATA[De gespecialiseerd pedagogisch medewerker heeft een bijdrage geleverd aan beleid van de organisatie alsook aan de vertaling van het beleid naar de werkvloer en heeft in voorkomende situaties het beleid helder uitgedragen aan extern betrokkenen.  ]]></werkprocesresultaat>
+                  <werkprocesgedrag><![CDATA[De gespecialiseerd pedagogisch medewerker:
+- signaleert (ervaren) knelpunten in de organisatie;
+- kan een inschatting maken van de waarde van informatie voor (het beleid van) de organisatie;
+- kan relevante informatie beknopt samenvatten;
+- koppelt haar inzichten aan voorstellen voor beleid(swijziging)
+- formuleert passende en haalbare voorstellen voor verbetering/vernieuwing van het beleid;
+- onderbouwt haar voorstellen met steekhoudende argumenten;
+- draagt het beleid van de organisatie actief uit;
+- presenteert het beleid naar (extern) betrokkenen op overtuigende en professionele wijze.
+]]></werkprocesgedrag>
+                  <werkprocescompetenties>
+                    <competentie referentie="3091" />
+                    <competentie referentie="3096" />
+                    <competentie referentie="3092" />
+                    <competentie referentie="3100" />
+                    <competentie referentie="3107" />
+                  </werkprocescompetenties>
+                </werkproces>
+                <werkproces nr="966093" titel="Voert beheertaken uit" hoofdstuk="4">
+                  <werkprocesomschrijving><![CDATA[De gespecialiseerd pedagogisch medewerker draagt bij aan de uitvoering van beheertaken en levert daardoor een praktische en structurele bijdrage aan het eigen functioneren en dat van de organisatie. Zij houdt rekening met de financiële middelen, de richtlijnen en de cultuur van de organisatie. Zij voert voorraadbeheer uit van (voorlichting/kantoor)materialen en (hulp)middelen. Ze plaatst bestellingen en controleert binnengekomen leveringen op juistheid en kwaliteit. Zij checkt voorraad op bewaarcondities/verloopdatum. Zij draagt zorg voor de veiligheid en onderhoud van apparatuur, materiaal en werkruimte. Zij onderhoudt in het kader van beheertaken externe contacten namens de organisatie, bijvoorbeeld met leveranciers. Zij bewaakt het budget voor de activiteiten en levert (financiële) rapportages.]]></werkprocesomschrijving>
+                  <werkprocesresultaat><![CDATA[De voorraad van materialen, (hulp)middelen en instrumentarium is op peil en de apparatuur is in goede staat. Met de beschikbare (financiële) middelen zijn de specifieke werkzaamheden optimaal verricht. Er is een goede verstandhouding met de externe contacten inzake de beheertaken.]]></werkprocesresultaat>
+                  <werkprocesgedrag><![CDATA[De gespecialiseerd pedagogisch medewerker:
+- registreert (financiële) gegevens zorgvuldig;
+- houdt bij de keuze van materialen en middelen rekening met mogelijkheden, beperkingen, beschikbaarheid en kosten;
+- handelt kostenbewust; 
+- plaatst bestellingen tijdig en nauwkeurig;
+- investeert in het leggen en onderhouden van contacten met leveranciers en dienstverleners.]]></werkprocesgedrag>
+                  <werkprocescompetenties>
+                    <competentie referentie="3095" />
+                    <competentie referentie="3108" />
+                    <competentie referentie="3090" />
+                    <competentie referentie="3103" />
+                  </werkprocescompetenties>
+                </werkproces>
+              </profielwerkprocessen>
+            </kerntaak>
+          </profielkerntaken>
+        </profiel>
+        <profiel nr="966094" titel="Onderwijsassistent" hoofdstuk="3" niveau="4" beroepsgroep="Welzijn">
+          <omschrijving>
+            <typeringvanhetberoep><![CDATA[De onderwijsassistent werkt in het basisonderwijs, voortgezet onderwijs, middelbaar beroepsonderwijs, speciaal onderwijs of in de volwasseneneducatie met en rond leerlingen/studenten in de leeftijd van 4 tot circa 16 jaar. Ook kan ze werkzaam zijn in een integraal kindcentrum of kindercentrum waar opvang en onderwijs gecombineerd worden, bijvoorbeeld als 'combinatiefunctionaris'. De onderwijsassistent is ondersteunend en faciliterend voor leraren en/of lerarenteam. 
+
+De onderwijsassistent speelt een belangrijke rol in de taalontwikkeling van leerlingen/studenten en vervult daarin een voorbeeldfunctie. Dit komt tot uiting in het benoemen van wat ze ziet en wat ze doet. In het basisonderwijs en in het speciaal onderwijs heeft ze vooral een verzorgend-pedagogisch/didactische rol. In het voortgezet- en beroepsonderwijs kan ze ook te maken krijgen met technisch-instrumentele werkzaamheden. De onderwijsassistent is kwaliteitsgericht en zorgt voor de continuïteit van de onderwijsassistentie. Ze kan snel schakelen tussen situaties en rollen. Ze is initiatiefrijk, weet van aanpakken en is gericht op samenwerking, ze ziet kansen en benut deze.
+
+Afhankelijk van haar taken binnen een team kan men van haar extra vakinhoudelijke werkzaamheden verwachten. Zij beheerst leerstof praktisch minimaal op het niveau als leerlingen/studenten deze moeten kennen. Dit betekent dat zij zich in het voortgezet en het beroepsonderwijs  (enigszins) moet specialiseren in een vak/leergebied. Haar (eventuele) vakinhoudelijke achtergrond, persoonlijk gevolgde opleidingstraject en ervaringen in de beroepspraktijk bepalen dan bij welk team zij het beste kan werken of welke (vakspecifieke) competenties zij (verder) moet ontwikkelen.
+]]></typeringvanhetberoep>
+            <wettelijkeberoepsvereisten>Nee</wettelijkeberoepsvereisten>
+            <toelichtingwettelijkeberoepsvereisten><![CDATA[]]></toelichtingwettelijkeberoepsvereisten>
+            <bronwettelijkeberoepsvereisten></bronwettelijkeberoepsvereisten>
+            <certificaten />
+            <sbu>4800</sbu>
+            <soortopleiding>middenkaderopleiding</soortopleiding>
+            <instellingendieaanmogenbieden />
+          </omschrijving>
+          <creboinformatie>
+            <crebo ministerie="OCW" prijsfactor="1,10" Geldig_vanaf="01-08-2015" Datum_einde_instroom="" Datum_einde_opleiding="">25485</crebo>
+          </creboinformatie>
+          <profielkerntaken>
+            <kerntaak nr="966095" titel="Uitvoeren van lesactiviteiten in overleg met de leraar" hoofdstuk="1">
+              <complexiteit><![CDATA[De onderwijsassistent heeft verschillende soorten werk. Dit kan complex zijn: het gaat om zowel pedagogische als didactische doelen én het werk is wisselend tussen individuele leerlingen/studenten en groepen. Een onderwijsassistent gaat om met onverwachte situaties, neemt beslissingen, maakt keuzes bij dilemma's en improviseert. 
+Sommige specifieke assisterende onderwijstaken kunnen om bovenstaande redenen complex zijn. Om deze taken (op inhoudelijk, didactisch, methodisch of organisatorisch terrein) uit te voeren heeft zij specialistische kennis en vaardigheden nodig (bijvoorbeeld: kennis van leergebieden en didactische vaardigheden).
+
+
+]]></complexiteit>
+              <verantwoordelijkheid><![CDATA[De onderwijsassistent verricht assisterende, veelal uitvoerende taken. Zij assisteert de leraar, leraren of het team, in overleg met en onder supervisie van een leraar of teamleider. De taken die zij verricht voert ze - binnen de gegeven taakstelling - zelfstandig uit. Zij draagt daarbij verantwoordelijkheid voor de kwaliteit van haar eigen werkzaamheden. Zij heeft geen zelfstandige verantwoordelijkheid binnen het onderwijsproces (het lesgeven). De leraar is eindverantwoordelijk voor de leerresultaten van leerlingen.]]></verantwoordelijkheid>
+              <vakkennisenvaardigheden>
+                <vakkennisenvaardigheden referentie="965999" />
+                <vakkennisenvaardigheden referentie="965984" />
+                <vakkennisenvaardigheden referentie="965985" />
+                <vakkennisenvaardigheden referentie="966023" />
+                <vakkennisenvaardigheden referentie="966009" />
+                <vakkennisenvaardigheden referentie="966012" />
+                <vakkennisenvaardigheden referentie="966034" />
+                <vakkennisenvaardigheden referentie="965988" />
+                <vakkennisenvaardigheden referentie="966030" />
+                <vakkennisenvaardigheden referentie="965977" />
+                <vakkennisenvaardigheden referentie="965980" />
+                <vakkennisenvaardigheden referentie="965981" />
+                <vakkennisenvaardigheden referentie="966021" />
+                <vakkennisenvaardigheden referentie="966028" />
+                <vakkennisenvaardigheden referentie="966033" />
+                <vakkennisenvaardigheden referentie="965991" />
+                <vakkennisenvaardigheden referentie="966031" />
+                <vakkennisenvaardigheden referentie="966032" />
+                <vakkennisenvaardigheden referentie="966027" />
+                <vakkennisenvaardigheden referentie="966041" />
+                <vakkennisenvaardigheden referentie="966067" />
+                <vakkennisenvaardigheden referentie="966036" />
+                <vakkennisenvaardigheden referentie="966054" />
+                <vakkennisenvaardigheden referentie="966049" />
+                <vakkennisenvaardigheden referentie="966068" />
+                <vakkennisenvaardigheden referentie="966052" />
+                <vakkennisenvaardigheden referentie="965971" />
+                <vakkennisenvaardigheden referentie="966056" />
+                <vakkennisenvaardigheden_met_categorie />
+              </vakkennisenvaardigheden>
+              <profielwerkprocessen>
+                <werkproces nr="966096" titel="Bereidt de uitvoering van lesactiviteiten voor" hoofdstuk="1">
+                  <werkprocesomschrijving><![CDATA[De onderwijsassistent maakt met de leraar/het lerarenteam  op basis van het lesprogramma afspraken over de lesactiviteiten die zij namens de leraar gaat uitvoeren. Ze bereidt zich inhoudelijk daarop voor door invulling te geven aan vragen zoals: wat is de inhoud van de leeractiviteiten, hoe kan zij de activiteiten aan de leerlingen/studenten aanbieden en hoe begeleidt ze hen daarbij. Ze bestudeert de inhoud van de leeractiviteit en de didactische aanpak ervan en bedenkt een aanpak. 
+
+]]></werkprocesomschrijving>
+                  <werkprocesresultaat><![CDATA[De lesactiviteiten zijn voorbereid.]]></werkprocesresultaat>
+                  <werkprocesgedrag><![CDATA[De onderwijsassistent:
+- beheerst de leerstof minimaal op het niveau dat de leerlingen/studenten moeten beheersen;
+- kiest de juiste materialen en middelen voor een activiteit;
+- kiest passende didactische instructie- en werkvormen;
+- werkt volgens instructies, gemaakte afspraken of geldende procedures.
+
+]]></werkprocesgedrag>
+                  <werkprocescompetenties>
+                    <competentie referentie="3095" />
+                    <competentie referentie="3103" />
+                    <competentie referentie="3094" />
+                  </werkprocescompetenties>
+                </werkproces>
+                <werkproces nr="966097" titel="Voert lesactiviteiten uit" hoofdstuk="2">
+                  <werkprocesomschrijving><![CDATA[De onderwijsassistent voert in overleg met de leraar/het lerarenteam lesactiviteiten uit, in bijvoorbeeld de reguliere lessen voor bepaalde vakken, in projecten en/of practica. Zij neemt lesactiviteiten over of voert lesactiviteiten uit tijdens de les van een leraar. Ze geeft de leerlingen/studenten instructie, uitleg en/of toelichting en/of demonstreert een aanpak. Zij gebruikt daarbij onderwijsleermiddelen en let op de veiligheid. Zij begeleidt individuele leerlingen/studenten of (kleine) groepen bij leeractiviteiten volgens de aanwijzingen van de leraar en op basis van het lesprogramma. Zij motiveert, stimuleert en reageert flexibel op veranderingen en neemt daarbij (eenvoudige) pedagogische/didactische beslissingen. In voorkomende situaties reageert zij adequaat op agressie en conflicten.
+]]></werkprocesomschrijving>
+                  <werkprocesresultaat><![CDATA[De onderwijsassistent heeft namens de leraar/het lerarenteam lesactiviteiten uitgevoerd en daarbij de leerlingen/studenten op gepaste wijze begeleid. De kennis heeft ze op een doeltreffende wijze en op het juiste niveau aangeboden.]]></werkprocesresultaat>
+                  <werkprocesgedrag><![CDATA[De onderwijsassistent:
+- neemt, binnen de gestelde kaders, tijdig de nodige eenvoudige pedagogische/didactische beslissingen;
+- geeft leerlingen/studenten duidelijke instructies en aanwijzingen;
+- voert activiteiten in een passend tempo en in een logische volgorde uit;
+- controleert of de uitleg begrepen is; 
+- toont voorbeeldgedrag in de omgang met materialen en middelen: zorgvuldig, kostenbewust, milieubewust, veilig en efficiënt;
+- werkt volgens de instructies en aanwijzingen van de leraar/het lerarenteam;
+- bewaakt de veiligheid tijdens de lesactiviteiten. 
+
+]]></werkprocesgedrag>
+                  <werkprocescompetenties>
+                    <competentie referentie="3084" />
+                    <competentie referentie="3085" />
+                    <competentie referentie="3094" />
+                    <competentie referentie="3095" />
+                    <competentie referentie="3103" />
+                  </werkprocescompetenties>
+                </werkproces>
+                <werkproces nr="966098" titel="Biedt (specifieke) ontwikkelingsgerichte  lesactiviteiten aan" hoofdstuk="3">
+                  <werkprocesomschrijving><![CDATA[De onderwijsassistent biedt leerlingen/studenten individueel of in groepsverband (specifieke) ontwikkelingsgerichte lesactiviteiten aan, op basis van het lesprogramma of een erkende VVE-methodiek, afgestemd op de specifieke individuele (leer- of ontwikkelings)problematiek van de leerling/student. Zij kiest daarbij (leer- en ontwikkelings)materialen passend bij de gewenste ontwikkeling van de leerling/student en begeleidt en stimuleert hem bij de uitvoering van de activiteit(en). Ze signaleert spontane kansen om de ontwikkeling van de leerling/student te stimuleren en grijpt deze aan. Ze monitort de ontwikkeling van de leerling/student, signaleert voortgang en/of stagnatie en onderzoekt mogelijke belemmeringen in de voortgang van de ontwikkeling. Zij rapporteert de leraar/het lerarenteam over de ontwikkeling van de leerling/student. In voorkomende situaties geeft zij ouders/vervangende opvoeders advies over het versterken van de leeromgeving thuis. ]]></werkprocesomschrijving>
+                  <werkprocesresultaat><![CDATA[De leerlingen/studenten zijn in hun (specifieke) ontwikkeling gestimuleerd met leeractiviteiten op maat.]]></werkprocesresultaat>
+                  <werkprocesgedrag><![CDATA[De onderwijsassistent:
+- motiveert de leerling/student om zijn best te doen, uitdagingen aan te gaan en doelen te bereiken;
+- past effectieve interventies toe gericht op de ontwikkeling van de leerling/student;
+- monitort de ontwikkeling van de leerling/student zorgvuldig;
+- kiest passende (leer- en ontwikkelings)materialen; 
+- houdt effectief rekening met onvoorziene omstandigheden;
+- rapporteert accuraat over relevante gegevens;
+- past interactievaardigheden effectief toe: sensitieve responsiteit,respect voor autonomie, structureren en grenzen stellen, praten en uitleggen, ontwikkelingsstimulering en begeleiden van interacties. 
+
+]]></werkprocesgedrag>
+                  <werkprocescompetenties>
+                    <competentie referentie="3086" />
+                    <competentie referentie="3095" />
+                    <competentie referentie="3100" />
+                    <competentie referentie="3093" />
+                    <competentie referentie="3096" />
+                    <competentie referentie="3094" />
+                  </werkprocescompetenties>
+                </werkproces>
+              </profielwerkprocessen>
+            </kerntaak>
+            <kerntaak nr="966099" titel="Uitvoeren van taken rondom de lessen " hoofdstuk="2">
+              <complexiteit><![CDATA[De onderwijsassistent voert de taken rondom de lessen voor een belangrijk deel uit binnen de schoolorganisatie. Het begeleiden bij buitenschoolse (les)activiteiten vindt daarbuiten plaats, vaak in een onbekende omgeving. Voor het uitvoeren van de taken rondom de lessen maakt de onderwijsassistent gebruik van standaardprocedures en van combinaties van standaardprocedures. Ze past daarbij kennis toe gericht op het faciliteren van de leraar en het zorgen voor een gewenste leeromgeving, organisatiegebonden kennis en specialistische kennis van onderwijsleermiddelen en materialen. Ze past tal van vaardigheden toe, uiteenlopend van het werken met verschillende software-programma's tot het oplossen van conflicten tussen leerlingen/studenten. Kenmerken voor deze taken zijn de verschillende rollen die de onderwijsassistent vervult en de verscheidenheid aan personen waarmee ze te maken heeft. Ze ondersteunt, faciliteert, signaleert en controleert en daarbij heeft ze te maken met de leraar / het team, ondersteunende medewerkers, leerlingen/studenten en/of externe deskundigen ten behoeve van de buitenschoolse activiteit. Dit brede palet aan taken, rollen en contacten maakt het werk complex. Complicerende factoren zijn daarbij bijvoorbeeld de afwegingen die ze moet maken ten aanzien van de tijd die ze beschikbaar heeft en de hoeveelheid taken die verricht moeten worden binnen die tijd.
+
+]]></complexiteit>
+              <verantwoordelijkheid><![CDATA[De onderwijsassistent werkt in overleg met de leraar/het lerarenteam of een ander verantwoordelijke functionaris zelfstandig aan de uitvoering van taken rondom de lessen. De onderwijsassistent is zelf verantwoordelijk voor de resultaten van haar eigen werkzaamheden, ook bij de toezichthoudende taak die ze heeft voor de leerlingen/studenten 
+De leraar/het lerarenteam of de verantwoordelijk functionaris is eindverantwoordelijk.]]></verantwoordelijkheid>
+              <vakkennisenvaardigheden>
+                <vakkennisenvaardigheden referentie="966002" />
+                <vakkennisenvaardigheden referentie="966023" />
+                <vakkennisenvaardigheden referentie="966020" />
+                <vakkennisenvaardigheden referentie="966066" />
+                <vakkennisenvaardigheden referentie="966036" />
+                <vakkennisenvaardigheden referentie="966054" />
+                <vakkennisenvaardigheden_met_categorie />
+              </vakkennisenvaardigheden>
+              <profielwerkprocessen>
+                <werkproces nr="966100" titel="Voert voorwaardelijke werkzaamheden uit ten behoeve van het lesprogramma" hoofdstuk="1">
+                  <werkprocesomschrijving><![CDATA[De onderwijsassistent voert, zowel gevraagd als op eigen initiatief voorbereidende en afrondende werkzaamheden uit om de lesuitvoering mogelijk te maken. Daaronder vallen bijvoorbeeld werkzaamheden als het inrichten en opruimen van de leeromgeving, het klaarzetten en opruimen van leermiddelen en hulpmiddelen. Zij voert praktische en organisatorische werkzaamheden uit ten behoeve van het klassenmanagement. Ook werkzaamheden ter verbetering van de kwaliteit van de leeromgeving horen hieronder. Zij signaleert wanneer er een tekort dreigt aan (les-)materialen of wanneer apparatuur, materiaal en werkruimte onderhoud nodig hebben. Zij geeft die signalen door aan de verantwoordelijke functionaris. ]]></werkprocesomschrijving>
+                  <werkprocesresultaat><![CDATA[Voorwaarden voor een juiste uitvoering van het lesprogramma zijn gerealiseerd.]]></werkprocesresultaat>
+                  <werkprocesgedrag><![CDATA[De onderwijsassistent:
+- gebruikt en checkt materialen en middelen volgens voorschriften;
+- gaat zorgvuldig en netjes met materialen om;
+- voert de voorbereidende en afrondende werkzaamheden ordelijk en efficiënt uit.
+]]></werkprocesgedrag>
+                  <werkprocescompetenties>
+                    <competentie referentie="3095" />
+                    <competentie referentie="3102" />
+                  </werkprocescompetenties>
+                </werkproces>
+                <werkproces nr="966101" titel="Voert administratieve taken uit" hoofdstuk="2">
+                  <werkprocesomschrijving><![CDATA[De onderwijsassistent verzorgt administratieve werkzaamheden behorend bij het eigen werk. Zij doet dit op verzoek van leraren maar daarnaast signaleert zij zelf dat er administratief werk dient te gebeuren. In dat laatste geval overlegt zij met de leraren over het uitvoeren daarvan. Zij registreert schriftelijk en/of digitaal relevante gegevens in het binnen de organisatie gehanteerde (digitale) systeem om data(bestanden) actueel te houden. Zij zorgt dat gegevens ook voor overige bevoegden toegankelijk en begrijpelijk zijn. ]]></werkprocesomschrijving>
+                  <werkprocesresultaat><![CDATA[De onderwijsassistent heeft gegevens volledig en betrouwbaar, volgens geldende richtlijnen en naar wens van de leraar/ het lerarenteam vastgelegd.  
+
+
+]]></werkprocesresultaat>
+                  <werkprocesgedrag><![CDATA[De onderwijsassistent:
+- laat actief weten beschikbaar te zijn voor ondersteunende taken;
+- neemt initiatief na het signaleren van (administratieve) werkzaamheden die nog gedaan moeten worden;
+- houdt zich strikt aan verkregen instructies en de voorgeschreven (werk)procedures;
+- verwerkt relevante gegevens in databestanden;
+- voert administratieve handelingen zorgvuldig en accuraat uit;
+- gaat integer om met vertrouwelijke gegevens.  ]]></werkprocesgedrag>
+                  <werkprocescompetenties>
+                    <competentie referentie="3103" />
+                    <competentie referentie="3106" />
+                    <competentie referentie="3093" />
+                    <competentie referentie="3101" />
+                    <competentie referentie="3089" />
+                  </werkprocescompetenties>
+                </werkproces>
+                <werkproces nr="966102" titel="Houdt toezicht en begeleidt buiten de lessen" hoofdstuk="3">
+                  <werkprocesomschrijving><![CDATA[De onderwijsassistent houdt buiten de lessen toezicht op en begeleidt leerlingen/studenten bij niet lesgebonden activiteiten. Zij toont interesse in de leerlingen/studenten en treedt handelend op wanneer leerlingen/studenten afwijken of dreigen af te wijken van de gemaakte afspraken of geldende regels en protocollen. Ze neemt praktische en pedagogische beslissingen om de situatie te reguleren. Zij ziet toe op de veiligheid van leerlingen/studenten in ongestructureerde situaties en treedt handelend op bij calamiteiten.  
+]]></werkprocesomschrijving>
+                  <werkprocesresultaat><![CDATA[Buiten de lessen zijn leerlingen/studenten adequaat begeleid en de sociale en fysieke veiligheid is gewaarborgd door adequaat toezicht door de onderwijsassistent.]]></werkprocesresultaat>
+                  <werkprocesgedrag><![CDATA[De onderwijsassistent:
+- handelt proactief op signalen van (dreigende) afwijking van afspraken en regels/protocollen; 
+- toont overwicht op leerlingen/studenten; 
+- spreekt de leerlingen/studenten op positieve wijze op hun gedrag aan; 
+- behandelt leerlingen/studenten rechtvaardig;
+- past consequent voor school geldende waarden en normen toe;
+- handelt ook in onzekere en onduidelijke situaties met zelfvertrouwen en rust; 
+- gaat functioneel om met verschillende achtergronden en cultuur. 
+]]></werkprocesgedrag>
+                  <werkprocescompetenties>
+                    <competentie referentie="3084" />
+                    <competentie referentie="3085" />
+                    <competentie referentie="3086" />
+                    <competentie referentie="3104" />
+                    <competentie referentie="3091" />
+                  </werkprocescompetenties>
+                </werkproces>
+                <werkproces nr="966103" titel="Voert coördinerende taken binnen de school uit" hoofdstuk="4">
+                  <werkprocesomschrijving><![CDATA[De onderwijsassistent voert in opdracht van leraar/het lerarenteam de coördinatie van taken of activiteiten uit. Hierbij gaat het om bijvoorbeeld de planning en organisatie van bijzondere (les)activiteiten zoals  buitenschoolse activiteiten. Ze legt actief contact met intern en/of extern betrokkenen, verzamelt informatie, maakt een plan en een planning en verdeelt de werkzaamheden. Zij draagt zorg voor randvoorwaarden en bepaalt de prioriteiten binnen de werkzaamheden. Zij coördineert de werkzaamheden van de verschillende in- en/of extern betrokkenen, deelt kennis en ervaring, zorgt voor procesbewaking, zorgt voor een goede afstemming van werkzaamheden en houdt betrokkenen, zoals bijvoorbeeld lerarenteam, leerlingen/studenten en ouders/vervangende opvoeders op de hoogte. 
+Na de uitvoering van de bijzondere (les)activiteit evalueert zij het resultaat met betrokkenen en zorgt voor het (gezamenlijk) opstellen van verbeterpunten. ]]></werkprocesomschrijving>
+                  <werkprocesresultaat><![CDATA[De onderwijsassistent heeft de bijzondere (les)activiteiten en de buitenschoolse activiteiten zodanig georganiseerd en gecoördineerd dat de kwaliteit en continuïteit van de activiteiten gewaarborgd is. Er zijn verbeterpunten voor de toekomst geformuleerd.]]></werkprocesresultaat>
+                  <werkprocesgedrag><![CDATA[De onderwijsassistent:
+- stuurt duidelijk en met overtuigingskracht aan;
+- informeert betrokkenen duidelijk, volledig, tijdig en regelmatig;  
+- deelt proactief haar kennis en ervaringen met betrokkenen;
+- zorgt voor een effectieve verdeling van taken;  
+- speelt flexibel in op veranderende omstandigheden.]]></werkprocesgedrag>
+                  <werkprocescompetenties>
+                    <competentie referentie="3085" />
+                    <competentie referentie="3088" />
+                    <competentie referentie="3100" />
+                  </werkprocescompetenties>
+                </werkproces>
+              </profielwerkprocessen>
+            </kerntaak>
+          </profielkerntaken>
+        </profiel>
+      </profielen>
+      <verantwoordingsinformatie titel="Verantwoordingsinformatie">
+        <brondocumenten titel="Beroepscompetentieprofielen (BCP)" hoofdstuk="1">
+          <brondocument naam="BCP-Onderwijsondersteuner-09.pdf" type="Beroepscompetentie profiel (BCP)" datum="01-10-2009" omschrijving="Beroepscompetentieprofiel onderwijsondersteuner" link="http://digik.s-bb.nl/UserControls/DossierResource.ashx?D90979979-c87d-4f20-9170-0514093e7151" />
+          <brondocument naam="BCP_Groepsleidster_Kinderopvang.pdf" type="Beroepscompetentie profiel (BCP)" datum="01-07-2006" omschrijving="Beroepscompetentieprofiel Groepsleidster Kinderopvang (NIZW)" link="http://digik.s-bb.nl/UserControls/DossierResource.ashx?D46806aa7-3415-4af8-bb5d-b686af08f40c" />
+          <brondocument naam="BCP_Groepsleidster_Buitenschoolse_opvang.pdf" type="Beroepscompetentie profiel (BCP)" datum="01-10-2005" omschrijving="Beroepscompetentieprofiel Groepsleidster Buitenschoolse Opvang (NIZW)" link="http://digik.s-bb.nl/UserControls/DossierResource.ashx?D31a5edd6-f90e-4fcf-9c6d-b8d537437e3b" />
+          <brondocument naam="BCP_Leidster_Peuterspeelzaalwerk.pdf" type="Beroepscompetentie profiel (BCP)" datum="01-10-2005" omschrijving="Beroepscompetentieprofiel Leidster Peuterspeelzaalwerk (NIZW)" link="http://digik.s-bb.nl/UserControls/DossierResource.ashx?Db59cef5c-0c4a-4a47-966b-1fb73ae39da1" />
+          <brondocument naam="BCP_Pedagogisch_Werker.pdf" type="Beroepscompetentie profiel (BCP)" datum="01-10-2005" omschrijving="Beroepscompetentieprofiel Pedagogisch Werker (NIZW)" link="http://digik.s-bb.nl/UserControls/DossierResource.ashx?D7a9b9a99-7ff3-4504-af29-6aff4898d0b8" />
+        </brondocumenten>
+        <arbeidsmarktinformatie titel="Arbeidsmarktinformatie" hoofdstuk="2"><![CDATA[Pedagogisch Medewerker Kinderopvang
+
+Kans op werk
+De kans op werk voor gediplomeerden ‘pedagogisch medewerker kinderopvang’  is gering. Bezuinigingen van de overheid hebben het gebruik van kinderopvang in 2013 -2014 flink verminderd. Daardoor zijn er veel minder werknemers nodig; de vraag naar werknemers neemt naar verwachting nog meer af.  Van de gediplomeerden pedagogisch medewerker kinderopvang doet 30% een vervolgstudie. 65% gaat direct werken: daarvan werkt 80% in de kinderopvang.
+
+Kans op stage
+Voor studenten pedagogisch medewerker kinderopvang in de opleiding is de kans op stage in 2013-2014 landelijk gezien ruim voldoende. In vrijwel elke regio zijn er voldoende tot ruim voldoende stageplaatsen. Het aantal regio’s met knelpunten in het stage-aanbod is iets minder dan in het schooljaar daarvoor.   
+In schooljaar 2013-2014 zijn er 11.400 studenten ‘pedagogisch medewerker  kinderopvang’ in opleiding. Dit zijn 27% minder studenten dan in schooljaar 2012-2013. Er zijn zowel minder BOL-  als BBL studenten. Zolang de vermindering van het aantal studenten gelijk opgaat met de krimp in de kinderopvang blijft de kan op stage naar verwachting voorlopig voldoende.
+
+
+Gespecialiseerd pedagogisch medewerker
+
+Kans op werk
+De kans op werk voor gediplomeerden ‘gespecialiseerd pedagogisch medewerker’ is vanwege een verbreding van het opleidingsprofiel niet goed te bepalen. De voorloper van deze opleiding was gericht op de kinderopvang. Bezuinigingen van de overheid hebben sinds 2012 het gebruik van kinderopvang flink verminderd. Daardoor zijn er veel minder werknemers nodig; die vraag naar werknemers neemt naar verwachting nog meer af.
+De gespecialiseerd pedagogisch medewerker heeft ook buiten de kinderopvang arbeidskansen; echter die kans is ook onzeker vanwege ontwikkelingen op de arbeidsmarkt.
+De consequenties van het overheidsbeleid (kinderopvang, integrale kindcentra, transitie jeugdzorg, wmo) op de inrichting van de sociaal terreinen zijn nog moeilijk te trekken. Van de gediplomeerden gespecialiseerd pedagogisch medewerker kinderopvang doet zo’n 30% een vervolgstudie; 66% gaat direct werken.
+
+Kans op stage
+Voor studenten gespecialiseerd pedagogisch medewerker in opleiding is de kans op stage naar verwachting op landelijk niveau voldoende. Tweederde van de regio’s heeft in 2013-2014 voldoende stageplaatsen voor de kwalificatie gespecialiseerd medewerker kinderopvang,  in ruim een derde is er een tekort. Het aantal regio’s met knelpunten is licht afgenomen in vergelijking met het schooljaar daarvoor.  
+In schooljaar 2013-2014 zijn er 6.100 studenten gespecialiseerd pedagogisch medewerker 4 kinderopvang in opleiding.  Dit zijn 11% minder studenten dan in het schooljaar 2012-2013. Er zijn vooral minder BBL studenten. 
+In schooljaar 2013-2014 waren  er ruim 3.300 studenten pedagogisch medewerker 4 jeugdzorg in opleiding. Dit zijn 2% minder studenten dan in 2012-2013. Er zijn iets meer  BOL- studenten, maar flink minder BBL-studenten. De kwalificatie pedagogisch medewerker 4 jeugdzorg is vervallen met ingang van 1 augustus 2016.
+
+
+Onderwijsassistent
+
+Kans op werk
+De kans op werk voor gediplomeerde onderwijsassistenten is klein. Dit is al enige jaren zo. Mogelijk komt er in de toekomst een verandering vanwege het verwacht tekort aan gekwalificeerde werknemers in het primair en voortgezet onderwijs en vanwege de ontwikkelingen op het gebied van integrale kindcentra waarin voorzieningen als  kinderopvang, peuterspeelzaalwerk en onderwijs worden samengevoegd.
+Van de gediplomeerde onderwijsassistenten doet 70% een vervolgstudie. Zo’n 30% gaat direct werken, daarvan werkt 33% in de kinderopvang; 25% in het onderwijs en 21% buiten de zorg, welzijn, sport of onderwijs.
+
+Kans op stage
+Voor studenten onderwijsassistent in opleiding is de kans op stage landelijk ruim voldoende. In elke regio zijn er (ruim) voldoende stageplaatsen. Het aanbod is zelfs toegenomen n vergelijking met het schooljaar 2012-2013.  
+In schooljaar 2013-2014 zijn er bijna 10.000 studenten in opleiding. Dit is bijna 6% minder dan in 2012-2013.  Er zijn veel minder BBL-studenten. Deze terugloop in aantal houdt – bij gelijkblijvend aanbod - de kans op stage voor de komende jaren (ruim) voldoende.
+
+
+Voor actuele gegevens, zie www.kansopstage.nl en www.kansopwerk.nl
+
+
+Bronnen
+-	Arbeidsmarktprognoses van VOV personeel in zorg en welzijn 2013-2017, landelijk onderzoeksprogramma AZW, aug. 2013
+-	DUO, studentenbestanden 2012-2013 en 2013-2014, peildatum okt. 2012 en okt. 2013
+-	Kans op Stage, Calibris, diverse peilmomenten in 2012, 2013 en 2014
+-	Kans op Werk, Calibris, nov. 2013
+-	Regeerakkoord, Zorgakkoord en Sociaal akkoord, 2013
+-	DUO Market Research, rendement opleidingen Calibris, 2012 (bewerking Calibris, 2013)
+-	Monitor Arbeidsmarkt en Onderwijs Welzijn, Calibris, november 2013
+-	Rijksoverheid.nl/ Werken in het onderwijs
+]]></arbeidsmarktinformatie>
+        <trendsenontwikkelingen titel="Trends en ontwikkelingen" hoofdstuk="3">
+          <wetenregelgeving><![CDATA[Wet Meldcode huiselijk geweld en kindermishandeling
+Op 1 juli 2013 treedt de wet Meldcode huiselijk geweld en kindermishandeling in werking voor de sectoren gezondheidszorg, onderwijs, kinderopvang, maatschappelijke ondersteuning, jeugdzorg en justitie. De meldcode behelst een stappenplan dat duidelijkheid geeft over hoe te handelen bij vermoedens van geweld. Het betreft alle vormen van geweld in afhankelijkheidsrelaties, naast huiselijk geweld en kindermishandeling, ook seksueel geweld, ouderenmishandeling, eergerelateerd geweld en vrouwelijk genitale verminking. Het gaat om een wettelijke verplichting tot het hebben van een meldcode en een plicht tot zorgvuldig handelen, niet om een meldplicht. www.meldcode.nl
+In de kwalificatiedossiers is de Wet Meldcode huiselijk geweld en kindermishandeling ondergebracht bij vakkennis en vaardigheden. In de uitwerking kan de onderwijsinstelling, indien aanwezig, gebruik maken van specifieke richtlijnen van branches.
+
+In de kwalificatiedossiers op niveau 2 staat bij kennis: heeft basiskennis van wet- en regelgeving waaronder: Meldcode huiselijk geweld en kindermishandeling, .......
+In de kwalificatiedossiers op niveau 3 staat bij kennis: heeft kennis van wet- en regelgeving waaronder: Meldcode huiselijk geweld en kindermishandeling, ..........
+In de kwalificatiedossiers op niveau 4 staat bij kennis: heeft specialistische kennis van wet- en regelgeving waaronder: Meldcode huiselijk geweld en kindermishandeling, ..........
+
+
+In alle kwalificatiedossiers op niveau 2 bij vaardigheden: kan signalen herkennen van sociale problematiek waaronder huiselijk geweld, seksueel misbruik en kindermishandeling en deze signalen melden aan de leidinggevende volgens wet- en regelgeving en het beleid/protocol van de organisatie. 
+In alle kwalificatiedossiers op niveau 3 en 4 bij vaardigheden: kan signalen herkennen van sociale problematiek waaronder huiselijk geweld, seksueel misbruik en kindermishandeling en actie ondernemen volgens wet- en regelgeving en het beleid/protocol van de organisatie.
+
+
+Wet Ontwikkelingskansen door Kwaliteit en Educatie
+In de Wet Ontwikkelingskansen door Kwaliteit en Educatie (Wet OKE) is geregeld dat kinderen van 0 tot 4 jaar met een taalachterstand extra taallessen krijgen bij de kinderopvang en peuterspeelzalen, zodat zij vanaf hun eerste schooldag niet achterlopen bij hun klasgenootjes. De wet is op 1 augustus 2010 in werking getreden. Vanaf deze datum zijn gemeenten verplicht om een goed aanbod van voor- en vroegschoolse educatie (VVE) te doen aan alle jonge kinderen met een taalachterstand. Peuterspeelzalen en kinderdagverblijven gaan hiervoor meer samenwerken. Ook wordt de regelgeving voor peuterspeelzalen en kinderdagverblijven geharmoniseerd.
+
+Besluit basisvoorwaarden kwaliteit voorschoolse educatie  
+In het Besluit basisvoorwaarden kwaliteit voorschoolse educatie van 7 juli 2010 (Staatsblad 298) zijn basisvoorwaarden opgenomen voor de kwaliteit van de voorschoolse educatie.
+Enkele belangrijke bepalingen hieruit zijn: 
+- Voorschoolse educatie omvat per week ten minste vier dagdelen van ten minste 2,5 uur per week of per week ten minste 10 uur aan activiteiten gericht op het stimuleren van ontwikkelingsdomeinen. 
+-  Wanneer voorschoolse educatie wordt gegeven dient er minimaal een beroepskracht per acht kinderen aanwezig te zijn. Er mogen maximaal 16 kinderen in de groep zitten. 
+- De beroepskrachten moeten geschoold zijn op niveau PW-3. Binnen deze opleiding moet minimaal 1 module over het verzorgen van voorschoolse educatie zijn gevolgd. Als een pedagogisch medewerker dat niet in de initiële opleiding heeft gehad is zij aangewezen op nascholing. Als voldoende opleiding geldt een bewijs dat met gunstig gevolg scholing is afgerond, specifiek gericht op het vroegtijdig bestrijden van achterstanden bij jonge kinderen of het werken met voor- en vroegschoolse educatieprogramma’s. 
+-  Voor de voorschoolse educatie wordt een programma gebruikt waarin op gestructureerde en samenhangende wijze de ontwikkeling wordt gestimuleerd op het gebied van taal, rekenen, motoriek en de sociaal emotionele ontwikkeling.  OCW schrijft geen voorschoolse programma’s voor, maar wijst wel op het belang van werken met evidence based programma’s.
+
+
+Wet BIO
+Naar het zich laat aanzien zal de onderwijsassistent op termijn ook moeten voldoen aan bekwaamheidseisen (Wet BIO). In augustus 2005 zijn de bekwaamheidseisen onderwijzend personeel vastgesteld (OCW, Algemene maatregel van bestuur, augustus 2005). Informatie over de (verder te ontwikkelen) kwalificatiestructuur onderwijs is te vinden op www.lpbo.nl. In opdracht van het LPBO hebben Calibris en SBL competentieprofielen en bekwaamheidseisen ontwikkeld voor Onderwijsondersteuners. Deze zijn eind augustus 2009 door het LPBO aan de staatssecretaris aangeboden. Sociale partners hebben aangegeven dat zij dit nieuwe BCP willen gebruiken als brondocument voor dit kwalificatiedossier. Het competentieprofiel en de bekwaamheidseisen voor de onderwijsondersteuner niveau 1 zijn verwerkt in dit kwalificatiedossier. Voor aanvullende informatie en de actuele stand van zaken: zie www.calibris.nl.
+
+Wet Primair Onderwijs
+Vanwege een aanpassing in de Wet Primair Onderwijs zijn basisscholen per 1 augustus 2007 verplicht om van 07.30 tot 18.30 uur de mogelijkheid tot buitenschoolse opvang te bieden (indien een of meer ouders/vervangende opvoeders dat wensen). Dit geldt zowel voor de schoolweken als voor de vakantieperiodes. Hierdoor ontstaan ‘dagarrangementen' voor kinderen: een samenhangend aanbod (doorlopend van 's ochtends tot 's avonds) van opvang, onderwijs, overblijf, sport-, welzijns- en culturele activiteiten. Door de ontwikkeling van dagarrangementen ontstaan er voor werknemers steeds vaker zogenaamde combinatiefuncties: hierin kan een persoon meerdere functies uitoefenen in kinderopvang, sport en onderwijs. Zo is er bijvoorbeeld de combinatiefunctie van onderwijsassistent en groepsleidster in de naschoolse opvang. In dit kader bestaat de regeling 'Dagarrangementen en Combinatiefuncties'.
+
+Eisen met betrekking tot passend onderwijs
+De invoering van passend onderwijs in 2011 betekent dat scholen primair verantwoordelijk worden voor het aanbieden van geschikt onderwijs en dat reguliere scholen hun aanbod zullen variëren en diversifiëren. In toenemende mate worden leerlingen met een beperking (Downsyndroom, dyslexie, autisme en ook leerlingen met beperkingen op het gebied van horen en zien) opgevangen in een reguliere setting. Dit bekent dat de  onderwijsassistent moet beschikken over kennis op een praktisch niveau over beperkingen als bijvoorbeeld dyslexie en autisme en aangepaste instructie- en didactische methoden voor deze leerlingen/deelnemers. Tevens moeten onderwijsassistenten enige kennis hebben van de professionele (zorg)infrastructuur waar scholen een plaats in hebben.
+
+Impuls brede school
+Overeenkomst ‘Impuls brede school', waarin afspraken worden gemaakt over de realisatie van 2500 combinatiefuncties. De overeenkomst is gesloten tussen staatssecretaris Dijksma (OCW), staatssecretaris Bussemaker (VWS), Vereniging van Nederlandse Gemeenten, onderwijsorganisaties, Cultuurformatie en sportkoepel NOC*NSF.
+
+
+Wijzigingen in wet en regelgeving
+Tijdens het opstellen van de kwalificatiedossiers zijn er een aantal ingrijpende stelselwijzigingen in voorbereiding, waarvan de gevolgen voor de beroepsuitoefening nog niet geheel zijn te overzien. Beoogd wordt de collectieve uitgaven te beheersen en de eigen kracht van de burger en diens netwerk te versterken. Het gaat om ombuigingen van miljarden die vele cliënten, beroepskrachten en organisaties zullen raken. De eerste vraag hierbij is wat kan de cliënt zelf nog wel. Daarna is de vraag welke ondersteuning de cliënt uit diens netwerk kan krijgen en vervolgens of buurtgenoten of vrijwilligers een bijdrage kunnen leveren. Pas nadat gekeken is naar de rol die algemene voorzieningen kunnen spelen, is de vraag aan de orde of gespecialiseerde zorg nodig is.
+Om deze veranderingen te realiseren worden een aantal wetten samengevoegd en/of overgeheveld naar gemeenten. Gelijktijdig wordt bevorderd dat iedereen met een beperking kan deelnemen aan de samenleving. Dit op alle domeinen van het leven, dus, zowel op het gebied van wonen, als van mobiliteit, opleiding/werk en vrijetijdsbesteding. Belangrijke wetgeving en regelgeving die hierover wordt uitgewerkt is:
+1. Ratificering VN-verdrag voor de rechten van mensen met een beperking.
+Nederland heeft dit verdrag ondertekend en zal dit deze kabinet periode bekrachtigen. De definitie van mensen met een beperking in het verdrag is breed.
+2. Uitbreiding Wet gelijke behandeling op grond van handicap of ziekte.
+De werkingssfeer van deze wet die sinds 2003 van kracht is wordt fasegewijs uitgebreid. Naast arbeid, naar wonen, openbaar vervoer, voortgezet onderwijs, etc.
+3. Nieuwe Wet Maatschappelijke Ondersteuning.
+Een belangrijk deel van de AWBZ wordt overgeheveld naar de WMO, waaronder ook het welzijnswerk resulteert. Hierbij wordt een substantiële bezuiniging toegepast Gemeenten zullen het werk gaan gunnen via aanbestedingsprocedures. De verwachting is dat zorg en welzijn meer integraal worden aangeboden, en zorgorganisaties deskundigheid over de doelgroepen van welzijn en
+welzijn van de doelgroepen in de zorg op moeten gaan bouwen.
+4. Nieuwe wet op de Jeugdzorg.
+Ook hierbij krijgt de gemeente een regierol voor de ondersteuning van jongeren en gezinnen. Zowel de AWBZ zorg voor mensen met een beperking als de tot dusver provinciaal gefinancierde jeugdhulp wordt hierin opgenomen. Uitgangspunt hierbij is één regisseur per gezin, en het opheffen van de schotten tussen diverse hulpverleningsinstanties. Doordat regie en bekostiging bij gemeenten komt te liggen, ontstaan er verschillen in beleid tussen gemeenten. Bij organisaties die voor meerdere gemeenten werken, kan dit de complexiteit verhogen voor de professional.
+5. Nieuwe Participatiewet.
+Met de participatiewet beoogt de overheid dat iedereen die kan werken, ook gaat werken. Dit geldt ook voor mensen met een arbeidsbeperking. Er komt één regeling voor alle mensen die een opstap naar de arbeidsmarkt nodig hebben. Dit is nu nog verspreidt over de Wet Werk en Bijstand (WWB), de Wet Sociale Werkvoorziening (WSW) en Wet Werk en Arbeidsondersteuning Jong Gehandicapten (WAJONG).
+6. Nieuwe Wet Langdurig Zorg.
+Voor mensen met een intensieve zorgzwaarte waarvoor de WMO en Participatiewet niet van toepassing is, komt een nieuwe Wet Langdurig Zorg.
+7. Zorgverzekeringswet (ZVW).
+De AWBZ functie extramurale verpleging wordt per 2015 overgeheveld naar de ZVW. De huidige intramurale GGZ in de AWBZ wordt per 2015 overgeheveld naar de Zvw, waarbij over het onderdeel maatschappelijke opvang bij gemeenten worden ondergebracht. Binnen de ZVW wordt de aanspraak thuisverpleging geregeld. Hierin staat wat er van de wijkverpleging mag worden verwacht aan zorg en verpleging en hoe dit wordt bekostigd. Dit zal voor een groot deel gaan bepalen in hoeverre zorg, verpleging en preventie extramuraal een rol gaat krijgen. 
+]]></wetenregelgeving>
+          <ontwikkelingenindeberoepsuitoefening><![CDATA[Ontwikkelingen in de kinderopvang
+ - Opvang van kinderen met beperkingen in de reguliere opvang is een trend die eind jaren 90 is ingezet. Inmiddels is deze trend wel ingedaald, maar nog niet structureel geworden. Van de pedagogisch medewerker vraagt het opvangen van deze kinderen dat zij openstaat voor de specifieke vraag van het kind, het verkrijgen van specifieke kennis en vaardigheden en inzet van extra tijd en aandacht. Ook zal de pedagogisch medewerker gesprekken met de ouders/vervangende opvoeders voeren over de problematiek van hun kind. 
+- Nog steeds is er een ontwikkeling gaande naar meer Brede Scholen. De ‘Brede School 'is een netwerk van verschillende voorzieningen voor jeugd. Zo'n netwerk, met de school als spil, stimuleert de ontwikkeling van kinderen en jongeren van 4 tot 18 jaar. Naast onderwijs kan het netwerk bestaan uit welzijnswerk, sportorganisaties en organisaties voor kunst en educatie, peuterspeelzalen, kinderopvang, gezondheidszorg, maatschappelijk werk, bibliotheken en jeugdzorg. Het werken binnen een Brede School vraagt van de pedagogisch medewerker een ruime blik en samenwerking en afstemming over de grenzen van haar eigen organisatie heen. 
+- Op de (politieke) agenda staat ook harmonisatie van kinderopvang en peuterspeelzaalwerk. Voorzien wordt een wetswijziging in 2010. Tot die tijd wordt met ingang van 2008 door de staatssecretaris van OCW structureel extra geïnvesteerd in Voor- en Vroegschoolse Educatie (VVE), met name taalstimulering. Voor de pedagogisch medewerker houdt dit in dat zij te maken zal krijgen met een doelgroep die veel diversiteit vertoont, omdat het voor meer kinderen mogelijk zal zijn gebruik te maken van opvangvoorzieningen. Daarmee zal naar verwachting ook meer nadruk komen te liggen op signaleren van (taal) achterstand bij jonge kinderen en op het uitvoeren van specifieke programma's om deze te voorkomen of weg te werken.  
+
+
+Ontwikkelingen m.b.t. de onderwijsassistent
+Momenteel is de arbeidsmarkt onvoorspelbaar en fluctuerend hetgeen kan leiden tot nieuwe onderwijsontwikkelingen of andere onderwijsorganisaties. Dit kan gevolgen hebben voor de manier waarop onderwijsassistenten ingezet worden in de organisatie of voor hun takenpakket. Steeds meer blijkt dat onderwijsassistenten aan een team worden gekoppeld. Dit levert ook een andere werkwijze en takenpakket op dan wanneer de onderwijsassistent werkt met één vaste leraar. De onderwijsassistent moet steeds meer kunnen werken met computers en computerprogramma's. In de beroepsbekwaamheid wordt het werken in en met een elektronische leeromgeving steeds belangrijker.  
+
+
+Welzijn Nieuwe Stijl
+De WMO is al vier jaar van kracht en heeft de volgende  doelen:
+-     Burgers weten zich beschermd, zijn zelfredzaam, maatschappelijk actief en zorgen voor elkaar.
+-     De sociale samenhang en betrokkenheid neemt toe. 
+-     Mensen met een beperking, zo nodig met een steuntje in de rug, redden zich in en om het huis en blijven langer zelfstandig wonen en meedoen in de maatschappij.  Zij geloven meer in eigen kracht en leunen minder op de overheid en professionals.
+
+Met de Wet Maatschappelijke Ondersteuning (WMO) is het welzijnswerk weer in beeld gekomen. Dit vraagt van gemeenten, instellingen en burgers een meer gemeenschappelijke, vraaggerichte,  resultaatgerichte en efficiëntere aanpak. Om deze aanpak een impuls te geven start het Ministerie van Volksgezondheid, Welzijn en Sport (VWS) met de Vereniging van Nederlandse Gemeenten en werkgeversorganisatie MOgroep Welzijn & Maatschappelijke Dienstverlening(W&MD) ‘Welzijn nieuwe stijl'. Vooral de (sturings)relatie tussen gemeenten, welzijnsinstellingen en de verbetering van de kwaliteit en professionaliteit van het welzijnswerk kunnen een extra positieve impuls geven aan het bereiken van de doelen van de WMO. 
+
+Voor verbetering van de kwaliteit en professionaliteit van de betrokkenen zijn de volgende bakens om richting aan het handelen te geven opgesteld:
+1.    Gericht op de vraag achter de vraag. 
+2.    Gebaseerd op de eigen kracht van de burger.
+3.    Direct er op af.
+4.    Formeel en informeel in optimale verhouding.
+5.    Doordachte balans van collectief en individueel. 
+6.    Integraal werken. 
+7.    Niet vrijblijvend en resultaatgericht. 
+8.    Gebaseerd op ruimte voor de professional.
+
+
+ 
+
+
+ 
+
+ 
+]]></ontwikkelingenindeberoepsuitoefening>
+        </trendsenontwikkelingen>
+        <wettelijkeberoepsvereisten titel="Wettelijke beroepsvereisten" hoofdstuk="4"><![CDATA[Niet van toepassing voor dit dossier. ]]></wettelijkeberoepsvereisten>
+        <bijzonderevereisten titel="Bijzondere vereisten" hoofdstuk="5">
+          <profiel referentie="966072">
+            <eisen>Nee</eisen>
+            <toelichtingvereisten><![CDATA[]]></toelichtingvereisten>
+          </profiel>
+          <profiel referentie="966080">
+            <eisen>Nee</eisen>
+            <toelichtingvereisten><![CDATA[]]></toelichtingvereisten>
+          </profiel>
+          <profiel referentie="966094">
+            <eisen>Nee</eisen>
+            <toelichtingvereisten><![CDATA[]]></toelichtingvereisten>
+          </profiel>
+        </bijzonderevereisten>
+        <taalbeheersingseisen titel="Beroepsspecifieke moderne vreemde talen" hoofdstuk="6">
+          <toelichting><![CDATA[Engels is onderdeel van de beroepsuitoefening van de onderwijsassistent. Engels is zowel in het basisonderwijs als in het voortgezetonderwijs en de BVE een regulier vak. Engels is daarom als onderdeel van de beroepskwalificering opgenomen. Voor gespreken voeren, spreken en schrijven worden om die reden hogere eisen gesteld aan de beheersing van het Engels dan de generieke eisen (B1 ipv. A2).]]></toelichting>
+          <taalbeheersingseis titel="Beroepsspecifieke moderne vreemde talen">
+            <profiel referentie="966094">
+              <taal titel="Engels">
+                <taalvaardigheden>
+                  <taalvaardigheid titel="Luisteren" niveau="B1" />
+                  <taalvaardigheid titel="Lezen" niveau="B1" />
+                  <taalvaardigheid titel="Gesprekken voeren" niveau="B1" />
+                  <taalvaardigheid titel="Spreken" niveau="B1" />
+                  <taalvaardigheid titel="Schrijven" niveau="B1" />
+                </taalvaardigheden>
+              </taal>
+            </profiel>
+          </taalbeheersingseis>
+        </taalbeheersingseisen>
+        <ontwikkelmogelijkheden titel="Ontwikkelmogelijkheden van de beroepsbeoefenaar in het onderwijs" hoofdstuk="7"><![CDATA[Het diploma pedagogisch medewerker geeft recht op doorstroom naar de opleiding gespecialiseerd pedagogisch medewerker alsook naar andere mbo-opleidingen op niveau 4, zoals bijvoorbeeld Persoonlijk begeleider gehandicaptenzorg, Persoonlijk begeleider specifieke doelgroepen, Sociaal-cultureel Werker, Onderwijsassistent, Sociaal-maatschappelijk dienstverlener, Verpleegkundige of Praktijkopleider. 
+
+Met een diploma gespecialiseerd pedagogisch medewerker is doorstroming mogelijk naar hbo opleidingen, bijvoorbeeld de opleiding Sociaal Pedagogische Hulpverlening, Pedagogiek, Cultureel Maatschappelijke Vorming, Pabo of Maatschappelijk Werk en Dienstverlening.
+
+Een gediplomeerd onderwijsassistent kan doorleren voor leraar, bijvoorbeeld via de pabo of een lerarenopleiding, indien voldaan wordt aan de instroomeisen. Voor toelating tot de pabo worden eisen gesteld aan het beheersingsniveau van taal, rekenen, geschiedenis, aardrijkskunde, natuur en techniek. Een gediplomeerd onderwijsassistent kan ook doorstromen naar andere Sociaal Agogische opleidingen in het HBO zoals Sociaal Pedagogische Hulpverlening, Pedagogiek, Cultureel Maatschappelijke Vorming of Maatschappelijk Werk en Dienstverlening.
+]]></ontwikkelmogelijkheden>
+        <onderhoudsagenda titel="Onderhoudsagenda" hoofdstuk="8">
+          <agenda>
+            <onderdeel>
+              <onderwerp><![CDATA[Examenprofiel ZWS]]></onderwerp>
+              <actie><![CDATA[Examenprofiel ZWS aanpassen aan nieuwe eisen]]></actie>
+              <wie><![CDATA[Paritaire commissie 
+Sub-pc’s 
+Calibris
+]]></wie>
+              <wanneer><![CDATA[2014]]></wanneer>
+            </onderdeel>
+            <onderdeel>
+              <onderwerp><![CDATA[Onderhoud kd’s]]></onderwerp>
+              <actie><![CDATA[Monitoren en zo nodig actie ondernemen/initiëren van visie, trends, wetenschap en ontwikkelingen in de beroepsuitoefening en op de arbeidsmarkt en dit jaarlijks plaatsen in onderhoudsperspectief]]></actie>
+              <wie><![CDATA[Paritaire commissie 
+Sub-pc’s 
+Calibris
+]]></wie>
+              <wanneer><![CDATA[2014-2020]]></wanneer>
+            </onderdeel>
+            <onderdeel>
+              <onderwerp><![CDATA[Ontwikkelingen beroepenstructuur en bcp’s]]></onderwerp>
+              <actie><![CDATA[Nieuwe bcp’s en geactualiseerde bcp’s worden aangeleverd door sociale partners]]></actie>
+              <wie><![CDATA[Sociale partners]]></wie>
+              <wanneer><![CDATA[2014-2020]]></wanneer>
+            </onderdeel>
+            <onderdeel>
+              <onderwerp><![CDATA[Actualisatie kwalificatiestructuur en kwalificatiedossiers]]></onderwerp>
+              <actie><![CDATA[Op basis van nieuwe en/of geactualiseerde bcp’s worden kwalificatiedossiers aangepast]]></actie>
+              <wie><![CDATA[Paritaire commissie 
+Sub-pc’s 
+Calibris
+]]></wie>
+              <wanneer><![CDATA[2014-2020]]></wanneer>
+            </onderdeel>
+            <onderdeel>
+              <onderwerp><![CDATA[Technologische ontwikkelingen]]></onderwerp>
+              <actie><![CDATA[Doorvertaling van technologische ontwikkelingen naar kd’s, keuzedelen en servicedocumenten]]></actie>
+              <wie><![CDATA[Paritaire commissie 
+Sub-pc’s 
+Calibris
+]]></wie>
+              <wanneer><![CDATA[2014-2020]]></wanneer>
+            </onderdeel>
+            <onderdeel>
+              <onderwerp><![CDATA[Keuzedelen]]></onderwerp>
+              <actie><![CDATA[Bepalen en ontwikkelen branche- en sectorspecifieke keuzedelen]]></actie>
+              <wie><![CDATA[Paritaire commissie 
+Sub-pc’s 
+Calibris]]></wie>
+              <wanneer><![CDATA[2014-2020]]></wanneer>
+            </onderdeel>
+            <onderdeel>
+              <onderwerp><![CDATA[Servicedocumenten]]></onderwerp>
+              <actie><![CDATA[Gedurende de looptijd van de kd’s door onderwijs en/of werkveld gewenste servicedocumenten i.r.t. kd’s ontwikkelen]]></actie>
+              <wie><![CDATA[Paritaire commissie 
+Sub-pc’s 
+Calibris
+]]></wie>
+              <wanneer><![CDATA[2014-2020]]></wanneer>
+            </onderdeel>
+            <onderdeel>
+              <onderwerp><![CDATA[Algemene wet- en regelgeving]]></onderwerp>
+              <actie><![CDATA[Monitoring algemene wet- en regelgeving. Zo nodig gevolgen in kd’s doorvoeren]]></actie>
+              <wie><![CDATA[Paritaire commissie 
+Sub-pc’s 
+Calibris]]></wie>
+              <wanneer><![CDATA[2014-2020]]></wanneer>
+            </onderdeel>
+            <onderdeel>
+              <onderwerp><![CDATA[Uitvoerbaarheid kwalificatiedossiers]]></onderwerp>
+              <actie><![CDATA[Onderzoek naar uitvoerbaarheid van kwalificatiedossiers voor het werkveld en onderwijs]]></actie>
+              <wie><![CDATA[Paritaire commissie 
+Sub-pc’s 
+Calibris
+]]></wie>
+              <wanneer><![CDATA[2014-2020]]></wanneer>
+            </onderdeel>
+            <onderdeel>
+              <onderwerp><![CDATA[Uitvoerbaarheid keuzedelen]]></onderwerp>
+              <actie><![CDATA[Onderzoek naar uitvoerbaarheid van keuzedelen voor het werkveld en onderwijs]]></actie>
+              <wie><![CDATA[Paritaire commissie 
+Sub-pc’s 
+Calibris
+]]></wie>
+              <wanneer><![CDATA[2014-2020]]></wanneer>
+            </onderdeel>
+            <onderdeel>
+              <onderwerp><![CDATA[Gastouders]]></onderwerp>
+              <actie><![CDATA[Ontwikkelingen volgen en zo mogelijk doorontwikkeling bcp starten]]></actie>
+              <wie><![CDATA[Sociale partners
+Paritaire commissie 
+Sub-pc SAW
+Calibris
+]]></wie>
+              <wanneer><![CDATA[2014-2020]]></wanneer>
+            </onderdeel>
+            <onderdeel>
+              <onderwerp><![CDATA[Actuele thema’s	]]></onderwerp>
+              <actie><![CDATA[Inspelen op actuele thema’s zoals doelmatigheid en bpv i.r.t kwalificatiedossiers en kwalificatiestructuur]]></actie>
+              <wie><![CDATA[Paritaire commissie 
+Sub-pc’s 
+Calibris	
+]]></wie>
+              <wanneer><![CDATA[2014-2020
+]]></wanneer>
+            </onderdeel>
+          </agenda>
+          <toelichting><![CDATA[ ]]></toelichting>
+        </onderhoudsagenda>
+        <wijzigingen titel="Wijzigingen ten opzichte van de voorgaande versie" hoofdstuk="9">
+          <wijzigingscategorien>
+            <wijzigingscategorie titel="Categorie 3: Wijzigingen" categorie="3" />
+          </wijzigingscategorien>
+          <omschrijving><![CDATA[De kwalificatiedossiers 2015 kennen een geheel nieuwe opbouw (model basis-profiel-keuze) in vergelijking met het kwalificatiedossier 2011 (identiek aan 2012 en 2013 en verder). Daarom is er geen specifieke verantwoording van verschillen op het niveau van werkproces en kennis/vaardigheden beschreven. Wel zijn hieronder in hoofdlijnen de mutaties tussen de kwalificatiedossiers 2011 en het kwalificatiedossier 2015 weergegeven. 
+
+
+Mutaties: 
+- In het dossier is de kwalificatie onderwijsassistent opgenomen, dit was voorheen een eigenstandig kwalificatiedossier. 
+- De kwalificatie pedagogisch medewerker 4 jeugdzorg is niet meer opgenomen. De kwalificatie is vervallen op grond van te geringe arbeidsmarktrelevantie. 
+- Het kwalificatiedossier is geheel geactualiseerd, vernieuwingen in het werkveld zijn verwerkt.
+- Het kwalificatiedossier bestaat voor een belangrijk deel uit een herordening van de werkprocessen uit de voorgaande kwalificatiedossiers. 
+- Het dossier kent een brede basis, waarin de context bestaat uit zowel kinderopvang, peuterspeelzaalwerk als onderwijs.
+- Op grond van het belang van de taalvaardigheid van pedagogisch werkers voor de taal-denkontwikkeling van (jonge) kinderen zijn in elk relevant werkproces gedragsindicatoren opgenomen gericht op de beheersing van interactievaardigheden. 
+- De eisen ten aanzien van de taalvaardigheid van de pedagogisch medewerker niveau 3 zijn aangescherpt op het gebied van gesprekken voeren en luisteren voor specifieke situaties waarbij in het werkveld een hoger taalniveau (3F) is vereist, dit is een consequentie van de ‘maatschappelijke’ discussie over de soms onvoldoende taalbeheersing van de pedagogisch medewerkers.
+- In het dossier is meer aandacht opgenomen voor de seksuele ontwikkeling, het bespreekbaar maken van seksualiteit, het voorkomen en signaleren van seksueel misbruik en het werken volgens richtlijnen en procedures hieromtrent.
+- Voor beide kwalificaties op niveau 4 is VVE in de werkprocesbeschrijving opgenomen. Vanwege de taaleisen in de VVE is het niet (meer) opgenomen in niveau 3. 
+- Het profiel onderwijsassistent is breed geformuleerd en ten opzichte van de voorgaande kwalificatie minder gekleurd naar het basisonderwijs.
+- Algemene teksten en werkprocessen met een gelijkwaardige strekking zijn in alle kwalificatiedossiers van Calibris (zo veel mogelijk) gelijk geformuleerd.
+- De kennis en complexiteit is beschreven met behulp van NLQF-indicatoren, conform de voorschriften.
+ ]]></omschrijving>
+        </wijzigingen>
+        <betrokkenen titel="Betrokkenen" hoofdstuk="10"><![CDATA[Implementatietoets 2013
+In maart 2013 is het kwalificatiedossier uitvoerig besproken in de implementatietest van de MBO-Raad door vertegenwoordigers uit onderwijs en exameninstellingen. De voorstellen vanuit de implementatietoets zijn door de (sub)paritaire commissie (al dan niet) bekrachtigd, waarna de dossiers conform zijn bijgesteld.  
+
+Werkgroepen kwalificatiedossier 2013
+Werkveld- en onderwijspartijen uit de (sub)paritaire commissie hebben uit hun achterban leden afgevaardigd om zitting te nemen in de diverse werkgroepen kwalificatiedossier. De leden hebben de taak om de inhoud van het dossier te valideren.
+In 2013 heeft Calibris (volgens bovenstaande werkwijze) voor elk dossier een werkgroep van relevante deskundigen georganiseerd: in februari en april. De voorstellen vanuit de werkgroepen zijn door de (sub)paritaire commissie (al dan niet) bekrachtigd, waarna de dossiers conform bijgesteld zijn.  
+
+Gebruikerstest 2014
+Op 7 en 8 januari 2014 is het kwalificatiedossier besproken in een gebruikerstest met vertegenwoordigers van onderwijs en werkveld. 
+De volgende centrale vragen zijn daarbij aan het gebruikerspanel voorgelegd:
+1. Is in het kwalificatiedossier het beroep resp. de beroepen herkenbaar beschreven?
+2. Is het mogelijk om op basis van het kd de examinering goed vorm te geven?
+3. Is het mogelijk om op basis van het kd een goed curriculum te ontwikkelen?
+4. Is het mogelijk om op basis van het kd de bpv goed vorm te geven?
+5. Is het kwalificatiedossier: herkenbaar, uitvoerbaar, betaalbaar, organiseerbaar?
+
+Op elk van de vijf vragen is er per profiel/kwalificatiedossier een ja/nee met argumenten opgesteld. De uitkomsten van de gebruikerstest zijn besproken in de sub-pc en na akkoord van de sub-pc zijn, indien van toepassing, voorgestelde wijzigingen verwerkt in de definitieve versie van het kwalificatiedossier.
+
+
+Sub-paritaire commissie 
+Namens onderwijs (MBO Raad en NRTO)
+Lid sectordirectie Gezondheidszorg, Welzijn en Sport Deltion College
+Lid commissie welzijn ROC Friese Poort
+Programmamanager welzijnsopleidingen ROC Zadkine
+Directeur sector Zorg en Welzijn Graafschap College
+Docent/coördinator ROC Eindhoven
+Opleidingsmanager opleiding onderwijsassistent Graafschap College
+Opleidingsmanager opleidingen MZ, OA, PW en SMD bij Nova College
+Directeur mbo College voor Mens en Maatschappij ROC van Twente
+Manager Onderwijs NHA
+Afdelingsmanager bij ROC Midden Nederland 
+Directeur ROC Zadkine
+Algemeen directeur NHA
+Teamleider Scalda
+Teammanager Noorderpoort College
+
+Namens werkgeversorganisaties
+Senior beleidsadviseur VO-Raad/Werkgevers VO
+Beleidsmedewerker Mogroep Welzijn en Maatschappelijke Dienstverlening
+Senior beleidsadviseur VGN
+Medewerker brancheorganisatie Cedris
+Beleidsmedewerker Jeugdzorg Nederland
+Beleidsadviseur GGZ Nederland
+Bestuurssecretaris Stichting De Tussenvoorziening
+Beleidsadviseur Kwaliteit en Arbeid NVZ
+
+Namens werknemersorganisaties
+Arbeidsvoorwaardenadviseur ABVAKABO FNV
+CNV Adviseur
+Juridisch medewerkster NU'91
+
+Namens VMBO 
+Docent/medewerker organisatie Christelijk College Zeist
+
+Voorzitter sub-paritaire commissie, Onderhandelaar en belangenbehartiger VakbondZL
+
+Paritaire Commissie
+Namens Onderwijs (MBO Raad en NRTO)
+Directeur ROC Zadkine
+Manager Onderwijs NHA
+Lid sectordirectie Gezondheidszorg, Welzijn en Sport Deltion College
+Directeur Welzijn en Educatie Horizon College
+Directeur mbo College voor Mens en Maatschappij ROC van Twente
+Directeur Gezondheidszorg, Welzijn en Labaratoriumtechniek Nova College
+
+Namens werkgeversorganisaties
+Beleidsmedewerker Opleidingen Actiz
+Bestuurslid WOS
+Senior beleidsadviseur VGN
+Beleidsadviseur GGZ Nederland
+
+Namens werknemersorganisaties
+Arbeidsvoorwaardenadviseur ABVAKABO FNV
+Juridisch medewerkster NU'91
+Assistent bestuur FNV Sport
+Adviseur CNV Publieke Zaak
+
+Voorzitter paritaire commissie, Onderhandelaar en belangenbehartiger VakbondZL
+
+Bestuur
+Namens Onderwijs (MBO Raad en NRTO)
+Voorzitter College van Bestuur Friesland College
+Lid College van Bestuur ROC Aventus
+Directeur Onderwijsgroep Capabel
+
+Namens werkgeversorganisaties
+Manager afdeling Kwaliteit en Arbeid NVZ
+Lid Raad van Bestuur MaasDuinen
+]]></betrokkenen>
+        <aanvullendeinfo titel="Aanvullende informatie" hoofdstuk="12"><![CDATA[<xhtml><p><font face="Times New Roman" size="3">Verklaring omtrent gedrag (VOG)<br />
+Een Verklaring omtrent gedrag (VOG) is vereist bij indiensttreding in kinderopvang en onderwijs en veel overige organisaties waar gewerkt wordt met kinderen of jeugdigen.</font></p><p /><p><font face="Times New Roman" size="3">Taalvaardigheden in het kwalificatiedossier Pedagogisch Werk<br />
+De wijze waarop de taalvaardigheden zijn verwerkt in het kwalificatiedossier Pedagogisch Werk vloeit voort uit het verzoek van de ministeries OCW en SZW  om taal- en interactievaardigheden duidelijker te positioneren en te borgen in het kwalificatiedossier Pedagogisch Werk. Aan dit verzoek liggen diverse ontwikkelingen ten grondslag, zoals impulsen om de kwaliteit van de kinderopvang te versterken, het terugdringen van laaggeletterheid en het belang van een stimulerende omgeving voor de ontwikkeling van kinderen. Vanuit SZW is vanaf 2011 sterk ingezet op stimulering van de pedagogische kwaliteit van de kinderopvang. Daarbij wordt het accent gelegd op een betere taalbeheersing van de pedagogisch medewerkers en meer gerichtheid op het stimuleren van de ontwikkeling van kinderen. Daarbij worden interactievaardigheden van essentieel belang geacht. Interactievaardigheden hebben betrekking op de leidster-kind interacties en doen een beroep op taalvaardigheden.</font></p><p><font face="Times New Roman" size="3">Het belang van taal- en interactievaardigheden voor de pedagogisch werkers is in het kwalificatiedossier zichtbaar gemaakt en geaccentueerd door  interactievaardigheden in elk relevant werkproces op te nemen in de rubriek gedrag. Deze werkwijze strookt niet met de voorschriften om ‘gedrag’ dat vaker voor komt onder te brengen in de rubriek ‘kennis en vaardigheden’. Het veelvuldig noemen van de interactievaardigheden maakt het belang van deze vaardigheden duidelijk en biedt een waarborg dat de interactievaardigheden in de betreffende werkprocessen getoetst worden.</font></p><p><font face="Times New Roman" size="3">Taalvaardigheid pedagogisch medewerker (niveau 3)<br /></font><font face="Times New Roman" size="3">Uit verschillende onderzoeken[1] blijkt dat de taalbeheersing van pedagogisch werkers voor de uitoefening van deze taken in het beroep niet altijd toereikend is. Pedagogisch medewerkers dienen voor hun professioneel handelen te beschikken over voldoende taalvaardigheid én zij dienen in staat te zijn om de taalontwikkeling van kinderen adequaat te stimuleren. Uit onderzoek van Calibris[2]  komt naar voren dat  voor alledaagse opvang en begeleiding van kinderen (door een pedagogisch medewerker niveau 3) het generieke taalniveau voor niveau 3 kwalificaties volstaat. Het niveau volstaat ook voor het onderhouden van contact met ouders. Echter: voor specifieke interventies (bij taalontwikkelingsachterstanden) en voor specifieke gesprekken met ouders (bijvoorbeeld adviezen over ontwikkelingsbevordering en over kind problematieken) is een beheersing gewenst op niveau 3F. In het kwalificatiedossier is dit ‘hogere’ beheersingsniveau in de relevante werkprocessen opgenomen, namelijk in het werkproces ‘stimuleert de ontwikkeling door het aanbieden van activiteiten’ (B1-K1-W5) en het werkproces ‘voert gesprekken met de ouders/vervangende opvoeders en het kind’ (P1- K1-W1).  </font></p><p /><p /><p /><p><font face="Times New Roman" size="3">[1] (Droge, S., Suijkerbuijk, E. &amp; Kuiken, F., 2009; Droge, S., Suijkerbuijk, E. &amp; Kuiken, F., 2010; Leseman e.a., 2011)</font></p><p><font face="Times New Roman" size="3"><br />
+[2] Notitie onderzoek naar beroepsgerichte taaleisen voor PW en OA (Calibris 2012) zie: <a href="http://www.calibris.nl/Onderwijsdocumenten/Servicedocumenten/Onderwijsassistent-taal-en-interactie-sept-201-(2">http://www.calibris.nl/Onderwijsdocumenten/Servicedocumenten/Onderwijsassistent-taal-en-interactie-sept-201-(2</a>)</font></p><p><font face="Times New Roman" size="3"><br /></font></p><p style="margin: 0cm 0cm 0pt;" /><p style="margin: 0cm 0cm 0pt;" /><p style="margin: 0cm 0cm 0pt;"><font face="Times New Roman" size="3" /></p><p style="margin: 0cm 0cm 0pt;" /><p style="margin: 0cm 0cm 0pt;" /><p><span style="font-family: &quot;Arial&quot;,&quot;sans-serif&quot;; font-size: 10pt;" /></p><p /><p /><p /><p><i style="mso-bidi-font-style: normal;"><span style="font-family: &quot;Arial&quot;,&quot;sans-serif&quot;; font-size: 10pt;"><font face="Times New Roman" size="3" /></span></i></p><p><span style="font-family: &quot;Arial&quot;,&quot;sans-serif&quot;; font-size: 10pt;"><font face="Times New Roman" size="3" /></span></p><div style="mso-element: footnote-list;"><br clear="all" /></div><p><font size="2" /></p><p><font size="2" /></p></xhtml>]]></aanvullendeinfo>
+        <examenprofielen titel="Examenprofielen" hoofdstuk="13"><![CDATA[http://kwalificaties.s-bb.nl/Handlers/CohortOutputLibrary.ashx?linkcode=17]]></examenprofielen>
+      </verantwoordingsinformatie>
+    </dossier>
+  </dossiers>
+</sbb>

@@ -1,0 +1,1146 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<sbb>
+  <domeinen>
+    <domein nr="4121" titel="Bouw en infra" crebo="79000" prijsfactor="1.0" OBK_ID="bk:17b41166-ab49-4a56-bcf1-32317da752ef" />
+    <domein nr="4122" titel="Afbouw, hout en onderhoud" crebo="79010" prijsfactor="1.0" OBK_ID="bk:3ed67cca-37f6-4d7b-b1eb-872f6671caf7" />
+    <domein nr="4123" titel="Techniek en procesindustrie" crebo="79020" prijsfactor="1.0" OBK_ID="bk:c6c55e80-9fae-440b-b50a-4a1f70432734" />
+    <domein nr="4124" titel="Ambacht, laboratorium en gezondheidstechniek" crebo="79030" prijsfactor="1.0" OBK_ID="bk:b658110d-0115-4059-9889-cc7cc6369cc7" />
+    <domein nr="4125" titel="Media en vormgeving" crebo="79040" prijsfactor="1.0" OBK_ID="bk:2c366888-5642-4262-922d-f84908767235" />
+    <domein nr="4126" titel="Informatie en communicatietechnologie" crebo="79050" prijsfactor="1.0" OBK_ID="bk:fd8df586-d10e-4cd2-8ef7-c0c93f0bc5cd" />
+    <domein nr="4127" titel="Mobiliteit en voertuigen" crebo="79060" prijsfactor="1.0" OBK_ID="bk:d761bbea-3e5c-4887-89e6-f1129b9c77de" />
+    <domein nr="4128" titel="Transport, scheepvaart en logistiek" crebo="79070" prijsfactor="1.0" OBK_ID="bk:9ca10565-ec88-44b7-abc2-582dfdea5abc" />
+    <domein nr="4129" titel="Handel en ondernemerschap" crebo="79080" prijsfactor="1.0" OBK_ID="bk:3912477b-4bd1-40ca-aeba-eb7a748728b8" />
+    <domein nr="4130" titel="Economie en administratie" crebo="79090" prijsfactor="1.0" OBK_ID="bk:8ce88270-8fc1-41fa-97c0-6a59b66218f7" />
+    <domein nr="4131" titel="Veiligheid en sport" crebo="79100" prijsfactor="1.0" OBK_ID="bk:8aa21fc6-4da8-4bdf-9de2-d9e5e707d003" />
+    <domein nr="4132" titel="Uiterlijke verzorging" crebo="79110" prijsfactor="1.0" OBK_ID="bk:4c5ca35d-a5b7-4408-af1f-9bbbcf96caa6" />
+    <domein nr="4133" titel="Horeca en bakkerij" crebo="79120" prijsfactor="1.0" OBK_ID="bk:bac03586-16fe-4384-98f5-8e0d6845ec72" />
+    <domein nr="4134" titel="Toerisme en recreatie" crebo="79130" prijsfactor="1.0" OBK_ID="bk:6bd98aec-fc1a-4732-b1a8-a6e526f153a9" />
+    <domein nr="4135" titel="Zorg en welzijn" crebo="79140" prijsfactor="1.0" OBK_ID="bk:750580b3-11c3-46a8-9bc2-dd5a6e7612b6" />
+    <domein nr="4136" titel="Voedsel, natuur en leefomgeving" crebo="79160" prijsfactor="1.0" OBK_ID="bk:5e86dc82-1981-48df-bbe5-abd4a9b3767b" />
+    <domein nr="4137" titel="Voedsel, natuur en leefomgeving (EZ)" crebo="79150" prijsfactor="1.0" OBK_ID="bk:5e86dc82-1981-48df-bbe5-abd4a9b3767b" />
+    <domein nr="7172" titel="Niet toebedeeld aan opleidingsdomein" crebo="" prijsfactor="1.0" OBK_ID="" />
+  </domeinen>
+  <sectorkamers>
+    <sectorkamer nr="5672" titel="Sectorkamer techniek en gebouwde omgeving" />
+    <sectorkamer nr="5673" titel="Sectorkamer mobiliteit, transport, logistiek en maritiem" />
+    <sectorkamer nr="5674" titel="Sectorkamer zorg, welzijn en sport" />
+    <sectorkamer nr="5675" titel="Sectorkamer handel" />
+    <sectorkamer nr="5676" titel="Sectorkamer ICT en creatieve industrie" />
+    <sectorkamer nr="5677" titel="Sectorkamer voedsel, groen en gastvrijheid" />
+    <sectorkamer nr="5678" titel="Sectorkamer zakelijke dienstverlening en veiligheid" />
+    <sectorkamer nr="5679" titel="Sectorkamer specialistisch vakmanschap" />
+    <sectorkamer nr="5680" titel="Bovensectoraal" />
+  </sectorkamers>
+  <competenties>
+    <competentie nr="3084" titel="Beslissen en activiteiten initiëren" code="A" />
+    <competentie nr="3085" titel="Aansturen" code="B" />
+    <competentie nr="3086" titel="Begeleiden" code="C" />
+    <competentie nr="3087" titel="Aandacht en begrip tonen" code="D" />
+    <competentie nr="3088" titel="Samenwerken en overleggen" code="E" />
+    <competentie nr="3089" titel="Ethisch en integer handelen" code="F" />
+    <competentie nr="3090" titel="Relaties bouwen en netwerken" code="G" />
+    <competentie nr="3091" titel="Overtuigen en beïnvloeden" code="H" />
+    <competentie nr="3092" titel="Presenteren" code="I" />
+    <competentie nr="3093" titel="Formuleren en rapporteren" code="J" />
+    <competentie nr="3094" titel="Vakdeskundigheid toepassen" code="K" />
+    <competentie nr="3095" titel="Materialen en middelen inzetten" code="L" />
+    <competentie nr="3096" titel="Analyseren" code="M" />
+    <competentie nr="3097" titel="Onderzoeken" code="N" />
+    <competentie nr="3098" titel="Creëren en innoveren" code="O" />
+    <competentie nr="3099" titel="Leren" code="P" />
+    <competentie nr="3100" titel="Plannen en organiseren" code="Q" />
+    <competentie nr="3101" titel="Op de behoeften en verwachtingen van de &quot;klant&quot; richten" code="R" />
+    <competentie nr="3102" titel="Kwaliteit leveren" code="S" />
+    <competentie nr="3103" titel="Instructies en procedures opvolgen" code="T" />
+    <competentie nr="3104" titel="Omgaan met verandering en aanpassen" code="U" />
+    <competentie nr="3105" titel="Met druk en tegenslag omgaan" code="V" />
+    <competentie nr="3106" titel="Gedrevenheid en ambitie tonen" code="W" />
+    <competentie nr="3107" titel="Ondernemend en commercieel handelen" code="X" />
+    <competentie nr="3108" titel="Bedrijfsmatig handelen" code="Y" />
+  </competenties>
+  <dossiers>
+    <dossier nr="2755" titel="Dienstverlening" versie="" referentievorigeversie="" status="Vastgesteld" referentiedomein="4135" wettelijkeberoepsvereisten="Nee" positief_advies_toetsingskamer="Ja">
+      <dossiercrebos>
+        <dossiercrebo ministerie="OCW" prijsfactor="1,10" Geldig_vanaf="01-08-2015" Datum_einde_instroom="" Datum_einde_opleiding="">23189</dossiercrebo>
+      </dossiercrebos>
+      <kennisenvaardigheden>
+        <kennisofvaardigheid nr="1007854" titel="heeft basiskennis van activiteiten op het gebied van zorg en welzijn" />
+        <kennisofvaardigheid nr="1007841" titel="heeft basiskennis van anatomie" />
+        <kennisofvaardigheid nr="989480" titel="heeft basiskennis van de doelgroepen zorg en welzijn" />
+        <kennisofvaardigheid nr="986446" titel="heeft basiskennis van doelgroepen en klanttypen" />
+        <kennisofvaardigheid nr="1007930" titel="heeft basiskennis van doelgroepen in sport en recreatie" />
+        <kennisofvaardigheid nr="1008722" titel="heeft basiskennis van doelgroepen in sport en recreatie" />
+        <kennisofvaardigheid nr="1007291" titel="heeft basiskennis van FMIS " />
+        <kennisofvaardigheid nr="989350" titel="heeft basiskennis van FMIS (Facility Management Information System)" />
+        <kennisofvaardigheid nr="999947" titel="heeft basiskennis van gastenservice" />
+        <kennisofvaardigheid nr="986494" titel="heeft basiskennis van gebruik en toepassing van social media en internet" />
+        <kennisofvaardigheid nr="999937" titel="heeft basiskennis van gebruik, eigenschappen en onderhoud van (benodigde) huisvesting" />
+        <kennisofvaardigheid nr="986487" titel="heeft basiskennis van gebruik, eigenschappen en onderhoud van benodigde (hulp)middelen, materialen en apparatuur" />
+        <kennisofvaardigheid nr="1003417" titel="heeft basiskennis van gebruik, eigenschappen en onderhoud van benodigde (hulp)middelen, materialen en apparatuur ten behoeve van sportieve en recreatieve activiteiten" />
+        <kennisofvaardigheid nr="986491" titel="heeft basiskennis van gezonde voeding " />
+        <kennisofvaardigheid nr="987724" titel="heeft basiskennis van gezondheid in relatie tot sport en bewegen  " />
+        <kennisofvaardigheid nr="986495" titel="heeft basiskennis van groepsprocessen die plaatsvinden tijdens een activiteit" />
+        <kennisofvaardigheid nr="986486" titel="heeft basiskennis van het aanbod van en de mogelijkheden binnen de organisatie " />
+        <kennisofvaardigheid nr="986489" titel="heeft basiskennis van het systeem van voorraadbeheer " />
+        <kennisofvaardigheid nr="986490" titel="heeft basiskennis van hygiëne/HACCP" />
+        <kennisofvaardigheid nr="986509" titel="heeft basiskennis van organisatie-specifieke processen, procedures en richtlijnen " />
+        <kennisofvaardigheid nr="1004365" titel="heeft basiskennis van relevante sportieve en recreatieve activiteiten in relatie tot zijn werkzaamheden" />
+        <kennisofvaardigheid nr="999945" titel="heeft basiskennis van relevante wet- en regelgeving (w.o. hygiënecode, Arbo) " />
+        <kennisofvaardigheid nr="987703" titel="heeft basiskennis van relevante wet- en regelgeving in de sector zorg en welzijn w.o. zorgprotocollen, Meldcode huiselijk geweld en kindermishandeling  " />
+        <kennisofvaardigheid nr="987704" titel="heeft basiskennis van relevante ziektebeelden van cliënten" />
+        <kennisofvaardigheid nr="987726" titel="heeft basiskennis van sociale en fysieke veiligheid" />
+        <kennisofvaardigheid nr="987702" titel="heeft basiskennis van voedingsleer en veel voorkomende diëten" />
+        <kennisofvaardigheid nr="986488" titel="heeft basiskennis van voedsel, dranken en ingrediënten (eigenschappen, kwaliteitscriteria, samenstelling, bewaring en bereidingswijze) " />
+        <kennisofvaardigheid nr="1008723" titel="kan basale didactische vaardigheden toepassen bij het uitvoeren van sportieve en recreatieve activiteiten" />
+        <kennisofvaardigheid nr="986501" titel="kan basiskennis van voeding en levensmiddelenbeheer toepassen " />
+        <kennisofvaardigheid nr="987728" titel="kan begeleidingsmethodieken toepassen" />
+        <kennisofvaardigheid nr="986500" titel="kan communiceren met klanten en betrokkenen op basis van in de context en beroepspraktijk geldende gebruiken " />
+        <kennisofvaardigheid nr="986507" titel="kan de plattegrond van zijn werkomgeving lezen " />
+        <kennisofvaardigheid nr="1007842" titel="kan de zelf- en samenredzaamheid van cliënten bevorderen" />
+        <kennisofvaardigheid nr="986498" titel="kan een werkplan gebruiken " />
+        <kennisofvaardigheid nr="1007850" titel="kan eenvoudige (huishoudelijke) apparaten onderhouden en eenvoudige reparaties aan apparatuur en/of gebouwen uitvoeren" />
+        <kennisofvaardigheid nr="986492" titel="kan eenvoudige gesprekstechnieken toepassen" />
+        <kennisofvaardigheid nr="987708" titel="kan eenvoudige handleidingen en etiketten lezen en interpreteren" />
+        <kennisofvaardigheid nr="987705" titel="kan eet- en drinkgedrag van cliënten observeren en registreren;" />
+        <kennisofvaardigheid nr="986516" titel="kan evaluatievaardigheden toepassen in relatie tot zijn werkzaamheden" />
+        <kennisofvaardigheid nr="986514" titel="kan feedbackvaardigheden toepassen in relatie tot zijn werkzaamheden" />
+        <kennisofvaardigheid nr="987725" titel="kan gedrag van gasten/deelnemers observeren om informatie te verzamelen, o.a. over de tevredenheid en het vaardigheidsniveau van de gast/deelnemer" />
+        <kennisofvaardigheid nr="986520" titel="kan handelen volgens geldende richtlijnen m.b.t.: ongewenst gedrag, hygiëne, veiligheid, Arbo, milieu, kwaliteitszorg, ergonomisch en kostenbewust werken " />
+        <kennisofvaardigheid nr="986506" titel="kan eenvoudige gesprekken voeren en informatie, instructies en aanwijzingen geven aan gasten/deelnemers in een moderne vreemde taal " />
+        <kennisofvaardigheid nr="1007931" titel="kan kennis toepassen van eerstehulpverlening en reanimatie" />
+        <kennisofvaardigheid nr="1008724" titel="kan kennis van eerste hulpverlening en reanimatie toepassen" />
+        <kennisofvaardigheid nr="1007851" titel="kan leerstrategieën toepassen om zijn deskundigheid te vergroten" />
+        <kennisofvaardigheid nr="986519" titel="kan luisteren, vragen stellen en doorvragen om informatie te achterhalen" />
+        <kennisofvaardigheid nr="986504" titel="kan omgaan met grensoverschrijdend gedrag  " />
+        <kennisofvaardigheid nr="986497" titel="kan reinigingsapparatuur gebruiken " />
+        <kennisofvaardigheid nr="989481" titel="kan servicegericht handelen" />
+        <kennisofvaardigheid nr="987727" titel="kan signalen van sociale problematiek herkennen (waaronder huiselijk geweld, kindermishandeling en seksueel misbruik) en deze melden aan de leidinggevende volgens wet- en regelgeving en het beleid/protocol van de organisatie  " />
+        <kennisofvaardigheid nr="986502" titel="kan sociale vaardigheden toepassen in relatie tot zijn werkzaamheden" />
+        <kennisofvaardigheid nr="1007928" titel="kan sport- en spelvaardigheden toepassen" />
+        <kennisofvaardigheid nr="999946" titel="kan standaard schoonmaaktechnieken toepassen" />
+        <kennisofvaardigheid nr="989484" titel="kan technologische hulpmiddelen op het gebied van wonen, zorg en welzijn hanteren" />
+        <kennisofvaardigheid nr="986499" titel="kan veelvoorkomende softwareprogramma's toepassen ten behoeve van registratie van gegevens " />
+        <kennisofvaardigheid nr="990172" titel="kan voeding volgens zorgplan bereiden" />
+        <kennisofvaardigheid nr="987706" titel="kan voedingsvoorschriften lezen" />
+        <kennisofvaardigheid nr="989482" titel="kan voor zichzelf opkomen in werkrelaties" />
+      </kennisenvaardigheden>
+      <categoriekennisenvaardigheden>
+        <categorie nr="1007290" titel="Maakt gebruik van een FMIS " />
+      </categoriekennisenvaardigheden>
+      <voorblad titel="Voorblad">
+        <omschrijving>
+          <penvoerder>
+            <sectorkamer referentie="5674" />
+          </penvoerder>
+          <verantwoording>
+            <vaststellingsinformatie>
+              <vastgestelddoor>Sectorkamer zorg, welzijn en sport</vastgestelddoor>
+              <vastgesteldop>26-11-2015</vastgesteldop>
+              <vastgesteldte>Zoetermeer</vastgesteldte>
+            </vaststellingsinformatie>
+          </verantwoording>
+        </omschrijving>
+      </voorblad>
+      <inleiding titel="Inleiding">
+        <omschrijving><![CDATA[<labeltext>
+                                          &lt;h1&gt;Leeswijzer&lt;/h1&gt;
+      &lt;p&gt;Het kwalificatiedossier voor het middelbaar beroepsonderwijs geeft weer wat de beginnend beroepsbeoefenaar moet kennen en kunnen aan het einde van de mbo - opleiding.&lt;/p&gt;
+      &lt;h2&gt;Opbouw dossier&lt;/h2&gt;
+      &lt;p&gt;Dit kwalificatiedossier bevat de kwalificatie - eisen voor één of meerdere mbo -beroepen en bestaat uit:&lt;/p&gt;
+      1.	Het basisdeel (B), dat gevormd wordt door: &lt;br&gt;
+&lt;ol&gt; &lt;li type="a"&gt;De beroepsspecifieke onderdelen. Dit betreft gemeenschappelijke kerntaken en werkprocessen voor het gehele kwalificatie - dossier (met eventueel aanvullende eisen per profiel).&lt;/li&gt;
+&lt;li type="a"&gt;De generieke onderdelen. De generieke onderdelen zijn door de landelijke overheid geformuleerd. Het betreft de onderdelen:&lt;/li&gt;
+            &lt;ul&gt;&lt;li type="1"&gt;Nederlandse taal;&lt;/li&gt;
+            &lt;li type="1"&gt;rekenen;&lt;/li&gt;
+            &lt;li type="1"&gt;loopbaan en burgerschap;&lt;/li&gt;
+            &lt;li type="1"&gt;voor zover het niveau 4 betreft: Engels.&lt;/li&gt;&lt;/ul&gt;&lt;/ol&gt;&lt;br&gt;&lt;/li&gt;
+&lt;p&gt;2.	Het profieldeel (P). Profielen bestaan uit kerntaken (K ) en werkprocessen (W) waarop de kwalificaties in dit kwalificatiedossier van elkaar verschillen. &lt;/p&gt;
+&lt;p&gt;Het kwalificatiedossier bevat een verwijzing naar het keuzedeel (D). Het keuzedeel vergroot de arbeidsmarktkansen van de mbo - student of vergemakkelijkt de doorstroom naar een vervolgstudie. Het vormt als het ware een ‘plus’ op het diploma. Het keuzedeel is dan ook geen onderdeel van de kwalificatie - eis, maar wordt wel op het diploma vermeld.&lt;/p&gt;
+            &lt;h2&gt;Taal en rekenen&lt;/h2&gt;
+&lt;p&gt;De generieke eisen voor taal en rekenen zijn benoemd in het basisdeel. Als sprake is van beroepsspecifieke taal- en rekeneisen is dit aangegeven in de kolom ‘vakkennis en vaardigheden’. Daarnaast kan in de kolom ‘gedrag’ een extra verduidelijking aangegeven zijn hoe deze beroepsspecifieke taal- en rekeneisen worden ingezet in een werkproces.&lt;/p&gt;
+&lt;h2&gt;Verantwoordingsinformatie&lt;/h2&gt;
+&lt;p&gt;Aanvullende (verantwoordings-)informatie bij dit kwalificatiedossier is te vinden op www.kwalificatiesmbo.nl. Deze informatie is geen onderdeel van het kwalificatiedossier.&lt;/p&gt;
+            
+        </labeltext>]]></omschrijving>
+      </inleiding>
+      <basis titel="Basisdeel">
+        <typeringberoepengroep titel="Typering van de beroepengroep">
+          <context>
+            <omschrijving><![CDATA[De beroepsbeoefenaar kan werkzaam zijn in diverse werkomgevingen (context) die stabiel zijn. De werkzaamheden die de beroepsbeoefenaar verricht zijn ondersteunend van aard en kunnen afhankelijk van het type organisatie* waar de beroepsbeoefenaar werkzaam is, zeer verschillend zijn. De beroepsbeoefenaar is werkzaam in bedrijven en organisaties die diensten verlenen aan individuele klanten of aan groep klanten, dit kunnen zowel interne als externe klanten zijn. Te denken is aan facilitaire aanbieders, zakelijke dienstverleners, productieomgevingen, recreatiebedrijven, zwembaden, (attractie)parken, (semi) overheidsinstellingen, zorginstellingen, buurthuizen, kinderopvang, groepsaccommodaties, indoor- en outdoorcentra, sportverenigingen en sportaccommodaties. De doelgroep waarmee de beroepsbeoefenaar te maken heeft is erg divers en varieert in leeftijd, cultuur, leefstijl en maatschappelijke positie. 
+
+
+*waar de term ‘organisatie’ staat, kan ook ‘bedrijf’ worden gelezen.
+]]></omschrijving>
+          </context>
+          <beroepshouding>
+            <omschrijving><![CDATA[De beroepsbeoefenaar  heeft een ondersteunende, dienstverlenende en servicegerichte houding. Hij* houdt rekening met en speelt in op de behoefte en verwachtingen van de klanten**. De beroepsbeoefenaar toont een sociale en open houding en is alert en integer. Hij werkt volgens richtlijnen en procedures. 
+
+
+* waar in dit dossier ‘hij’ of 'hem' staat, kan ook ‘zij’ of 'haar' gelezen worden en omgekeerd. 
+**waar in dit dossier de term klant staat, kan ook worden gelezen: gast, deelnemer, cliënt, zorgvrager, mantelzorger, bewoner, oudere, jongere, burger, deelnemer, kind, leerling, vrijwilliger, recreant, collega of organisatie.]]></omschrijving>
+          </beroepshouding>
+          <resultaatvanhetberoep>
+            <omschrijving><![CDATA[Er is optimale ondersteuning en service verleend aan de klant en/of opdrachtgever.]]></omschrijving>
+          </resultaatvanhetberoep>
+        </typeringberoepengroep>
+        <basistaken titel="Beroepsspecifieke onderdelen">
+          <basiskerntaken>
+            <kerntaak nr="986398" titel="Voert dienstverlenende werkzaamheden uit" hoofdstuk="1">
+              <complexiteit><![CDATA[De beroepsbeoefenaar voert eenvoudige dienstverlenende taken uit volgens standaardprocedures en/of afspraak. De diversiteit van de werkzaamheden is groot, wat betekent dat de beroepsbeoefenaar veel schakelt tussen uiteenlopende werkzaamheden. De complexiteit van de werkzaamheden wordt verhoogd door het contact met klanten. De beroepsbeoefenaar beschikt over basiskennis en basisvaardigheden voor de uitvoering van zijn dienstverlenende werkzaamheden.]]><complexiteitperprofiel /></complexiteit>
+              <verantwoordelijkheid><![CDATA[De beroepsbeoefenaar werkt onder verantwoordelijkheid van de leidinggevende. Binnen een afgebakend takenpakket werkt hij zelfstandig. Hij is verantwoordelijk voor de kwaliteit en het tijdig uitvoeren van zijn eigen werkzaamheden. ]]><verantwoordelijkheidperprofiel /></verantwoordelijkheid>
+              <vakkennisenvaardigheden>
+                <vakkennisenvaardigheden referentie="986487" />
+                <vakkennisenvaardigheden referentie="986489" />
+                <vakkennisenvaardigheden referentie="986490" />
+                <vakkennisenvaardigheden referentie="987708" />
+                <vakkennisenvaardigheden referentie="986502" />
+                <vakkennisenvaardigheden referentie="986494" />
+                <vakkennisenvaardigheden referentie="986500" />
+                <vakkennisenvaardigheden referentie="986516" />
+                <vakkennisenvaardigheden referentie="986514" />
+                <vakkennisenvaardigheden referentie="986520" />
+                <vakkennisenvaardigheden referentie="986519" />
+                <vakkennisenvaardigheden referentie="986504" />
+                <vakkennisenvaardigheden referentie="986499" />
+                <vakkennisenvaardigheden referentie="989482" />
+                <vakkennisenvaardigheden referentie="986501" />
+                <vakkennisenvaardigheden referentie="986499" />
+                <vakkennisenvaardigheden referentie="986500" />
+                <vakkennisenvaardigheden referentie="986498" />
+                <vakkennisenvaardigheden referentie="986516" />
+                <vakkennisenvaardigheden referentie="986514" />
+                <vakkennisenvaardigheden referentie="986520" />
+                <vakkennisenvaardigheden referentie="986519" />
+                <vakkennisenvaardigheden referentie="1007850" />
+                <vakkennisenvaardigheden referentie="1007851" />
+                <vakkennisenvaardighedenperprofiel />
+                <vakkennisenvaardigheden_met_categorie />
+              </vakkennisenvaardigheden>
+              <basiswerkprocessen>
+                <werkproces nr="986399" titel="Bereidt werkzaamheden voor en stemt af" hoofdstuk="1">
+                  <werkprocesomschrijving><![CDATA[De beroepsbeoefenaar ontvangt werkopdrachten en instructies van de leidinggevende en/of neemt deel aan overleg om werkzaamheden af te stemmen en de werkuitvoering te bespreken. Hij maakt een werkplanning en bereidt de werkzaamheden verder voor door te zorgen dat hij beschikt over de benodigde materialen en middelen. Hij maakt afspraken over de voortgang van het werk en draagt zo nodig werkzaamheden over.]]><werkprocesomschrijvingperprofiel /></werkprocesomschrijving>
+                  <werkprocesresultaat><![CDATA[De werkzaamheden zijn juist voorbereid. ]]><werkprocesresultaatperprofiel /></werkprocesresultaat>
+                  <werkprocesgedrag><![CDATA[De beroepsbeoefenaar:
+- kiest de juiste materialen en middelen;
+- volgt nauwkeurig instructies en aanwijzingen;
+- vraagt om verduidelijking of hulp bij onduidelijkheden;
+- verzamelt actief informatie over de werkuitvoering en aandachtspunten;
+- stemt effectief af met collega's, leidinggevende of overig betrokkenen;
+- plant werkzaamheden in een logische volgorde.]]><werkprocesgedragperprofiel /></werkprocesgedrag>
+                  <werkprocescompetenties>
+                    <competentie referentie="3088" />
+                    <competentie referentie="3094" />
+                    <competentie referentie="3100" />
+                    <competentie referentie="3103" />
+                    <werkprocescompetentiesperprofiel />
+                  </werkprocescompetenties>
+                </werkproces>
+                <werkproces nr="986400" titel="Maakt ruimtes gebruiksklaar" hoofdstuk="2">
+                  <werkprocesomschrijving><![CDATA[De beroepsbeoefenaar richt alleen en/of samen met klanten en/of collega’s de werk-, activiteiten- en/of verblijfsruimte in, binnen en/of buiten en/of zorgt voor de aankleding van de ruimte. Hij zorgt dat de ruimte ingericht of aangekleed kan worden door zo nodig eerst op te ruimen en schoon te maken. Hij verzamelt de benodigde materialen en middelen voor de inrichting en/of aankleding van de ruimte en zet deze klaar voor gebruik. Hij zet meubilair, materialen en/of middelen in de gewenste opstelling. Hij zorgt voor een representatieve ruimte en draagt bij aan een gastvrije sfeer. In overleg met de leidinggevende lost hij eenvoudige praktische problemen op. In voorkomende situaties brengt hij de ruimte na afloop weer op orde.]]><werkprocesomschrijvingperprofiel /></werkprocesomschrijving>
+                  <werkprocesresultaat><![CDATA[De ruimte is op de juiste wijze ingericht en gebruiksklaar. ]]><werkprocesresultaatperprofiel /></werkprocesresultaat>
+                  <werkprocesgedrag><![CDATA[De beroepsbeoefenaar:
+- interpreteert het werkplan en/of de aanwijzingen van collega’s juist;
+- richt de ruimte op een efficiënte manier in op basis van het plan van aanpak of werkplan;
+- gaat zorgvuldig en op de juiste wijze om met de voorgeschreven (hulp)middelen, materialen en apparatuur;
+- werkt accuraat volgens de voorschriften van de organisatie.]]><werkprocesgedragperprofiel /></werkprocesgedrag>
+                  <werkprocescompetenties>
+                    <competentie referentie="3094" />
+                    <competentie referentie="3095" />
+                    <competentie referentie="3103" />
+                    <werkprocescompetentiesperprofiel />
+                  </werkprocescompetenties>
+                </werkproces>
+                <werkproces nr="986401" titel="Treedt op als aanspreekpunt" hoofdstuk="3">
+                  <werkprocesomschrijving><![CDATA[De beroepsbeoefenaar begroet de klant en staat hem te woord. Hij vraagt naar de wensen van de klant en informeert de klant en/of brengt de klant in contact met een andere collega. Hij registreert eventuele gegevens in het systeem. Hij rondt het gesprek af en checkt daarbij de tevredenheid van de klant. 
+
+]]><werkprocesomschrijvingperprofiel /></werkprocesomschrijving>
+                  <werkprocesresultaat><![CDATA[De klant is gastvrij ontvangen en juist geïnformeerd. Indien van toepassing zijn gegevens geregistreerd.  ]]><werkprocesresultaatperprofiel /></werkprocesresultaat>
+                  <werkprocesgedrag><![CDATA[De beroepsbeoefenaar:
+- staat de klant vriendelijk en duidelijk te woord;
+- handelt gastvrij en servicegericht;
+- achterhaalt proactief de wensen van de klant;
+- maakt een juiste vertaling van de wensen van de klant naar passende informatie;
+- werkt nauwgezet volgens procedures en richtlijnen van de organisatie. 
+
+]]><werkprocesgedragperprofiel /></werkprocesgedrag>
+                  <werkprocescompetenties>
+                    <competentie referentie="3092" />
+                    <competentie referentie="3103" />
+                    <competentie referentie="3101" />
+                    <werkprocescompetentiesperprofiel />
+                  </werkprocescompetenties>
+                </werkproces>
+                <werkproces nr="986402" titel="Voert eenvoudige administratieve werkzaamheden uit" hoofdstuk="4">
+                  <werkprocesomschrijving><![CDATA[De beroepsbeoefenaar voert eenvoudige administratieve werkzaamheden uit. Hij verwerkt gegevens in de daartoe bestaande systemen. Hij scant, print en kopieert documenten.]]><werkprocesomschrijvingperprofiel /></werkprocesomschrijving>
+                  <werkprocesresultaat><![CDATA[De administratieve werkzaamheden zijn volgens afspraak en/of procedure uitgevoerd.  ]]><werkprocesresultaatperprofiel /></werkprocesresultaat>
+                  <werkprocesgedrag><![CDATA[De beroepsbeoefenaar:
+- gebruikt de benodigde hulpmiddelen en (documentbeheer)systeem/systemen effectief;
+- verwerkt digitale gegevens volgens de in het bedrijf geldende procedures; 
+- voert de werkzaamheden uit binnen de afgesproken tijd. 
+]]><werkprocesgedragperprofiel /></werkprocesgedrag>
+                  <werkprocescompetenties>
+                    <competentie referentie="3095" />
+                    <competentie referentie="3100" />
+                    <competentie referentie="3103" />
+                    <werkprocescompetentiesperprofiel />
+                  </werkprocescompetenties>
+                </werkproces>
+                <werkproces nr="986403" titel="Assisteert bij voorraadbeheer" hoofdstuk="5">
+                  <werkprocesomschrijving><![CDATA[De beroepsbeoefenaar inventariseert de voorraad en checkt aanwezigheid, aantal en houdbaarheid van goederen/producten. Hij signaleert (dreigende) tekorten en meldt deze aan de leidinggevende. Hij neemt bestellingen in ontvangst en controleert deze op juistheid en kwaliteit. Hij plaatst de goederen/producten in de daarvoor bestemde ruimte(s)/voorraadkast. Hij registreert en/of rapporteert gegevens over de voorraad.]]><werkprocesomschrijvingperprofiel /></werkprocesomschrijving>
+                  <werkprocesresultaat><![CDATA[De voorraad is op peil.]]><werkprocesresultaatperprofiel /></werkprocesresultaat>
+                  <werkprocesgedrag><![CDATA[De beroepsbeoefenaar:
+- volgt het protocol van de organisatie nauwgezet;
+- controleert de voorraad nauwgezet; 
+- geeft tekorten en behoeften aan producten accuraat door aan de leidinggevende;
+- vult de voorraad op de juiste wijze aan;
+- slaat de goederen/producten op de juiste wijze op.
+]]><werkprocesgedragperprofiel /></werkprocesgedrag>
+                  <werkprocescompetenties>
+                    <competentie referentie="3103" />
+                    <competentie referentie="3094" />
+                    <werkprocescompetentiesperprofiel />
+                  </werkprocescompetenties>
+                </werkproces>
+                <werkproces nr="986404" titel="Draagt bij aan een veilige situatie " hoofdstuk="6">
+                  <werkprocesomschrijving><![CDATA[De beroepsbeoefenaar controleert de veiligheid van faciliteiten en/of materialen en middelen. Hij signaleert bijzonderheden en risico’s voor de veiligheid van klanten en collega's en onderneemt daarop actie. Hij haalt hulp of laat die halen. Hij rapporteert de gebeurtenis aan de leidinggevende en/of aan de verantwoordelijk functionaris.  
+
+
+]]><werkprocesomschrijvingperprofiel /></werkprocesomschrijving>
+                  <werkprocesresultaat><![CDATA[De beroepsbeoefenaar heeft op passende wijze bijgedragen aan de veiligheid.  ]]><werkprocesresultaatperprofiel /></werkprocesresultaat>
+                  <werkprocesgedrag><![CDATA[De beroepsbeoefenaar:
+- schat de situatie correct in;
+- handelt alert en adequaat in onveilige situaties;
+- handelt consequent binnen de grenzen van zijn bevoegdheid;
+- toont in voorkomende situaties zorg en aandacht voor de situatie van de klant;
+- rapporteert tijdig, duidelijk en nauwkeurig aan de leidinggevende/verantwoordelijk functionaris.
+
+]]><werkprocesgedragperprofiel /></werkprocesgedrag>
+                  <werkprocescompetenties>
+                    <competentie referentie="3087" />
+                    <competentie referentie="3093" />
+                    <competentie referentie="3094" />
+                    <competentie referentie="3103" />
+                    <werkprocescompetentiesperprofiel />
+                  </werkprocescompetenties>
+                </werkproces>
+                <werkproces nr="986406" titel="Voert eenvoudige onderhouds- en herstelwerkzaamheden uit" hoofdstuk="7">
+                  <werkprocesomschrijving><![CDATA[De beroepsbeoefenaar voert eenvoudig onderhoud uit aan apparatuur, materialen en middelen. Hij lost eenvoudige storingen op en herstelt kleine mankementen. Hij checkt of datgene wat hij hersteld of onderhouden heeft naar behoren functioneert en brengt zo nodig correcties aan. Bij grotere storingen informeert hij de leidinggevende. Hij rapporteert het uitgevoerde onderhoud en de uitgevoerde herstelwerkzaamheden aan de leidinggevende. 
+
+
+]]><werkprocesomschrijvingperprofiel /></werkprocesomschrijving>
+                  <werkprocesresultaat><![CDATA[De onderhouds- en herstelwerkzaamheden zijn juist uitgevoerd en gerapporteerd. ]]><werkprocesresultaatperprofiel /></werkprocesresultaat>
+                  <werkprocesgedrag><![CDATA[De beroepsbeoefenaar:
+- past de veiligheidsvoorschriften en geldende organisatieprocedures nauwkeurig toe;
+- maakt effectief gebruik van materialen en middelen om onderhoudswerkzaamheden uit te voeren;
+- gaat zorgvuldig met materialen en middelen om;
+- voert onderhouds- en herstelwerkzaamheden adequaat uit;
+- schakelt tijdig de hulp in van collega’s of leidinggevende;
+- brengt de informatie op duidelijke wijze over aan de leidinggevende.
+]]><werkprocesgedragperprofiel /></werkprocesgedrag>
+                  <werkprocescompetenties>
+                    <competentie referentie="3088" />
+                    <competentie referentie="3094" />
+                    <competentie referentie="3103" />
+                    <competentie referentie="3093" />
+                    <competentie referentie="3095" />
+                    <werkprocescompetentiesperprofiel />
+                  </werkprocescompetenties>
+                </werkproces>
+                <werkproces nr="986407" titel="Voert werkzaamheden uit gericht op voeding" hoofdstuk="8">
+                  <werkprocesomschrijving><![CDATA[De beroepsbeoefenaar inventariseert de wensen van de klant of ontvangt een opdracht of bestelling voor eten en/of drinken. Hij verzamelt de benodigde producten, materialen en middelen om de opdracht of bestelling uit te voeren. In voorkomende situaties geeft hij de bestelling door aan de keuken. Hij bereidt eenvoudige gerechten en/of dranken en handelt de bestelling of opdracht af. ]]><werkprocesomschrijvingperprofiel /></werkprocesomschrijving>
+                  <werkprocesresultaat><![CDATA[De werkzaamheden met betrekking tot voeding zijn volgens planning en instructie uitgevoerd.]]><werkprocesresultaatperprofiel /></werkprocesresultaat>
+                  <werkprocesgedrag><![CDATA[De beroepsbeoefenaar: 
+- past de bereidings- en distributietechnieken volgens instructie toe; 
+- zet de juiste materialen, middelen en apparatuur klaar;
+- maakt effectief gebruik van de materialen, middelen en apparatuur;
+- schakelt collega’s tijdig in bij vragen, problemen of bijzonderheden;
+- benadert de klant vriendelijk en gastvrij. 
+
+]]><werkprocesgedragperprofiel /></werkprocesgedrag>
+                  <werkprocescompetenties>
+                    <competentie referentie="3088" />
+                    <competentie referentie="3095" />
+                    <competentie referentie="3101" />
+                    <competentie referentie="3103" />
+                    <werkprocescompetentiesperprofiel />
+                  </werkprocescompetenties>
+                </werkproces>
+                <werkproces nr="986405" titel="Evalueert de werkzaamheden" hoofdstuk="9">
+                  <werkprocesomschrijving><![CDATA[De beroepsbeoefenaar verzamelt in overleg met de leidinggevende gegevens over zijn functioneren door klanten en/of collega’s feedback te vragen op zijn functioneren. Hij bespreekt de ontvangen feedback met de leidinggevende. Hij reflecteert op zijn handelen en reageert op feedback van de leidinggevende. In overleg met de leidinggevende maakt hij zo nodig afspraken over aanpassing van zijn werk- of handelwijze en/of over aanvullende scholing. ]]><werkprocesomschrijvingperprofiel /></werkprocesomschrijving>
+                  <werkprocesresultaat><![CDATA[De beroepsbeoefenaar heeft de werkzaamheden samen met de leidinggevende geëvalueerd. Zo nodig zijn er actiepunten geformuleerd.  ]]><werkprocesresultaatperprofiel /></werkprocesresultaat>
+                  <werkprocesgedrag><![CDATA[De beroepsbeoefenaar:
+- verzamelt actief en doelgericht feedback;
+- formuleert helder en kernachtig;
+- schetst een realistisch beeld van zijn eigen functioneren; 
+- past zijn werkwijze aan, indien gevraagd. 
+ ]]><werkprocesgedragperprofiel /></werkprocesgedrag>
+                  <werkprocescompetenties>
+                    <competentie referentie="3093" />
+                    <competentie referentie="3094" />
+                    <competentie referentie="3104" />
+                    <werkprocescompetentiesperprofiel />
+                  </werkprocescompetenties>
+                </werkproces>
+              </basiswerkprocessen>
+            </kerntaak>
+          </basiskerntaken>
+          <generieke_onderdelen titel="Generieke onderdelen">
+            <omschrijving><![CDATA[<labeltext>
+                            &lt;h1&gt;Generieke onderdelen&lt;/h1&gt;
+&lt;p&gt;Elke kwalificatie kent - naast (beroepsgerichte) specifieke kwalificatieonderdelen - ook generieke kwalificatieonderdelen.&lt;/p&gt;
+&lt;h2&gt;Nederlandse taal&lt;/h2&gt;
+&lt;p&gt;Van elke kwalificatie in dit kwalificatiedossier maakt het generieke kwalificatieonderdeel Nederlandse taal deel uit. De referentieniveaus en de kwalificatie - eisen voor dit generieke onderdeel zijn opgenomen in bijlage 1 bij het Besluit referentieniveaus Nederlandse taal en rekenen. Deze bijlage is te vinden op www.kwalificatiesmbo.nl en vormt een integraal onderdeel van het kwalificatiedossier.&lt;/p&gt;
+Het betreft de volgende referentieniveaus:
+&lt;br&gt;voor entreekwalificaties en voor kwalificaties op niveau 2 en 3: 2F;
+&lt;br&gt;voor kwalificaties op niveau 4: 3F.
+&lt;h2&gt;Rekenen&lt;/h2&gt;
+&lt;p&gt;Van elke kwalificatie in dit kwalificatiedossier maakt het generieke kwalificatieonderdeel rekenen deel uit. De referentieniveaus en de kwalificatie - eisen voor dit generieke onderdeel zijn opgenomen in bijlage 2 bij het Besluit referentieniveaus Nederlandse taal en rekenen. Deze bijlage is te vinden op www.kwalificatiesmbo.nl en vormt een integraal onderdeel van het kwalificatiedossier.&lt;/p&gt;
+Het betreft de volgende referentieniveaus:
+&lt;br&gt;voor entreekwalificaties en voor kwalificaties op niveau 2 en 3: 2F;
+&lt;br&gt;voor kwalificaties op niveau 4: 3F.
+&lt;h2&gt;Loopbaan en burgerschap&lt;/h2&gt;
+&lt;p&gt;Van elke kwalificatie in dit kwalificatiedossier maakt het generieke kwalificatieonderdeel loopbaan en burgerschap deel uit. De kwalificatie - eisen voor dit generieke onderdeel zijn opgenomen in bijlage 1 bij het Examen- en kwalificatiebesluit beroepsopleidingen WEB. Deze bijlage is te vinden op www.kwalificatiesmbo.nl en vormt een integraal onderdeel van het kwalificatiedossier.&lt;/p&gt;
+&lt;h2&gt;Engels (alleen voor niveau 4)&lt;/h2&gt;
+&lt;p&gt;Van elke kwalificatie op mbo niveau 4 in dit kwalificatiedossier maakt het generieke kwalificatieonderdeel Engels deel uit. Op grond van artikel 17a van het Examen- en kwalificatiebesluit beroepsopleidingen WEB zijn de referentieniveaus en de kwalificatie - eisen voor dit generieke onderdeel opgenomen in bijlage 2 bij dit besluit. Deze bijlage is te vinden op www.kwalificatiesmbo.nl en vormt een integraal onderdeel van het kwalificatiedossier. &lt;/p&gt;
+Het betreft de volgende referentieniveaus:
+&lt;br&gt;lezen en luisteren: B1;
+&lt;br&gt;schrijven, spreken en gesprekken voeren: A2.
+    
+        </labeltext>]]></omschrijving>
+          </generieke_onderdelen>
+        </basistaken>
+      </basis>
+      <profielen titel="Profieldeel">
+        <profiel nr="986408" titel="Medewerker facilitaire dienstverlening" hoofdstuk="1" niveau="2" beroepsgroep="Facilitaire dienstverlening">
+          <omschrijving>
+            <typeringvanhetberoep><![CDATA[De medewerker facilitaire dienstverlening levert een bijdrage aan het primaire proces binnen bedrijven en organisaties. Hij heeft oog voor dienstverlening, hospitality, gebouw en omgeving en kan snel schakelen tussen deze onderdelen van zijn werk. De medewerker facilitaire dienstverlening kan flexibel inspelen op wisselende situaties en met zijn dienstverlenende instelling ontzorgt hij interne en externe betrokkenen van een organisatie/bedrijf. De medewerker facilitaire dienstverlening staat ten dienste van het primaire proces van een organisatie en draagt op deze manier indirect bij aan het resultaat van de organisatie. 
+
+De medewerker facilitaire dienstverlening kan werkzaam zijn in diverse werkomgevingen en kan verschillende diensten verlenen. Hij is in dienst van een facilitaire aanbieder of werkzaam binnen de facilitaire dienstverlening van organisaties (zowel profit als non-profit). De medewerker facilitaire dienstverlening heeft de mogelijkheid om zich te specialiseren in één of meer van de onderdelen van het Facilitaire werkveld.]]></typeringvanhetberoep>
+            <wettelijkeberoepsvereisten>Nee</wettelijkeberoepsvereisten>
+            <toelichtingwettelijkeberoepsvereisten><![CDATA[]]></toelichtingwettelijkeberoepsvereisten>
+            <bronwettelijkeberoepsvereisten></bronwettelijkeberoepsvereisten>
+            <certificaten />
+            <sbu>3200</sbu>
+            <soortopleiding>basisberoepsopleiding</soortopleiding>
+            <instellingendieaanmogenbieden />
+          </omschrijving>
+          <creboinformatie>
+            <crebo ministerie="OCW" prijsfactor="1,30" Geldig_vanaf="01-08-2015" Datum_einde_instroom="" Datum_einde_opleiding="">25499</crebo>
+          </creboinformatie>
+          <profielkerntaken>
+            <kerntaak nr="987748" titel="Voert facilitaire werkzaamheden uit" hoofdstuk="1">
+              <complexiteit><![CDATA[De medewerker facilitaire dienstverlening voert eenvoudige werkzaamheden uit. In zijn werkzaamheden past hij routines en standaardprocedures toe. Hij maakt gebruik van basiskennis en vaardigheden om uitvoering te geven aan facilitaire werkzaamheden. De werkzaamheden zijn wisselend van aard, maar altijd in een vaste context en routine. Zijn werkzaamheden zijn weinig complex, maar door de diversiteit aan werkzaamheden moet hij snel kunnen schakelen tussen werkzaamheden en personen waarmee hij communiceert.
+]]></complexiteit>
+              <verantwoordelijkheid><![CDATA[De medewerker facilitaire dienstverlening voert werkzaamheden uit onder supervisie van zijn leidinggevende. Hij werkt binnen de toegewezen taken zelfstandig. Hij is verantwoordelijk voor het juist uitvoeren van zijn taken volgens de geldende protocollen of de gegeven instructie en voor het melden van bijzonderheden aan zijn leidinggevende.]]></verantwoordelijkheid>
+              <vakkennisenvaardigheden>
+                <vakkennisenvaardigheden referentie="987702" />
+                <vakkennisenvaardigheden referentie="986488" />
+                <vakkennisenvaardigheden referentie="999937" />
+                <vakkennisenvaardigheden referentie="999945" />
+                <vakkennisenvaardigheden referentie="999947" />
+                <vakkennisenvaardigheden referentie="989481" />
+                <vakkennisenvaardigheden referentie="1007291" />
+                <vakkennisenvaardigheden referentie="986520" />
+                <vakkennisenvaardigheden referentie="986497" />
+                <vakkennisenvaardigheden_met_categorie />
+              </vakkennisenvaardigheden>
+              <profielwerkprocessen>
+                <werkproces nr="987801" titel="Assisteert bij beheer van gebouwen" hoofdstuk="1">
+                  <werkprocesomschrijving><![CDATA[De medewerker facilitaire dienstverlening bewaakt de representativiteit van het gebouw of gebouwen en het omliggende terrein. Hij voert activiteiten uit om de representativiteit op het gewenste niveau te houden/krijgen. Hij voert incidentele schoonmaakwerkzaamheden uit en voert eenvoudige onderhoudswerkzaamheden aan het gebouw of het omliggende terrein uit.]]></werkprocesomschrijving>
+                  <werkprocesresultaat><![CDATA[Het gebouw en het omliggende terrein zijn representatief.]]></werkprocesresultaat>
+                  <werkprocesgedrag><![CDATA[De medewerker facilitaire dienstverlening:
+- signaleert onvolkomenheden en handelt alert en doortastend;
+- voert schoonmaak- en opruimwerkzaamheden uit conform voorgeschreven procedures;
+- voert onderhoudswerkzaamheden snel en behendig uit op basis van technisch inzicht;
+- maakt effectief gebruik van materialen en middelen om onderhoudswerkzaamheden uit te voeren;
+- gaat zorgvuldig met materialen en middelen om.
+]]></werkprocesgedrag>
+                  <werkprocescompetenties>
+                    <competentie referentie="3094" />
+                    <competentie referentie="3095" />
+                    <competentie referentie="3103" />
+                  </werkprocescompetenties>
+                </werkproces>
+                <werkproces nr="987749" titel="Voert logistieke werkzaamheden uit" hoofdstuk="2">
+                  <werkprocesomschrijving><![CDATA[De medewerker facilitaire dienstverlening voert interne en externe transportwerkzaamheden uit en assisteert bij (interne) verhuizingen. Hij verzamelt, selecteert en controleert goederen op defecten. Hij transporteert goederen en personen naar de gewenste locatie. Hij slaat goederen op.]]></werkprocesomschrijving>
+                  <werkprocesresultaat><![CDATA[Interne en externe transportwerkzaamheden zijn adequaat uitgevoerd en goederen zijn opgeslagen conform procedures en wet- en regelgeving.]]></werkprocesresultaat>
+                  <werkprocesgedrag><![CDATA[De medewerker facilitaire dienstverlening:
+- werkt volgens  wet- en regelgeving en de voor het bedrijf geldende procedures bij transport- en opslagwerkzaamheden;
+- vervoert goederen en personen op veilig wijze;
+- gebruikt de juiste materialen en middelen voor het uitvoeren van transportwerkzaamheden;
+- gaat zorgvuldig en netjes om met middelen en materialen.
+]]></werkprocesgedrag>
+                  <werkprocescompetenties>
+                    <competentie referentie="3095" />
+                    <competentie referentie="3103" />
+                  </werkprocescompetenties>
+                </werkproces>
+                <werkproces nr="987802" titel="Voert cateringwerkzaamheden uit" hoofdstuk="3">
+                  <werkprocesomschrijving><![CDATA[De medewerker facilitaire dienstverlening assisteert bij werkzaamheden in de catering. Hij assisteert bij de bereiding van maaltijden en bij voorkomende werkzaamheden in de keuken. Hij verwerkt en bewerkt voedingsmiddelen. Hij vult automaten bij en vult buffetten aan en bedient de klant. Hij reinigt gebruikte middelen en materialen en ruimt deze vervolgens op. Hij zorgt dat de keuken weer op orde is voor het volgend gebruik.]]></werkprocesomschrijving>
+                  <werkprocesresultaat><![CDATA[Catering werkzaamheden zijn conform procedures en wet- en regelgeving uitgevoerd.]]></werkprocesresultaat>
+                  <werkprocesgedrag><![CDATA[De medewerker facilitaire dienstverlening:
+- toont inzicht in het soort en de consistentie van producten;  
+- bepaalt vlot op welke wijze de producten moeten worden bereid;
+- past de bereidings-, kook- en distributietechnieken snel, precies en accuraat toe;
+- werkt nauwgezet conform procedures en wet- en regelgeving;
+- past middelen en materialen zorgvuldig doeltreffend toe;
+- handelt klantgericht.
+]]></werkprocesgedrag>
+                  <werkprocescompetenties>
+                    <competentie referentie="3095" />
+                    <competentie referentie="3101" />
+                    <competentie referentie="3103" />
+                    <competentie referentie="3094" />
+                  </werkprocescompetenties>
+                </werkproces>
+              </profielwerkprocessen>
+            </kerntaak>
+          </profielkerntaken>
+        </profiel>
+        <profiel nr="986409" titel="Helpende Zorg en Welzijn" hoofdstuk="2" niveau="2" beroepsgroep="Zorg">
+          <omschrijving>
+            <typeringvanhetberoep><![CDATA[De helpende zorg en welzijn kan werken in de eigen woonomgeving van de cliënt*, maar ook in een leefomgeving waarin de cliënt langdurig, tijdelijk of alleen gedurende een aantal uren per week verblijft. Zij kan werkzaam zijn in verzorgingshuis, verpleeghuis, thuiszorg en het WMO-domein, woonzorgcentrum, kinderopvang, woonvorm voor begeleid wonen, ziekenhuis of (speciaal) onderwijs.
+
+De helpende zorg en welzijn voert vraaggericht ondersteunende taken uit ten behoeve van een of meer cliënten en diens naastbetrokkenen**. Zij heeft daarbij aandacht voor de zelf- en samenredzaamheid van de cliënt en diens naastbetrokkenen en houdt rekening met de afspraken in het zorgplan, de mogelijkheden, wensen, gewoonten, normen, waarden, levensbeschouwing en culturele achtergrond van cliënten en naastbetrokkenen. Zij bewaakt de privacy van de cliënt en diens naastbetrokkenen. Zij is zich bewust van het effect van haar handelen en gedrag op de cliënt en diens naastbetrokkenen.
+
+*De term cliënt wordt gebruikt voor cliënt, zorgvrager, bewoner, oudere, jongere, burger, deelnemer, kind en leerling.
+**De term naastbetrokkenen wordt gebruikt voor mantelzorgers en vrijwilligers, ouders, verzorgers, familie, vrienden, wettelijke vertegenwoordigers, het cliëntsysteem en directe naasten.]]></typeringvanhetberoep>
+            <wettelijkeberoepsvereisten>Nee</wettelijkeberoepsvereisten>
+            <toelichtingwettelijkeberoepsvereisten><![CDATA[]]></toelichtingwettelijkeberoepsvereisten>
+            <bronwettelijkeberoepsvereisten></bronwettelijkeberoepsvereisten>
+            <certificaten />
+            <sbu>3200</sbu>
+            <soortopleiding>basisberoepsopleiding</soortopleiding>
+            <instellingendieaanmogenbieden />
+          </omschrijving>
+          <creboinformatie>
+            <crebo ministerie="OCW" prijsfactor="1,10" Geldig_vanaf="01-08-2015" Datum_einde_instroom="" Datum_einde_opleiding="">25498</crebo>
+          </creboinformatie>
+          <profielkerntaken>
+            <kerntaak nr="986410" titel="Ondersteunt bij  dagelijkse activiteiten in zorg en welzijn " hoofdstuk="1">
+              <complexiteit><![CDATA[De helpende zorg en welzijn voert uitvoerende, laagcomplexe werkzaamheden uit binnen het kader van gemaakte afspraken. In haar werkzaamheden past ze routines en standaardprocedures toe en maakt ze gebruik van basiskennis en vaardigheden om cliënten passend te ondersteunen. De context waarin zij haar werkzaamheden uitvoert is overwegend stabiel. Als de situatie minder stabiel is en als er onvoorziene situaties optreden, krijgt zij ondersteuning van een collega en/of leidinggevende. Zij weet met wie ze contact kan opnemen.
+
+
+ 
+]]></complexiteit>
+              <verantwoordelijkheid><![CDATA[De helpende zorg en welzijn heeft binnen het aangereikte takenpakket een zelfstandig uitvoerende rol. Zij werkt vraaggericht op basis van ontvangen instructies. Bij de uitvoering van haar werkzaamheden kan zij altijd terugvallen op haar leidinggevende, al zal deze soms 'op afstand', bijvoorbeeld telefonisch, beschikbaar zijn. Zij draagt verantwoordelijkheid voor de kwaliteit van haar eigen werkzaamheden en legt verantwoording af over haar werkzaamheden aan haar leidinggevende.]]></verantwoordelijkheid>
+              <vakkennisenvaardigheden>
+                <vakkennisenvaardigheden referentie="986491" />
+                <vakkennisenvaardigheden referentie="986495" />
+                <vakkennisenvaardigheden referentie="987703" />
+                <vakkennisenvaardigheden referentie="987704" />
+                <vakkennisenvaardigheden referentie="989480" />
+                <vakkennisenvaardigheden referentie="987702" />
+                <vakkennisenvaardigheden referentie="1007841" />
+                <vakkennisenvaardigheden referentie="1007854" />
+                <vakkennisenvaardigheden referentie="986500" />
+                <vakkennisenvaardigheden referentie="986520" />
+                <vakkennisenvaardigheden referentie="986492" />
+                <vakkennisenvaardigheden referentie="987705" />
+                <vakkennisenvaardigheden referentie="987727" />
+                <vakkennisenvaardigheden referentie="987706" />
+                <vakkennisenvaardigheden referentie="989484" />
+                <vakkennisenvaardigheden referentie="990172" />
+                <vakkennisenvaardigheden referentie="1007842" />
+                <vakkennisenvaardigheden_met_categorie />
+              </vakkennisenvaardigheden>
+              <profielwerkprocessen>
+                <werkproces nr="986411" titel="Ondersteunt bij wonen en huishouden" hoofdstuk="1">
+                  <werkprocesomschrijving><![CDATA[De helpende zorg en welzijn ondersteunt de cliënt, naastbetrokkenen of collega's vraaggericht bij huishouden. Zij maakt op basis van het zorgplan met de cliënt en naastbetrokkenen afspraken over welke werkzaamheden de cliënt zelf doet en welke ondersteuning door anderen wordt gedaan. Zij zorgt er voor dat de cliënt en diens naastbetrokkenen zoveel mogelijk de werkzaamheden zelf kunnen doen en biedt daarbij indien nodig ondersteuning. Zij voert alleen werkzaamheden uit die in de gezamenlijke afspraken zijn vastgelegd. Ze draagt gegevens over de cliënt en de geboden ondersteuning over aan haar collega’s.
+]]></werkprocesomschrijving>
+                  <werkprocesresultaat><![CDATA[De cliënt is volgens gemaakte afspraken vraaggericht ondersteund bij wonen en huishouden. Relevante gegevens zijn overgedragen.]]></werkprocesresultaat>
+                  <werkprocesgedrag><![CDATA[De helpende zorg en welzijn:
+- luistert aandachtig naar de wensen, behoeften en mogelijkheden van de zorgvrager en naastbetrokkenen;
+- voert de werkzaamheden volgens afspraken en richtlijnen doelgericht en effectief uit;
+- past de materialen en middelen juist en doeltreffend toe;
+- stimuleert de cliënt om werkzaamheden zelf uit te voeren.]]></werkprocesgedrag>
+                  <werkprocescompetenties>
+                    <competentie referentie="3095" />
+                    <competentie referentie="3103" />
+                    <competentie referentie="3101" />
+                  </werkprocescompetenties>
+                </werkproces>
+                <werkproces nr="986412" titel="Ondersteunt bij persoonlijke zorg en ADL" hoofdstuk="2">
+                  <werkprocesomschrijving><![CDATA[De helpende zorg en welzijn ondersteunt de cliënt, naastbetrokkenen of collega's vraaggericht bij persoonlijke zorg en activiteiten van het dagelijks leven (ADL), zoals eten, drinken, aan- en uitkleden en bewegen. Zij gaat na wat de afspraken in het zorgplan zijn wat betreft de persoonlijke verzorging en ADL van de cliënt en biedt op basis daarvan ondersteuning. Zij draagt er aan bij dat de cliënt zo veel mogelijk zelf kan doen. Ze geeft de cliënt en/of naastbetrokkenen informatie over activiteiten en helpt zo nodig bij het kiezen van activiteiten. Ze begeleidt de cliënt, indien nodig, bij het vervoer naar de activiteit. Ze signaleert bijzonderheden en veranderingen in de gezondheid, het welbevinden en/of de ondersteuningsbehoefte van de cliënt. Ze draagt gegevens over de cliënt en de geboden ondersteuning over aan haar collega’s.
+
+
+
+
+]]></werkprocesomschrijving>
+                  <werkprocesresultaat><![CDATA[De cliënt is volgens gemaakte afspraken vraaggericht ondersteund bij persoonlijke zorg en ADL. Relevante gegevens zijn overgedragen.]]></werkprocesresultaat>
+                  <werkprocesgedrag><![CDATA[De helpende zorg en welzijn:
+- kiest passende middelen, materialen en methoden;
+- gaat doelmatig en efficiënt om met materialen en middelen;
+- gaat volgens afspraak en richtlijnen om met de spanning tussen de wensen van de cliënt, de werkplanning en de afspraken;
+- stelt gerichte vragen aan de cliënt en/of naastbetrokkenen om wensen, behoeften en mogelijkheden te achterhalen;
+- signaleert adequaat veranderingen in de behoeften, het gedrag en de gemoedstoestand van de cliënt;
+- handelt effectief volgens protocol en instructie. ]]></werkprocesgedrag>
+                  <werkprocescompetenties>
+                    <competentie referentie="3087" />
+                    <competentie referentie="3095" />
+                    <competentie referentie="3101" />
+                    <competentie referentie="3103" />
+                  </werkprocescompetenties>
+                </werkproces>
+                <werkproces nr="986413" titel="Assisteert bij de uitvoering van sociale en recreatieve activiteiten" hoofdstuk="3">
+                  <werkprocesomschrijving><![CDATA[De helpende zorg en welzijn assisteert bij de uitvoering van sociale en recreatieve activiteiten. Ze voert voorkomende handelingen uit bij het uitvoeren van de activiteit en betrekt hierbij, indien van toepassing, zo veel mogelijk ook de cliënten en naastbetrokkenen. Ze geeft zo nodig extra uitleg en extra hulp aan cliënten die daaraan behoefte hebben. Ze bevordert een positief groepsklimaat.
+
+]]></werkprocesomschrijving>
+                  <werkprocesresultaat><![CDATA[De helpende zorg en welzijn heeft op een professionele wijze een bijdrage geleverd aan de uitvoering van sociale en recreatieve activiteiten.
+]]></werkprocesresultaat>
+                  <werkprocesgedrag><![CDATA[De helpende zorg en welzijn: 
+- betrekt actief de cliënt bij de activiteit;
+- stelt gerichte vragen aan de cliënt en/of naastbetrokkenen om wensen, behoeften en mogelijkheden te achterhalen;
+- past haar communicatie en gedrag adequaat aan op een groep, ook als zij verschillen qua cultuur of achtergrond;
+- sluit proactief aan bij de eigen kracht, mogelijkheden en beleving van de cliënt en naastbetrokkenen;
+- gaat professioneel om met haar gevoelens en emoties bij weerstand, tegenslag en moeilijke situaties;
+- handelt volgens gemaakte afspraken en instructie.
+]]></werkprocesgedrag>
+                  <werkprocescompetenties>
+                    <competentie referentie="3087" />
+                    <competentie referentie="3101" />
+                    <competentie referentie="3104" />
+                    <competentie referentie="3103" />
+                    <competentie referentie="3105" />
+                  </werkprocescompetenties>
+                </werkproces>
+              </profielwerkprocessen>
+            </kerntaak>
+          </profielkerntaken>
+        </profiel>
+        <profiel nr="986414" titel="Medewerker sport en recreatie" hoofdstuk="3" niveau="2" beroepsgroep="Sport">
+          <omschrijving>
+            <typeringvanhetberoep><![CDATA[De medewerker sport en recreatie voert (delen) van sportieve en recreatieve activiteiten uit, begeleidt gasten/deelnemers en houdt toezicht. Hij gaat graag met mensen om, hij is gastvrij en weet gasten/deelnemers op een plezierige wijze te onderhouden, te vermaken en te enthousiasmeren. Hij weet van aanpakken en werkt volgens voorschriften en instructies en gemaakte afspraken. Hij is alert op het signaleren van bijzonderheden, met name op het gebied van (sociale en fysieke) veiligheid van gasten/deelnemers en andere betrokkenen. De medewerker sport en recreatie is werkzaam in de sectoren sport en recreatie. Hij kan zijn werkzaamheden uitvoeren in tal van organisaties, bijvoorbeeld in recreatiebedrijven zoals campings en bungalowbedrijven, attractieparken en groepsaccommodaties of in sportorganisaties zoals fitnesscentra, indoor- en outdoor centra en  sportverenigingen, dan wel in gecombineerde organisaties zoals zwembaden, wellnesscentra en buitensportondernemingen. Hij kan ook werkzaam zijn bij (semi)overheidsorganisaties of gezondheidsondernemingen.]]></typeringvanhetberoep>
+            <wettelijkeberoepsvereisten>Nee</wettelijkeberoepsvereisten>
+            <toelichtingwettelijkeberoepsvereisten><![CDATA[]]></toelichtingwettelijkeberoepsvereisten>
+            <bronwettelijkeberoepsvereisten></bronwettelijkeberoepsvereisten>
+            <certificaten />
+            <sbu>3200</sbu>
+            <soortopleiding>basisberoepsopleiding</soortopleiding>
+            <instellingendieaanmogenbieden />
+          </omschrijving>
+          <creboinformatie>
+            <crebo ministerie="OCW" prijsfactor="1,30" Geldig_vanaf="01-08-2015" Datum_einde_instroom="" Datum_einde_opleiding="">25500</crebo>
+          </creboinformatie>
+          <profielkerntaken>
+            <kerntaak nr="986415" titel="Assisteert bij activiteiten en evenementen" hoofdstuk="1">
+              <complexiteit><![CDATA[De medewerker sport en recreatie voert eenvoudige, uitvoerende werkzaamheden uit binnen het kader van gemaakte afspraken. In zijn werkzaamheden past hij routines en standaardprocedures toe en maakt hij gebruik van basiskennis en vaardigheden om (delen van) recreatieve en sportieve activiteiten uit te voeren, gasten/deelnemers te begeleiden en toezicht te houden. De activiteiten kan hij uitvoeren in een vaste context, maar ook in wisselende contexten, zoals een buitenomgeving. Zijn werkzaamheden zijn weinig complex, door de diversiteit aan werkzaamheden moet hij snel kunnen schakelen tussen werkzaamheden, alsook tussen personen waarmee hij communiceert. De doelgroep waarmee hij te maken kan krijgen is erg divers en varieert in leeftijd, cultuur, leefstijl, maatschappelijke positie en waardering voor sport en recreatie. De veiligheid van gasten/deelnemers heeft topprioriteit en vraagt van de medewerker sport en recreatie voortdurende alertheid op de (sociale en fysieke) veiligheid van alle betrokkenen.]]></complexiteit>
+              <verantwoordelijkheid><![CDATA[De medewerker sport en recreatie werkt binnen de toegewezen taken zelfstandig op basis van ontvangen instructies en gemaakte afspraken. Bij de uitvoering van zijn werkzaamheden kan hij altijd terugvallen op een collega of een leidinggevende. Hij draagt verantwoordelijkheid voor de kwaliteit van zijn eigen werkzaamheden en legt verantwoording af over zijn werkzaamheden aan de leidinggevende. ]]></verantwoordelijkheid>
+              <vakkennisenvaardigheden>
+                <vakkennisenvaardigheden referentie="986486" />
+                <vakkennisenvaardigheden referentie="987724" />
+                <vakkennisenvaardigheden referentie="986495" />
+                <vakkennisenvaardigheden referentie="1003417" />
+                <vakkennisenvaardigheden referentie="1004365" />
+                <vakkennisenvaardigheden referentie="1008722" />
+                <vakkennisenvaardigheden referentie="986507" />
+                <vakkennisenvaardigheden referentie="986506" />
+                <vakkennisenvaardigheden referentie="987727" />
+                <vakkennisenvaardigheden referentie="987725" />
+                <vakkennisenvaardigheden referentie="1007928" />
+                <vakkennisenvaardigheden referentie="1008723" />
+                <vakkennisenvaardigheden referentie="1008724" />
+                <vakkennisenvaardigheden_met_categorie />
+              </vakkennisenvaardigheden>
+              <profielwerkprocessen>
+                <werkproces nr="986416" titel="Assisteert bij de uitvoering van activiteiten" hoofdstuk="1">
+                  <werkprocesomschrijving><![CDATA[De medewerker sport en recreatie helpt bij de uitvoering van activiteiten en voert voorkomende werkzaamheden uit. Hij assisteert bij de verkoop of verhuur van producten en materialen ten behoeve van activiteiten. Hij geeft gasten/deelnemers uitleg en instructie over de activiteit. Hij geeft gasten/deelnemers informatie over veilig, hygiënisch en duurzaam gebruik van middelen, materialen en accommodatie en beantwoordt vragen. Hij houdt tevredenheid van de gasten/deelnemers in de gaten en signaleert veranderingen en onderneemt zo nodig daarop actie. Na afloop van de activiteit assisteert hij bij het op orde brengen van materialen en middelen. Hij doet verslag van zijn werkzaamheden aan de leidinggevende en meldt bijzonderheden.]]></werkprocesomschrijving>
+                  <werkprocesresultaat><![CDATA[De medewerker sport en recreatie heeft effectief en op klantvriendelijke wijze bijgedragen aan de uitvoering van de activiteit.]]></werkprocesresultaat>
+                  <werkprocesgedrag><![CDATA[De medewerker sport en recreatie:
+- geeft op enthousiaste, duidelijke en deskundige wijze instructies en informatie;
+- maakt verantwoord gebruik van materialen en middelen;
+- stelt zich servicegericht op naar gasten/deelnemers en collega's;
+- werkt nauwgezet volgens procedures en richtlijnen van de organisatie; 
+- rapporteert tijdig, bondig en op duidelijke wijze aan de direct verantwoordelijke.
+]]></werkprocesgedrag>
+                  <werkprocescompetenties>
+                    <competentie referentie="3092" />
+                    <competentie referentie="3095" />
+                    <competentie referentie="3101" />
+                    <competentie referentie="3103" />
+                    <competentie referentie="3093" />
+                  </werkprocescompetenties>
+                </werkproces>
+                <werkproces nr="986417" titel="Begeleidt gasten/deelnemers" hoofdstuk="2">
+                  <werkprocesomschrijving><![CDATA[De medewerker sport en recreatie ontvangt gasten/deelnemers en beantwoordt vragen. Hij informeert hen over de gang van zaken tijdens en rond de activiteit. Hij demonstreert vaardigheden of handelingen en stimuleert gasten/deelnemers om actief mee te doen. Hij bevordert de interactie en - indien van toepassing - de samenwerking in de groep. Hij observeert gasten/deelnemers tijdens de uitvoering van de activiteit en geeft wanneer nodig nadere uitleg en instructies. Hij ondersteunt de gast/deelnemer bij succes en tegenslag. Hij bewaakt de voortgang van de activiteit en neemt in voorkomende situaties in overleg met collega(’s) of leidinggevende maatregelen om de voortgang of aanpak bij te sturen. Hij rapporteert zijn bevindingen aan de leidinggevende.]]></werkprocesomschrijving>
+                  <werkprocesresultaat><![CDATA[De medewerker sport en recreatie heeft de gasten/deelnemers enthousiast en volgens afspraken begeleid.]]></werkprocesresultaat>
+                  <werkprocesgedrag><![CDATA[De medewerker sport en recreatie:
+- stemt zijn wijze van communicatie/presentatie af op de gasten/deelnemers;
+- geeft op enthousiaste, duidelijke en deskundige wijze instructies;
+- werkt nauwgezet volgens ontvangen instructies of afspraken;
+- betrekt de gasten/deelnemers actief bij de uitvoering;
+- controleert regelmatig of de activiteit volgens planning verloopt;
+- houdt de tevredenheid van de gasten/deelnemers in de gaten;
+- gaat op gepaste wijze om met feedback van gasten/deelnemers of andere betrokkenen.
+]]></werkprocesgedrag>
+                  <werkprocescompetenties>
+                    <competentie referentie="3101" />
+                    <competentie referentie="3086" />
+                    <competentie referentie="3103" />
+                    <competentie referentie="3092" />
+                    <competentie referentie="3100" />
+                  </werkprocescompetenties>
+                </werkproces>
+                <werkproces nr="986418" titel="Houdt toezicht" hoofdstuk="3">
+                  <werkprocesomschrijving><![CDATA[De medewerker sport en recreatie surveilleert en houdt toezicht op de veiligheid van gasten/deelnemers en op verantwoord gebruik van materialen, middelen en accommodatie door gasten/deelnemers. Hij stimuleert gewenst gedrag en spreekt gasten/deelnemers aan op ongepast en ongewenst gedrag.]]></werkprocesomschrijving>
+                  <werkprocesresultaat><![CDATA[De medewerker sport en recreatie heeft op adequate wijze toezicht gehouden.]]></werkprocesresultaat>
+                  <werkprocesgedrag><![CDATA[De medewerker sport en recreatie:
+- houdt contact met collega’s volgens ontvangen instructies en/of de procedures van de organisatie;
+- observeert de gasten/deelnemers vanaf verschillende posities; 
+- verdeelt effectief zijn aandacht over de afgesproken aandachtspunten;
+- blijft alert op mogelijke risico’s; 
+- past consequent de richtlijnen toe bij het houden van toezicht;
+- neemt tijdig passende en preventieve maatregelen om risico's of escalatie van problemen te voorkomen.
+]]></werkprocesgedrag>
+                  <werkprocescompetenties>
+                    <competentie referentie="3094" />
+                    <competentie referentie="3103" />
+                  </werkprocescompetenties>
+                </werkproces>
+              </profielwerkprocessen>
+            </kerntaak>
+          </profielkerntaken>
+        </profiel>
+      </profielen>
+      <verantwoordingsinformatie titel="Verantwoordingsinformatie">
+        <brondocumenten titel="Beroepscompetentieprofielen (BCP)" hoofdstuk="1">
+          <brondocument naam="BCP Facilitair medewerker (22-06-2011).pdf" type="Beroepscompetentie profiel (BCP)" datum="22-06-2011" omschrijving="BCP Facilitair medewerker" link="http://digik.s-bb.nl/UserControls/DossierResource.ashx?D08496a84-1c9a-4c41-a76f-efacdf27e512" />
+          <brondocument naam="BCP He ZW, aug. 2007.pdf" type="Beroepscompetentie profiel (BCP)" datum="31-07-2007" omschrijving="BCP Helpende Zorg en Welzijn" link="http://digik.s-bb.nl/UserControls/DossierResource.ashx?D9103e80e-ea37-4752-b19c-138609f216ba" />
+          <brondocument naam="Competentieprofielen recreatiebranche _vastgesteld 28 03 2011_.pdf" type="Beroepscompetentie profiel (BCP)" datum="28-03-2011" omschrijving="BCP's Recreatiebranche" link="http://digik.s-bb.nl/UserControls/DossierResource.ashx?D3f3a1a72-1f75-4729-802a-bc3417ba04ff" />
+          <brondocument naam="Competentieprofielen zwembadbranche definitief _geactualiseerd 28 11 2009_.pdf" type="Beroepscompetentie profiel (BCP)" datum="28-11-2009" omschrijving="BCP's Zwembadbranche" link="http://digik.s-bb.nl/UserControls/DossierResource.ashx?D9c252b18-b966-48d8-a6f9-29e38089f97e" />
+          <brondocument naam="nisb_bos_2004-08-11_profielassistentsportbuurtwerk.pdf" type="Beroepscompetentie profiel (BCP)" datum="08-11-2004" omschrijving="BCP Assistent sportbuurtwerk" link="http://digik.s-bb.nl/UserControls/DossierResource.ashx?D342d8f88-3609-4973-9338-d98f0382ea9b" />
+          <brondocument naam="BCP's_Trainer_coach_1-5_NOCNSF_2012.pdf" type="Beroepscompetentie profiel (BCP)" datum="01-05-2012" omschrijving="BCP's Trainer-coach 1-5" link="http://digik.s-bb.nl/UserControls/DossierResource.ashx?D60ec3379-4b60-4ff1-8110-09bbb13285bb" />
+          <brondocument naam="BCP's_Instructeur_1-5_NOCNSF.pdf" type="Beroepscompetentie profiel (BCP)" datum="01-05-2012" omschrijving="BCP's Instructeur 1-5" link="http://digik.s-bb.nl/UserControls/DossierResource.ashx?Dd967c37c-4706-4240-85e5-3720de94651c" />
+          <brondocument naam="Addendum Helpende Zorg en Welzijn okt. 2013.pdf" type="Beroepscompetentie profiel (BCP)" datum="07-10-2013" omschrijving="Addendum BCP Helpende Zorg en Welzijn" link="http://digik.s-bb.nl/UserControls/DossierResource.ashx?Daabe48df-997e-423d-b33c-a5754590ca9f" />
+        </brondocumenten>
+        <arbeidsmarktinformatie titel="Arbeidsmarktinformatie" hoofdstuk="2"><![CDATA[medewerker Facilitaire Dienstverlening
+
+Kans op werk
+De arbeidsmarkt voor facilitaire dienstverlening is lastig te definiëren. Zij bestaat uit twee deelmarkten: facilitaire aanbieders en facilitaire afdelingen binnen bedrijven en instellingen. In toenemende mate worden facilitaire diensten bij bedrijven en instellingen uitbesteed aan een gespecialiseerd bedrijf (FMN & Twynstra Gudde 2012).
+
+De arbeidsmarktperspectieven voor facilitair medewerkers zijn sterk regionaal bepaald. In de regio’s Noord, Noordwest en Zuidoost zijn de perspectieven goed. In de regio’s Oost en Zuidwest zijn de perspectieven voldoende en in de regio Middenwest zijn de perspectieven matig tot voldoende. 
+
+Kans op stage
+In alle regio’s is het vooruitzicht op een leerplaats voor de facilitair medewerker goed. 
+
+Meer informatie over opleidingen en de aansluiting tussen beroepsonderwijs en de arbeidsmarkt voor de medewerker facilitaire dienstverlening is te vinden in de publicatie Trends & cijfers die Kenwerk jaarlijks samenstelt. Deze publicatie, evenals cijfers over specifieke regio’s zijn te vinden op www.kenwerk.nl
+
+
+Helpende Zorg en Welzijn
+
+Kans op werk
+De kans op werk voor gediplomeerden van de opleiding helpende zorg en welzijn is landelijk gezien gering. Dit beeld varieert weinig in de regio’s. In alle regio’s is sprake van een matige of geringe kans op werk. 
+De vraag naar gediplomeerde helpenden zorg en welzijn neemt naar verwachting over de periode 2012-2017 sterk af. De werkgelegenheid in de verpleging en verzorging zal afnemen. Dit komt omdat het kabinet wil dat ouderen met een lichte zorgvraag langer thuis blijven wonen en daar de (professionele) hulp krijgen. Het aantal bewoners van verzorgingshuizen zal hierdoor sterk afnemen. In de thuiszorg heeft de overheid de bezuinigingen uitgesteld; maar ook hier wordt een grote uitstroom van helpenden zorg en welzijn verwacht. 
+Als gevolg van de afnemende vraag naar personeel en de toename van het aantal instromende studenten dreigt er bij ongewijzigd beleid een aanzienlijk overschot aan gediplomeerde helpenden zorg en welzijn te ontstaan.
+Van de gediplomeerden gaat 50% een vervolgstudie doen. 43% gaat direct werken; daarvan gaat 36% werken in verpleeg- en verzorgingshuizen, 17% in de thuiszorg en 16% in de gehandicaptenzorg. 
+
+Kans op stage
+Voor studenten van de opleiding helpende is de kans op stage landelijk gezien voldoende. De kans op stage varieert per regio van ruim voldoende tot gering. Het beeld is nauwelijks veranderd in vergelijking met een jaar geleden. 
+In schooljaar 2013-2014 zijn er zo’n 17.500 studenten in opleiding. Het aantal studenten is het afgelopen jaar met 5% afgenomen. Het aantal BOL studenten is vrijwel gelijk gebleven; het aantal BBL studenten is sterk afgenomen. Ondanks de afname van het totaal aantal studenten maken ontwikkelingen in de verpleeg-/verzorgingshuizen en de thuiszorg het onzeker of de kans op stage de komende jaren voldoende blijft.
+
+Bronnen
+- Arbeidsmarktprognoses van VOV personeel in zorg en welzijn 2013-2017, landelijk onderzoeksprogramma AZW, aug. 2013
+- DUO, studentenbestanden 2012-2013 en 2013-2014, peildatum okt. 2012 en okt. 2013
+- Kans op Stage, Calibris, diverse peilmomenten in 2012, 2013 en 2014
+- Kans op Werk, Calibris, nov. 2013
+- Monitor Arbeidsmarkt en Onderwijs Zorg, Calibris, november 2013
+- Regeerakkoord, Zorgakkoord en Sociaal akkoord, 2013
+- DUO Market Research, rendement opleidingen Calibris, 2012 (bewerking Calibris, 2013)
+
+medewerker sport & recreatie 
+
+Kans op werk 
+De kans op werk voor de medewerker sport en recreatie is niet helemaal te bepalen aangezien het een nieuw profiel betreft. Het profiel bestaat uit een samenvoeging van de kwalificatie sport- en bewegingsbegeleider en de kwalificatie leisure en hospitality assistent. De gegevens van deze kwalificaties zijn gebruikt om een beeld te geven van de kans op werk en de kans op stage voor het profiel medewerker sport en recreatie. 
+
+De kans op werk  voor gediplomeerden van de opleiding sport- en bewegingsbegeleider is in 2013 gezien gering. In vrijwel alle regio’s is de kans op werk gering; in enkele regio’s matig. Het arbeidsmarktperspectief voor sport niveau 2 gediplomeerden is al langer niet gunstig.  In 2012 was er sprake van een vacaturedaling van 15%. Hoe de kans op werk voor de  sport- en bewegingsbegeleider zich de komende jaren zal ontwikkelen, laat zich niet eenvoudig voorspellen.  Er zijn geen aanwijzingen dat het perspectief op de arbeidsmarkt de komende jaren gaat veranderen. Van de gediplomeerden sport- en bewegingsbegeleider gaat ruim 70% een vervolgstudie doen. Slechts 22% gaat direct werken; daarvan 76% in sectoren buiten zorg, welzijn, sport en onderwijs; 13% gaat werken in de sector sport.
+
+Kans op stage
+Voor studenten van de opleiding sport- en bewegingsbegeleider is de kans op stage in 2013-2014 landelijk gezien voldoende. Er is wel sprake van een wisselend beeld in de regio’s: een matige tot ruim voldoende kans op stage. In vergelijking met een jaar geleden zijn er in meer regio’s tekorten aan stageplaatsen. 
+In schooljaar 2013-2014 zijn er bijna 1.800 studenten in opleiding, alleen BOL studenten. Het aantal studenten is het afgelopen jaar met 6% afgenomen. Ondanks de daling van het aantal studenten is het onzeker of de kans op stage de komende jaren voldoende blijft: de personeelsvraag neemt namelijk ook af. 
+
+Bronnen
+- DUO, studentenbestanden 2012-2013 en 2013-2014, peildatum okt. 2012 en okt. 2013
+- Kans op Stage, Calibris, diverse peilmomenten in 2012, 2013 en 2014
+- Kans op Werk, Calibris, nov. 2013
+- Monitor Arbeidsmarkt en Onderwijs Sport, Calibris, november 2013
+- Regeerakkoord, Zorgakkoord en Sociaal akkoord, 2013
+- DUO Market Research, rendement opleidingen Calibris, 2012 (bewerking Calibris, 2013).
+
+Voor actuele gegevens, zie: www.kansopwerk.nl en www.kansopstage.nl
+]]></arbeidsmarktinformatie>
+        <trendsenontwikkelingen titel="Trends en ontwikkelingen" hoofdstuk="3">
+          <wetenregelgeving><![CDATA[Wijzigingen in wet en regelgeving
+Tijdens het opstellen van de kwalificatiedossiers zijn er een aantal ingrijpende stelselwijzigingen in voorbereiding, waarvan de gevolgen voor de beroepsuitoefening nog niet geheel zijn te overzien. Beoogd wordt de collectieve uitgaven te beheersen en de eigen kracht van de burger en diens netwerk te versterken. Om deze veranderingen te realiseren worden een aantal wetten samengevoegd en/of overgeheveld naar gemeenten. Gelijktijdig wordt bevorderd dat iedereen met een beperking kan deelnemen aan de samenleving. Dit op alle domeinen van het leven, dus, zowel op het gebied van wonen, als van mobiliteit, opleiding/werk en vrijetijdsbesteding. Belangrijke wetgeving en regelgeving die hierover wordt uitgewerkt:
+- Ratificering VN-verdrag voor de rechten van mensen met een beperking;
+- Uitbreiding Wet gelijke behandeling op grond van handicap of ziekte;
+- Nieuwe Wet Maatschappelijke Ondersteuning;
+- Nieuwe wet op de Jeugdzorg;
+- Nieuwe Participatiewet;
+- Nieuwe Wet Langdurig Zorg;
+- Zorgverzekeringswet (ZVW).
+
+Wet Zorg en dwang
+Het Ministerie van VWS heeft een wetsvoorstel opgesteld, waarin onvrijwillige zorg voor cliënten met dementie of een verstandelijke beperking geregeld wordt. Dit met het oog op vrijheid en de zelfbeschikking van de cliënt. De wet zal gelden voor alle zorgverleners, alle zorglocaties (ook de thuiszorg) en alle vormen van onvrijwillige zorg, dus niet alleen voor vrijheidsbeperkingen. De wet treedt naar verwachting in 2014 in werking. Zodra de wet van kracht is, zal gekeken worden of, gericht op uitvoering van de wet in de zorg, specifieke competenties van zorgmedewerkers moeten worden toegevoegd.
+
+Meldcode huiselijk geweld en kindermishandeling
+Op 1 juli 2013 is de wet Meldcode huiselijk geweld en kindermishandeling in werking getreden voor de sectoren gezondheidszorg, onderwijs, kinderopvang, maatschappelijke ondersteuning, jeugdzorg en justitie. De meldcode behelst een stappenplan dat duidelijkheid geeft over hoe te handelen bij vermoedens van geweld. Het betreft alle vormen van geweld in afhankelijkheidsrelaties, naast huiselijk geweld en kindermishandeling, ook seksueel geweld, ouderenmishandeling, eergerelateerd geweld en vrouwelijk genitale verminking. Het gaat om een wettelijke verplichting tot het hebben van een meldcode en een plicht tot zorgvuldig handelen, niet om een meldplicht www.meldcode.nl.
+In de kwalificatiedossiers is de Wet Meldcode huiselijk geweld en kindermishandeling ondergebracht bij vakkennis en vaardigheden. In de uitwerking kan de onderwijsinstelling, indien aanwezig, gebruik maken van specifieke richtlijnen van branches.
+
+In de kwalificatiedossiers Zorg, Welzijn en Sport op niveau 2 staat bij kennis:
+Basiskennis van wet- en regelgeving waaronder: Meldcode huiselijk geweld en kindermishandeling,...<andere relevante wetgeving>.... 
+
+In alle kwalificatiedossiers Zorg, Welzijn en Sport op niveau 2 bij vaardigheden: 
+kan signalen van sociale problematiek herkennen (waaronder huiselijk geweld, kindermishandeling en seksueel misbruik) en deze melden aan de leidinggevende volgens wet- en regelgeving en het beleid/protocol van de organisatie  
+
+Een belangrijke ontwikkeling betreft de jurisprudentie rondom veiligheid/aansprakelijkheid. Volgens de wet moet een SB organisatie een toezichtplan en een calamiteitenplan hebben (dat ook regelmatig geoefend moet worden). Elk incident moet nauwkeurig worden geregistreerd, mede in het licht van claims.
+In verband met de strengere wet- en regelgeving moet steeds actiever toezicht worden gehouden. Dit actiever toezicht houden is belangrijk, zowel vanuit het oogpunt van veiligheid als ook vanuit het oogpunt van gastvrijheid.
+Daarnaast zijn veranderende wet- en regelgeving op het gebied van hygiëne, kwaliteit en arbeidsomstandigheden van invloed op het beroep.
+
+Van de beroepsbeoefenaar wordt verwacht dat hij kennis neemt van nieuwe beroepsrelevante wet- en regelgeving en deze toepast in zijn werkzaamheden. 
+                                                                                                                            
+
+
+]]></wetenregelgeving>
+          <ontwikkelingenindeberoepsuitoefening><![CDATA[Trends en ontwikkeling voor de medewerker facilitaire dienstverlening
+Facilitaire diensten worden ook de komende jaren nog in hoge mate uitbesteed. De facilitair medewerker werkt daardoor steeds meer op basis van detachering. In de facilitaire sector wordt er steeds meer gewerkt vanuit een formule of concept  zoals bijvoorbeeld hospitality. Daarnaast zal het duurzaam werken en kosten reduceren ook de aankomende jaren belangrijk blijven. 
+
+Trends en ontwikkelingen voor de helpende zorg en welzijn 
+Tijdens het opstellen van de kwalificatiedossiers zijn er een aantal ingrijpende stelselwijzigingen in voorbereiding, waarvan de gevolgen voor de beroepsuitoefening nog niet geheel te overzien zijn (zie paragraaf wet- en regelgeving). Het gaat om wijzigingen die niet alleen van invloed zijn op de beschikbare financiële middelen maar ook op de organisatie van zorg en welzijn. Steeds meer taken gaan naar de gemeenten en hulpbehoevende mensen blijven langer thuis wonen, zij krijgen daarbij ondersteuning van het eigen sociale netwerk en/of vrijwilligers en indien nodig wordt (professionele) zorg/ondersteuning geboden. Het gaat hierbij om de volgende doelgroepen:
+• Ouderen die veilig thuis kunnen wonen en geen beschermende en veilige omgeving in een instelling nodig hebben, kunnen een beroep doen op gemeenten en zorgverzekeraars.
+• Een deel van de mensen met een verstandelijke beperking blijft met ondersteuning thuis wonen. Dat geldt niet voor mensen die sociaal zeer beperkt zelfstandig functioneren en een veilige en vertrouwde leef-, werk- en woonomgeving nodig hebben. 
+• Mensen met een lichamelijke beperking en die in staat zijn regie te voeren, kunnen thuis wonen. 
+• Voor mensen met een beperkte zorgvraag als gevolg van een zintuiglijke beperking (auditief en visueel) zijn er mogelijkheden om zorg thuis te organiseren. 
+
+Voor de verpleging en verzorging, gehandicaptenzorg en GGZ heeft dit tot gevolg dat er een verschuiving plaatsvindt van intra- naar extramurale zorg (Bron: Arbeidsmarktprognoses van VOV-personeel in Zorg en Welzijn 2013-2017, Onderzoeksprogramma Arbeidsmarkt Zorg en Welzijn, Zoetermeer, augustus 2013).
+
+De zorgverlening van de toekomst veronderstelt een andere organisatie. Belangrijke punten hierbij zijn:
+- de regie voor de zorg ligt bij de cliënt;
+- de rol van de professional verschuift van ‘zorgen voor’ naar ‘zorgen dat’;
+- (multidisciplinair) samenwerken met andere professionals uit het eigen en/of uit andere zorgnetwerken en het zoveel mogelijk betrekken van cliënten, mantelzorgers en vrijwilligers bij de zorg en ondersteuning;
+- het versterken en verlichten van de informele zorg (mantelzorgers en vrijwilligers) en deze verbinden met de professionele ondersteuning;
+- het streven naar een inclusieve samenleving (waarin iedereen meedoet en ondersteunt); 
+- ‘aanvullende’ dienstverlening die de zorgvrager tegen betaling inkoopt, waarbij is te denken aan een breed palet aan woonservice- en welzijnsdiensten.
+
+Ondersteunende technologie (inclusief sociale media) speelt steeds meer een rol. Technologische ontwikkelingen gaan snel en vragen van de beroepskracht een voortdurende alertheid en vaardigheid om nieuwe toepassingen te integreren in de zorgverlening en om de organisatie van haar werk daarop af te stemmen.
+
+De verantwoordelijkheid voor de eigen beroepsontwikkeling en arbeidsmarktpositie zal in de toekomst een steeds grotere rol gaan spelen (een 40 jarig dienstverband is een zeldzaamheid en zeker in de langdurige zorg zullen veel mensen van baan moeten veranderen wanneer een werkgever bijvoorbeeld de aanbestedingsprocedure mist). Het is noodzakelijk dat hier aandacht aan wordt besteed.
+
+Trends en ontwikkelingen voor de medewerker sport & recreatie
+De actieve regisserende rol van de overheid met betrekking tot sport en bewegen heeft een gunstige invloed op de arbeidsmarkt van de sector. Sport wordt door de overheid meer en meer ingezet als middel om sociaal-maatschappelijke doelen te bereiken. Dit heeft zijn uitwerking op lokaal niveau waardoor er steeds meer samenwerking is tussen onderwijs, sport en welzijnsvoorzieningen en buurtsportcoaches worden aangesteld om uitvoering te geven aan de gestelde doelen. De medewerker sport en recreatie is inzetbaar in de uitvoering van deze (buurtgerichte) activiteiten. 
+
+De klantgroepen stellen steeds hogere eisen aan het aanbod en de service in de organisatie. De beroepsbeoefenaar dient zijn handelen hierop aan te passen. Daarnaast willen deelnemers steeds meer 'beleving' en variatie en is er veel aandacht voor gezondheid. 
+
+De beroepsbeoefenaar krijgt in zijn werk steeds meer te maken met ongewenst gedrag zoals agressie. Regulerend kunnen optreden is van belang om escalatie te voorkomen. 
+
+Het diverse aanbod aan faciliteiten binnen de verschillende accommodaties en de technologische ontwikkelingen binnen de sport- en recreatie vereisen van de medewerker sport & recreatie dat hij goed op de hoogte blijft van nieuwe ontwikkelingen en de mogelijkheden die deze vernieuwingen met zich meebrengen goed kan hanteren. De technologische ontwikkelingen rondom verdere digitalisering en nieuwe media bijvoorbeeld blijven van invloed op de beroepsuitoefening van de medewerker sport en recreatie. Het biedt mogelijkheden om gasten/deelnemers verdergaande vormen van belevenis te bieden.
+
+Het aanbieden van verschillende, op de doelgroep gerichte activiteiten vraagt om teamwerk van de verschillende beroepsbeoefenaren en om verdere professionalisering. Er ontstaat enerzijds behoefte aan breed inzetbare en meer allround opgeleide medewerkers, anderzijds vragen de ontwikkelingen om specialisten op een bepaalde activiteit of sport. 
+]]></ontwikkelingenindeberoepsuitoefening>
+        </trendsenontwikkelingen>
+        <wettelijkeberoepsvereisten titel="Wettelijke beroepsvereisten" hoofdstuk="4"><![CDATA[n.v.t. ]]></wettelijkeberoepsvereisten>
+        <bijzonderevereisten titel="Bijzondere vereisten" hoofdstuk="5">
+          <profiel referentie="986408">
+            <eisen>Nee</eisen>
+            <toelichtingvereisten><![CDATA[]]></toelichtingvereisten>
+          </profiel>
+          <profiel referentie="986409">
+            <eisen>Nee</eisen>
+            <toelichtingvereisten><![CDATA[]]></toelichtingvereisten>
+          </profiel>
+          <profiel referentie="986414">
+            <eisen>Nee</eisen>
+            <toelichtingvereisten><![CDATA[]]></toelichtingvereisten>
+          </profiel>
+        </bijzonderevereisten>
+        <taalbeheersingseisen titel="Beroepsspecifieke moderne vreemde talen" hoofdstuk="6">
+          <toelichting><![CDATA[Profiel medewerker Sport & Recreatie
+Van de medewerker Sport & Recreatie wordt verwacht dat hij in een moderne vreemde taal eenvoudige gesprekken kan voeren met gasten. Hij kan luisteren naar gasten en vragen beantwoorden met betrekking tot de faciliteiten en het aanbod aan recreatieve en sportieve actviteiten. Met eenvoudig taalgebruik kan hij instructies geven in de moderne vreemde taal en kan hij tijdens de activiteit het contact onderhouden met de gasten.  ]]></toelichting>
+          <taalbeheersingseis titel="Beroepsspecifieke moderne vreemde talen">
+            <profiel referentie="986408" />
+            <profiel referentie="986414">
+              <taal titel="een MVT naar keuze">
+                <taalvaardigheden>
+                  <taalvaardigheid titel="Luisteren" niveau="A2" />
+                  <taalvaardigheid titel="Lezen" niveau="" />
+                  <taalvaardigheid titel="Gesprekken voeren" niveau="A2" />
+                  <taalvaardigheid titel="Spreken" niveau="A2" />
+                  <taalvaardigheid titel="Schrijven" niveau="" />
+                </taalvaardigheden>
+              </taal>
+            </profiel>
+          </taalbeheersingseis>
+        </taalbeheersingseisen>
+        <ontwikkelmogelijkheden titel="Ontwikkelmogelijkheden van de beroepsbeoefenaar in het onderwijs" hoofdstuk="7"><![CDATA[De medewerker facilitaire dienstverlening kan na afronding van zijn opleiding doorstromen naar een andere opleiding op niveau 3, bijvoorbeeld een opleiding gericht op schoonmaak, horeca, zorg of welzijn.
+
+Na afronding van de opleiding helpende zorg en welzijn kan de helpende zorg en welzijn doorstromen naar een zorg- of sociaal agogische opleiding op niveau 3 (bijvoorbeeld verzorgende-IG, medewerker maatschappelijke zorg en pedagogisch medewerker kinderopvang). Ook kan de helpende zorg en welzijn doorstromen naar andere richtingen op niveau 3, bijvoorbeeld richting sport en bewegen of horeca.
+
+Na afronding van de opleiding kan de medewerker sport en recreatie doorstromen naar de opleiding sport- en bewegingsleider op niveau 3 of naar een recreatie opleiding op niveau 3. Hij kan ook doorstromen naar andere richtingen op niveau 3, bijvoorbeeld richting horeca.
+]]></ontwikkelmogelijkheden>
+        <onderhoudsagenda titel="Onderhoudsagenda" hoofdstuk="8">
+          <agenda>
+            <onderdeel>
+              <onderwerp><![CDATA[Examenprofiel ]]></onderwerp>
+              <actie><![CDATA[Ontwikkelen van een passend examenprofiel  ]]></actie>
+              <wie><![CDATA[Paritaire commissie 
+Sub-pc’s 
+Calibris en Kenwerk
+
+]]></wie>
+              <wanneer><![CDATA[2014]]></wanneer>
+            </onderdeel>
+            <onderdeel>
+              <onderwerp><![CDATA[Onderhoud kwalificatiedossiers]]></onderwerp>
+              <actie><![CDATA[Monitoren en zo nodig actie ondernemen/initiëren van visie, trends, wetenschap en ontwikkelingen in de beroepsuitoefening en op de arbeidsmarkt en dit jaarlijks plaatsen in onderhoudsperspectief]]></actie>
+              <wie><![CDATA[Paritaire commissie 
+Sub-pc’s 
+Calibris en Kenwerk]]></wie>
+              <wanneer><![CDATA[2014-2020]]></wanneer>
+            </onderdeel>
+            <onderdeel>
+              <onderwerp><![CDATA[Ontwikkelingen beroepenstructuur en bcp’s]]></onderwerp>
+              <actie><![CDATA[Nieuwe bcp’s en geactualiseerde bcp’s worden aangeleverd door sociale partners]]></actie>
+              <wie><![CDATA[Sociale partners]]></wie>
+              <wanneer><![CDATA[2014-2020]]></wanneer>
+            </onderdeel>
+            <onderdeel>
+              <onderwerp><![CDATA[Actualisatie kwalificatiestructuur en kwalificatiedossiers]]></onderwerp>
+              <actie><![CDATA[Op basis van nieuwe en/of geactualiseerde bcp’s worden kwalificatiedossiers aangepast]]></actie>
+              <wie><![CDATA[Paritaire commissie 
+Sub-pc’s 
+Calibris en Kenwerk]]></wie>
+              <wanneer><![CDATA[2014-2020]]></wanneer>
+            </onderdeel>
+            <onderdeel>
+              <onderwerp><![CDATA[Technologische ontwikkelingen]]></onderwerp>
+              <actie><![CDATA[Doorvertaling van technologische ontwikkelingen naar kd’s, keuzedelen en servicedocumenten]]></actie>
+              <wie><![CDATA[Paritaire commissie 
+Sub-pc’s 
+Calibris en Kenwerk 
+]]></wie>
+              <wanneer><![CDATA[2014-2020]]></wanneer>
+            </onderdeel>
+            <onderdeel>
+              <onderwerp><![CDATA[Keuzedelen]]></onderwerp>
+              <actie><![CDATA[Bepalen en ontwikkelen branche- en sectorspecifieke keuzedelen]]></actie>
+              <wie><![CDATA[Paritaire commissie 
+Sub-pc’s 
+Calibris en Kenwerk]]></wie>
+              <wanneer><![CDATA[2014-2020]]></wanneer>
+            </onderdeel>
+            <onderdeel>
+              <onderwerp><![CDATA[Servicedocumenten]]></onderwerp>
+              <actie><![CDATA[Gedurende de looptijd van de kd’s door onderwijs en/of werkveld gewenste servicedocumenten i.r.t. kd’s ontwikkelen]]></actie>
+              <wie><![CDATA[Paritaire commissie 
+Sub-pc’s 
+Calibris en Kenwerk
+]]></wie>
+              <wanneer><![CDATA[2014-2020]]></wanneer>
+            </onderdeel>
+            <onderdeel>
+              <onderwerp><![CDATA[Algemene wet- en regelgeving]]></onderwerp>
+              <actie><![CDATA[Monitoring algemene wet- en regelgeving. Zonodig gevolgen in kd’s doorvoeren]]></actie>
+              <wie><![CDATA[Paritaire commissie 
+Sub-pc’s 
+Calibris en Kenwerk
+]]></wie>
+              <wanneer><![CDATA[2014-2020]]></wanneer>
+            </onderdeel>
+            <onderdeel>
+              <onderwerp><![CDATA[Uitvoerbaarheid kwalificatiedossiers]]></onderwerp>
+              <actie><![CDATA[Onderzoek naar uitvoerbaarheid van kwalificatiedossiers voor het werkveld en onderwijs]]></actie>
+              <wie><![CDATA[Paritaire commissie 
+Sub-pc’s 
+Calibris en Kenwerk
+]]></wie>
+              <wanneer><![CDATA[2014-2020]]></wanneer>
+            </onderdeel>
+            <onderdeel>
+              <onderwerp><![CDATA[Uitvoerbaarheid keuzedelen]]></onderwerp>
+              <actie><![CDATA[Onderzoek naar uitvoerbaarheid van keuzedelen voor het werkveld en onderwijs]]></actie>
+              <wie><![CDATA[Paritaire commissie 
+Sub-pc’s 
+Calibris en Kenwerk
+]]></wie>
+              <wanneer><![CDATA[2014-2020]]></wanneer>
+            </onderdeel>
+            <onderdeel>
+              <onderwerp><![CDATA[Actuele thema’s]]></onderwerp>
+              <actie><![CDATA[Inspelen op actuele thema’s zoals doelmatigheid en bpv i.r.t kwalificatiedossiers en kwalificatiestructuur	]]></actie>
+              <wie><![CDATA[Paritaire commissie 
+Sub-pc’s 
+Calibris	
+]]></wie>
+              <wanneer><![CDATA[2014-2020
+]]></wanneer>
+            </onderdeel>
+          </agenda>
+          <toelichting><![CDATA[]]></toelichting>
+        </onderhoudsagenda>
+        <wijzigingen titel="Wijzigingen ten opzichte van de voorgaande versie" hoofdstuk="9">
+          <wijzigingscategorien>
+            <wijzigingscategorie titel="Categorie 1: Nieuw dossier" categorie="1" />
+          </wijzigingscategorien>
+          <omschrijving><![CDATA[n.v.t. ]]></omschrijving>
+        </wijzigingen>
+        <betrokkenen titel="Betrokkenen" hoofdstuk="10"><![CDATA[Werkgroep kwalificatiedossier
+Werkveld- en onderwijspartijen uit de (sub)paritaire commissie hebben leden afgevaardigd om in een werkgroep te komen tot breed kwalificatiedossier op niveau 2 waarin de 'bestaande' kwalificaties medewerker facilitaire dienstverlening, helpende zorg en welzijn, sport- en bewegingsbegeleider en medewerker recreatie zijn opgenomen. De voorstellen vanuit de werkgroep zijn door de (sub)paritaire commissie besproken en (al dan niet) bekrachtigd, waarna het kwalificatiedossier is bijgesteld.  
+
+Gebruikerstest 2014
+Op 10 februari 2014 is het kwalificatiedossier besproken in een gebruikerstest met vertegenwoordigers van onderwijs en werkveld. 
+De volgende centrale vragen zijn daarbij aan het gebruikerspanel voorgelegd:
+1. Is in het kwalificatiedossier het beroep resp. de beroepen herkenbaar beschreven?
+2. Is het mogelijk om op basis van het kd de examinering goed vorm te geven?
+3. Is het mogelijk om op basis van het kd een goed curriculum te ontwikkelen?
+4. Is het mogelijk om op basis van het kd de bpv goed vorm te geven?
+5. Is het kwalificatiedossier: herkenbaar, uitvoerbaar, betaalbaar, organiseerbaar?
+
+Op elk van de vijf vragen is er per profiel/kwalificatiedossier een ja/nee met argumenten opgesteld. De uitkomsten van de gebruikerstest zijn besproken in de sub-pc en na akkoord van de sub-pc zijn, indien van toepassing, voorgestelde wijzigingen verwerkt in de definitieve versie van het kwalificatiedossier.
+
+Sub-paritaire commissie Sport en Bewegen
+Namens onderwijs (MBO Raad en NRTO)
+Directeur ROC Tilburg
+Onderwijsmanager ROC Mondriaan
+Projectleider CIOS Nederland
+Directeur Welzijn en Educatie Horizon College
+Beleidsadviseur MBO Raad
+Beleidsmedewerker MBO Raad
+
+Namens werkgeversorganisaties
+Stafmedewerker Opleidingscommissie VeBON
+Programmamanager NOC*NSF
+Manager Onderwijs SFRecreatie
+Senior consulent/beleidsmedewerker NPZ-NRZ
+Stafmedewerker Fit!vak	
+Programmamedewerker NISB
+Beleidsmedewerker Stichting Welzijn Woerden
+Beleidsmedewerker Werkgevers in de Sport
+
+Namens werknemersorganisaties
+Beleidsmedewerker ABVAKABO FNV
+Assistent bestuurder FNV Sport
+
+Voorzitter sub-paritaire commissie, Onderhandelaar en belangenbehartiger VakbondZL
+
+Paritaire Commissie Calibris
+Namens Onderwijs (MBO Raad en NRTO)
+Directeur ROC Zadkine
+Manager Onderwijs NHA
+Lid sectordirectie Gezondheidszorg, Welzijn en Sport Deltion College
+Directeur Welzijn en Educatie Horizon College
+Directeur mbo College voor Mens en Maatschappij ROC van Twente
+Directeur Gezondheidszorg, Welzijn en Labaratoriumtechniek Nova College
+
+Namens werkgeversorganisaties
+Beleidsmedewerker Opleidingen Actiz
+Bestuurslid WOS
+Senior beleidsadviseur VGN
+Beleidsadviseur GGZ Nederland
+
+Namens werknemersorganisaties
+Arbeidsvoorwaardenadviseur ABVAKABO FNV
+Juridisch medewerkster NU'91
+Assistent bestuur FNV Sport
+Adviseur CNV Publieke Zaak
+
+Voorzitter paritaire commissie, Onderhandelaar en belangenbehartiger VakbondZL
+
+
+Bestuur Calibris
+Namens Onderwijs (MBO Raad en NRTO)
+Voorzitter College van Bestuur Friesland College
+Lid College van Bestuur ROC Aventus
+Directeur Onderwijsgroep Capabel
+
+Namens werkgeversorganisaties
+Manager afdeling Kwaliteit en Arbeid NVZ
+Lid Raad van Bestuur MaasDuinen
+
+Gebruikerstest 
+Namens onderwijs
+Adjunct-Directeur MBO Toerisme/Recreatie De Rooi Pannen
+Coördinator Beroepspraktijkvorming ROC Mondriaan
+Docent Alfa-College
+Docenten Landstede
+Docent MBO College Hilversum
+Docent ROC Leiden
+Docenten ROC Midden Nederland
+Opleidingscoördinator Arcus College 
+
+Namens bedrijfsleven
+Afgevaardigde ActiZ Brancheorganisatie voor zorgondernemers
+Manager Laco sport- en recreatiecentrum Glanerbrook
+Manager personeel & organisatie RCN Vakantieparken
+medewerker Camping De Watermolen
+medewerker NV Sportfondsen Nijmegen
+Recruiter Trainees Landal GreenParcs
+
+Paritaire Commissie Facilitaire dienstverlening
+Namens werkgeversorganisaties
+Afgevaardigde Facility Management Nederland
+Afgevaardigde NVZ (Vereniging van Ziekenhuizen)
+Secretaris Stichting Opleidingen Contractcatering
+
+Namens Werknemersorganisaties
+Afgevaardigden FNV Horecabond
+
+Namens Onderwijs (MBO Raad)
+Docent ROC Nijmegen
+Docent facilitaire dienstverlening en examenleider Albeda College
+Directeur ROC Landstede
+Adjunct-directeur Onderwijs Toerisme en Facilitaire Dienstverlening Zadkine
+Docent Facilitaire dienstverlening Zadkine
+Toehoorder HBO (Loofd)
+Toehoorder VMBO-platform
+
+Paritaire Commissie Toerisme, Reizen en Recreatie
+Namens werkgeversorganisaties
+Afgevaardigde RECRON
+Manager Onderwijsprojecten Reiswerk
+Manager Arbeidsmarkt, Training & Opleiding HISWA Vereniging
+Projectcoördinator Opleidingen, Kennisontwikkeling & Kwaliteit VVV Nederland
+Manager onderwijs Stichting Sociaal Fonds Recreatie, toehoorder
+Toehoorder Koninklijke Horeca Nederland
+
+Namens Werknemersorganisaties
+Afgevaardigde FNV Horecabond
+Manager onderwijs Stichting Sociaal Fonds Recreatie, toehoorder
+
+Namens Onderwijs (MBO Raad)
+Directeur De Rooi Pannen
+Beleidsmedewerker Examinering ROC Leiden
+Afdelingsdirecteur Koning Willem I College
+Manager School voor Toerisme en Recreatie ROC Mondriaan
+Opleidingsmanager Toerisme en Recreatie, ROC van Amsterdam
+Toehoorder HBO
+Toehoorder VMBO-platform
+
+Bestuur Kenwerk
+Namens werkgeversorganisaties
+Directeur-Eigenaar van Hajé Shops, Hotels & Restaurants (Koninklijke Horeca Nederland)
+Directiesecretaris Koninklijke Horeca Nederland
+DGA van Bakkerij Van der Wal B.V. (NVB/NBOV)
+Manager Sociaal Beleid van de RECRON
+
+Namens Werknemersorganisaties
+Voorzitter FNV Horecabond
+Sectorbestuurder FNV Recreatie
+Vakbondsbestuurder CNV Vakmensen
+Bestuurders FNV Bondgenoten
+
+Namens Onderwijs (MBO Raad en NRTO)
+Directeur Rijn IJssel Vakschool Wageningen (HTVF)
+Eigenaar en directeur van T.T. & P. (NRTO)
+Lid college van bestuur Albeda College  (HTVF)
+Lid raad van bestuur ROC van Amsterdam/ROC Flevoland/Stichting Voortgezet Onderwijs van Amsterdam (HVTF)
+Sectordirecteur Economie & Dienstverlening Deltion College (HTVF)]]></betrokkenen>
+        <aanvullendeinfo titel="Aanvullende informatie" hoofdstuk="12"><![CDATA[<xhtml><p><span style="font-size: 10pt;">Verklaring Omtrent Gedrag (VOG)<br />
+Een Verklaring Omtrent het Gedrag (VOG) is in verschillende gevallen nodig voor werk en/of stage. Bijvoorbeeld voor het vervullen van een functie waarin je werkt met vertrouwelijke gegevens, kwetsbare personen, geld of goederen. Uw (toekomstige) werkgever kan je dan vragen om een VOG.<br />
+Voor sommige functies is het aanvragen van een VOG wettelijk verplicht. Bijvoorbeeld voor de functies van onderwijzer of gastouder. De overheid legt in regelgeving vast voor welke beroepen een VOG nodig is.<br />
+Als er geen wettelijke verplichting is voor het overleggen van een VOG, kan een werkgever zelf bepalen of hij iemand voor de uitoefening van een bepaalde functie vraagt een VOG te tonen. Meer informatie is te vinden op <a href="http://www.justis.nl/Producten/verklaringomtrentgedrag">www.justis.nl/Producten/verklaringomtrentgedrag</a>.</span></p><p><span style="font-size: 10pt;">Subsidieregeling Hepatitis B<br />
+Subsidieregeling voor tegemoetkoming in de kosten voor vaccinatie Hepatitis B van deelnemers MBO- en HBO-onderwijs<br />
+ Deelnemers in bepaalde zorg- en welzijnsopleidingen van het MBO en HBO die stage- en werkervaring opdoen, moeten uit het oogpunt van arbeidsomstandigheden vanwege gezondheidsrisico's voldoende beschermd worden tegen Hepatitis B. Om die reden kunnen zij zich laten vaccineren. Het ministerie van Volksgezondheid, Welzijn en Sport heeft besloten om te voorzien in een tegemoetkoming van de kosten voor de vaccinatie tegen Hepatitis B. De subsidie is aan te vragen door onderwijsinstellingen en is gestart vanaf het schooljaar 2008-2009. Voor informatie zie:  <a href="http://www.minvws.nl/nieuwsberichten/16-06-2008">www.minvws.nl/nieuwsberichten/16-06-2008</a><br /></span></p></xhtml>]]></aanvullendeinfo>
+        <examenprofielen titel="Examenprofielen" hoofdstuk="13"><![CDATA[http://kwalificaties.s-bb.nl/Handlers/CohortOutputLibrary.ashx?linkcode=17]]></examenprofielen>
+      </verantwoordingsinformatie>
+    </dossier>
+  </dossiers>
+</sbb>

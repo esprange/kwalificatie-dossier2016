@@ -1,0 +1,63 @@
+/*
+Copyright (C) 2016 Eric Sprangers
+
+This program is free software; you can redistribute it and/or
+modify it under the terms of the GNU General Public License
+as published by the Free Software Foundation; either version 2
+of the License, or (at your option) any later version.
+
+This program is distributed in the hope that it will be useful,
+but WITHOUT ANY WARRANTY; without even the implied warranty of
+MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+GNU General Public License for more details.
+
+You should have received a copy of the GNU General Public License
+along with this program; if not, write to the Free Software
+Foundation, Inc., 59 Temple Place - Suite 330, Boston, MA  02111-1307, USA.
+*/
+
+.kwaldoc_thickbox {
+    background: white;
+    display:none;
+}
+.kwaldoc_table {
+    display: table;
+}
+.kwaldoc_row:nth-of-type(odd) {
+    background: #eee;
+}
+.kwaldoc_label {
+    background: #333;
+    color: white;
+    font-weight: bold;
+}
+.kwaldoc_label, .kwaldoc_data {
+    padding: 10px 10px;
+}
+.kwaldoc_head {
+    display: table-header-group;
+}
+.kwaldoc_body {
+    display: table-row-group;
+}
+.kwaldoc_foot {
+    display: table-footer-group;
+}
+.kwaldoc_foot {
+    font-size:10px;
+}
+
+@media screen and (min-width: 700px) {
+    .kwaldoc_row {
+        display: table-row;
+    }
+    .kwaldoc_data, .kwaldoc_label {
+        display: table-cell;
+    }
+}
+
+@media screen and (max-width: 700px) {
+    .kwaldoc_data, .kwaldoc_label {
+        display: table-row;
+    }
+}

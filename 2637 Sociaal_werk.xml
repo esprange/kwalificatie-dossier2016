@@ -1,0 +1,1026 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<sbb>
+  <domeinen>
+    <domein nr="4121" titel="Bouw en infra" crebo="79000" prijsfactor="1.0" OBK_ID="bk:17b41166-ab49-4a56-bcf1-32317da752ef" />
+    <domein nr="4122" titel="Afbouw, hout en onderhoud" crebo="79010" prijsfactor="1.0" OBK_ID="bk:3ed67cca-37f6-4d7b-b1eb-872f6671caf7" />
+    <domein nr="4123" titel="Techniek en procesindustrie" crebo="79020" prijsfactor="1.0" OBK_ID="bk:c6c55e80-9fae-440b-b50a-4a1f70432734" />
+    <domein nr="4124" titel="Ambacht, laboratorium en gezondheidstechniek" crebo="79030" prijsfactor="1.0" OBK_ID="bk:b658110d-0115-4059-9889-cc7cc6369cc7" />
+    <domein nr="4125" titel="Media en vormgeving" crebo="79040" prijsfactor="1.0" OBK_ID="bk:2c366888-5642-4262-922d-f84908767235" />
+    <domein nr="4126" titel="Informatie en communicatietechnologie" crebo="79050" prijsfactor="1.0" OBK_ID="bk:fd8df586-d10e-4cd2-8ef7-c0c93f0bc5cd" />
+    <domein nr="4127" titel="Mobiliteit en voertuigen" crebo="79060" prijsfactor="1.0" OBK_ID="bk:d761bbea-3e5c-4887-89e6-f1129b9c77de" />
+    <domein nr="4128" titel="Transport, scheepvaart en logistiek" crebo="79070" prijsfactor="1.0" OBK_ID="bk:9ca10565-ec88-44b7-abc2-582dfdea5abc" />
+    <domein nr="4129" titel="Handel en ondernemerschap" crebo="79080" prijsfactor="1.0" OBK_ID="bk:3912477b-4bd1-40ca-aeba-eb7a748728b8" />
+    <domein nr="4130" titel="Economie en administratie" crebo="79090" prijsfactor="1.0" OBK_ID="bk:8ce88270-8fc1-41fa-97c0-6a59b66218f7" />
+    <domein nr="4131" titel="Veiligheid en sport" crebo="79100" prijsfactor="1.0" OBK_ID="bk:8aa21fc6-4da8-4bdf-9de2-d9e5e707d003" />
+    <domein nr="4132" titel="Uiterlijke verzorging" crebo="79110" prijsfactor="1.0" OBK_ID="bk:4c5ca35d-a5b7-4408-af1f-9bbbcf96caa6" />
+    <domein nr="4133" titel="Horeca en bakkerij" crebo="79120" prijsfactor="1.0" OBK_ID="bk:bac03586-16fe-4384-98f5-8e0d6845ec72" />
+    <domein nr="4134" titel="Toerisme en recreatie" crebo="79130" prijsfactor="1.0" OBK_ID="bk:6bd98aec-fc1a-4732-b1a8-a6e526f153a9" />
+    <domein nr="4135" titel="Zorg en welzijn" crebo="79140" prijsfactor="1.0" OBK_ID="bk:750580b3-11c3-46a8-9bc2-dd5a6e7612b6" />
+    <domein nr="4136" titel="Voedsel, natuur en leefomgeving" crebo="79160" prijsfactor="1.0" OBK_ID="bk:5e86dc82-1981-48df-bbe5-abd4a9b3767b" />
+    <domein nr="4137" titel="Voedsel, natuur en leefomgeving (EZ)" crebo="79150" prijsfactor="1.0" OBK_ID="bk:5e86dc82-1981-48df-bbe5-abd4a9b3767b" />
+    <domein nr="7172" titel="Niet toebedeeld aan opleidingsdomein" crebo="" prijsfactor="1.0" OBK_ID="" />
+  </domeinen>
+  <sectorkamers>
+    <sectorkamer nr="5672" titel="Sectorkamer techniek en gebouwde omgeving" />
+    <sectorkamer nr="5673" titel="Sectorkamer mobiliteit, transport, logistiek en maritiem" />
+    <sectorkamer nr="5674" titel="Sectorkamer zorg, welzijn en sport" />
+    <sectorkamer nr="5675" titel="Sectorkamer handel" />
+    <sectorkamer nr="5676" titel="Sectorkamer ICT en creatieve industrie" />
+    <sectorkamer nr="5677" titel="Sectorkamer voedsel, groen en gastvrijheid" />
+    <sectorkamer nr="5678" titel="Sectorkamer zakelijke dienstverlening en veiligheid" />
+    <sectorkamer nr="5679" titel="Sectorkamer specialistisch vakmanschap" />
+    <sectorkamer nr="5680" titel="Bovensectoraal" />
+  </sectorkamers>
+  <competenties>
+    <competentie nr="3084" titel="Beslissen en activiteiten initiëren" code="A" />
+    <competentie nr="3085" titel="Aansturen" code="B" />
+    <competentie nr="3086" titel="Begeleiden" code="C" />
+    <competentie nr="3087" titel="Aandacht en begrip tonen" code="D" />
+    <competentie nr="3088" titel="Samenwerken en overleggen" code="E" />
+    <competentie nr="3089" titel="Ethisch en integer handelen" code="F" />
+    <competentie nr="3090" titel="Relaties bouwen en netwerken" code="G" />
+    <competentie nr="3091" titel="Overtuigen en beïnvloeden" code="H" />
+    <competentie nr="3092" titel="Presenteren" code="I" />
+    <competentie nr="3093" titel="Formuleren en rapporteren" code="J" />
+    <competentie nr="3094" titel="Vakdeskundigheid toepassen" code="K" />
+    <competentie nr="3095" titel="Materialen en middelen inzetten" code="L" />
+    <competentie nr="3096" titel="Analyseren" code="M" />
+    <competentie nr="3097" titel="Onderzoeken" code="N" />
+    <competentie nr="3098" titel="Creëren en innoveren" code="O" />
+    <competentie nr="3099" titel="Leren" code="P" />
+    <competentie nr="3100" titel="Plannen en organiseren" code="Q" />
+    <competentie nr="3101" titel="Op de behoeften en verwachtingen van de &quot;klant&quot; richten" code="R" />
+    <competentie nr="3102" titel="Kwaliteit leveren" code="S" />
+    <competentie nr="3103" titel="Instructies en procedures opvolgen" code="T" />
+    <competentie nr="3104" titel="Omgaan met verandering en aanpassen" code="U" />
+    <competentie nr="3105" titel="Met druk en tegenslag omgaan" code="V" />
+    <competentie nr="3106" titel="Gedrevenheid en ambitie tonen" code="W" />
+    <competentie nr="3107" titel="Ondernemend en commercieel handelen" code="X" />
+    <competentie nr="3108" titel="Bedrijfsmatig handelen" code="Y" />
+  </competenties>
+  <dossiers>
+    <dossier nr="2637" titel="Sociaal werk" versie="" referentievorigeversie="" status="Vastgesteld" referentiedomein="4135" wettelijkeberoepsvereisten="Nee" positief_advies_toetsingskamer="Ja">
+      <dossiercrebos>
+        <dossiercrebo ministerie="OCW" prijsfactor="1,10" Geldig_vanaf="01-08-2015" Datum_einde_instroom="" Datum_einde_opleiding="">23185</dossiercrebo>
+      </dossiercrebos>
+      <kennisenvaardigheden>
+        <kennisofvaardigheid nr="966243" titel=" de sociaal cultureel werker:" />
+        <kennisofvaardigheid nr="966244" titel=" de sociaal maatschappelijk dienstverlener:" />
+        <kennisofvaardigheid nr="966249" titel="heeft algemene kennis van boekhoudsystemen " />
+        <kennisofvaardigheid nr="966250" titel="heeft algemene kennis van budgetteren ten behoeve van de ondersteuning van cliënten en het opzetten en uitvoeren van projecten" />
+        <kennisofvaardigheid nr="966251" titel="heeft algemene kennis van de beleidscyclus om bij te kunnen dragen aan het beleid van de organisatie" />
+        <kennisofvaardigheid nr="966254" titel="heeft algemene kennis van de toepassing van mediation voor het oplossen van problemen/conflicten tussen partijen" />
+        <kennisofvaardigheid nr="966252" titel="heeft algemene kennis van EHBO en BHV" />
+        <kennisofvaardigheid nr="966253" titel="heeft algemene kennis van kwaliteitszorgsystemen " />
+        <kennisofvaardigheid nr="966255" titel="heeft algemene kennis van methoden om gegevens te verzamelen over de cliënten/cliëntgroep" />
+        <kennisofvaardigheid nr="966256" titel="heeft algemene kennis van politieke besluitvorming en wetgeving en de invloed daarvan op sociaal werk" />
+        <kennisofvaardigheid nr="966257" titel="heeft algemene kennis van PR technieken en -middelen om bekendheid te geven aan projecten en/of sociale vraagstukken" />
+        <kennisofvaardigheid nr="966258" titel="heeft algemene kennis van relevante websites voor zelfhulp in relatie tot de ondersteuning van de cliënten/cliëntgroep" />
+        <kennisofvaardigheid nr="1003939" titel="heeft algemene kennis van schuldhulpverlening " />
+        <kennisofvaardigheid nr="966260" titel="heeft brede en specialistische kennis van agogische methodieken voor sociaal werk" />
+        <kennisofvaardigheid nr="966269" titel="heeft brede en specialistische kennis van begeleidingsmethodieken voor sociaal werk" />
+        <kennisofvaardigheid nr="966259" titel="heeft brede en specialistische kennis van begrippen, modellen en theorieën van het sociaal werk " />
+        <kennisofvaardigheid nr="966270" titel="heeft brede en specialistische kennis van burgerparticipatie in relatie tot de ondersteuning van cliënten/cliëntgroepen" />
+        <kennisofvaardigheid nr="966271" titel="heeft brede en specialistische kennis van burgerschapsvorming en educatie in relatie tot de ondersteuning van cliënten/cliëntgroepen" />
+        <kennisofvaardigheid nr="966273" titel="heeft brede en specialistische kennis van diversiteit in relatie tot zijn werkzaamheden" />
+        <kennisofvaardigheid nr="966274" titel="heeft brede en specialistische kennis van doelgroepen in relatie tot zijn werkzaamheden " />
+        <kennisofvaardigheid nr="966275" titel="heeft brede en specialistische kennis van empowerment van cliënten in het sociaal werk" />
+        <kennisofvaardigheid nr="966276" titel="heeft brede en specialistische kennis van groepsprocessen in relatie tot het ondersteunen van cliëntgroepen" />
+        <kennisofvaardigheid nr="966263" titel="heeft brede en specialistische kennis van het werkveld in relatie tot zijn werkzaamheden " />
+        <kennisofvaardigheid nr="966277" titel="heeft brede en specialistische kennis van integrale wijkontwikkeling in relatie tot de aanpak van sociale vraagstukken " />
+        <kennisofvaardigheid nr="1004211" titel="heeft brede en specialistische kennis van mediation" />
+        <kennisofvaardigheid nr="966278" titel="heeft brede en specialistische kennis van observatiemethodieken in het sociaal werk" />
+        <kennisofvaardigheid nr="966265" titel="heeft brede en specialistische kennis van psychische stoornissen en gedragsproblematieken van relevante cliëntgroepen" />
+        <kennisofvaardigheid nr="966279" titel="heeft brede en specialistische kennis van psychosociale problematiek van relevante cliëntgroepen" />
+        <kennisofvaardigheid nr="966280" titel="heeft brede en specialistische kennis van relevante wet- en regelgeving waaronder: Meldcode huiselijk geweld en kindermishandeling" />
+        <kennisofvaardigheid nr="966281" titel="heeft brede en specialistische kennis van schuldhulpverlening in relatie tot de ondersteuning van cliënten" />
+        <kennisofvaardigheid nr="966283" titel="heeft brede en specialistische kennis van sociale systemen en gezinssystemen in relatie tot de ondersteuning van cliënten/cliëntgroepen" />
+        <kennisofvaardigheid nr="966261" titel="heeft brede en specialistische kennis van sociologische modellen en theorieën in relatie tot de ondersteuning van cliëntgroepen" />
+        <kennisofvaardigheid nr="966284" titel="heeft brede en specialistische kennis van sport, muziek, kunst en spel als middel voor sociale doelstellingen" />
+        <kennisofvaardigheid nr="1004361" titel="heeft juridische kennis in relatie tot zijn dienstverlenende werkzaamheden " />
+        <kennisofvaardigheid nr="966266" titel="heeft kennis van (recente) maatschappelijk-politieke ontwikkelingen in relatie tot de ondersteuning van cliëntgroepen" />
+        <kennisofvaardigheid nr="966262" titel="heeft kennis van de sociale kaart van sociaal werk in relatie tot de ondersteuning van cliënten/cliëntgroepen" />
+        <kennisofvaardigheid nr="966264" titel="heeft kennis van protocollen op het gebied van (sociale) veiligheid, ARBO, milieu, hygiëne" />
+        <kennisofvaardigheid nr="966268" titel="heeft kennis van theorieën en modellen uit de psychologie in relatie tot de ondersteuning van cliëntgroepen" />
+        <kennisofvaardigheid nr="966287" titel="kan activeringsmethodieken toepassen in de ondersteuning van verschillende cliëntgroepen " />
+        <kennisofvaardigheid nr="966288" titel="kan begeleidingsvaardigheden toepassen in de ondersteuning van verschillende cliëntgroepen" />
+        <kennisofvaardigheid nr="966291" titel="kan evaluatievaardigheden toepassen in relatie tot zijn werkzaamheden" />
+        <kennisofvaardigheid nr="966247" titel="kan feedbackvaardigheden toepassen in relatie tot zijn werkzaamheden" />
+        <kennisofvaardigheid nr="966292" titel="kan gespreksvaardigheden toepassen in relatie tot zijn werkzaamheden" />
+        <kennisofvaardigheid nr="966293" titel="kan groepsdynamische inzichten toepassen in het werken met cliëntgroepen" />
+        <kennisofvaardigheid nr="966294" titel="kan ICT vaardigheden toepassen ten behoeve van de werkuitvoering" />
+        <kennisofvaardigheid nr="966303" titel="kan methodische technieken toepassen in de ondersteuning van cliënten" />
+        <kennisofvaardigheid nr="966295" titel="kan observatietechnieken toepassen om informatie te verzamelen" />
+        <kennisofvaardigheid nr="1004210" titel="kan onderhandelen met betrokkenen" />
+        <kennisofvaardigheid nr="966304" titel="kan outreachende methodieken toepassen in het leggen van contact met en het ondersteunen van de doelgroep" />
+        <kennisofvaardigheid nr="966296" titel="kan presentatievaardigheden toepassen bij het geven van informatie aan betrokkenen" />
+        <kennisofvaardigheid nr="966299" titel="kan publiciteit geven aan projecten" />
+        <kennisofvaardigheid nr="966297" titel="kan rapportagevaardigheden toepassen in relatie tot zijn werkzaamheden" />
+        <kennisofvaardigheid nr="966298" titel="kan reflectievaardigheden toepassen in relatie tot zijn werkzaamheden" />
+        <kennisofvaardigheid nr="966289" titel="kan regulerend optreden in conflicten en bij agressie" />
+        <kennisofvaardigheid nr="966305" titel="kan samenwerken met ketenpartners om projecten en/of doelstellingen te realiseren" />
+        <kennisofvaardigheid nr="966286" titel="kan signalen herkennen van sociale problematiek waaronder huiselijk geweld, seksueel misbruik, kindermishandeling, verslaving en schulden en kan daarop actie ondernemen volgens wet- en regelgeving en het beleid/protocol van de organisatie" />
+        <kennisofvaardigheid nr="966282" titel="kan sociale en culturele communicatie toepassen in werkcontacten " />
+        <kennisofvaardigheid nr="966300" titel="kan sociale vaardigheden toepassen in werkcontacten" />
+        <kennisofvaardigheid nr="966306" titel="kan supportgerichte methodieken toepassen in de ondersteuning van cliënten/cliëntgroepen" />
+        <kennisofvaardigheid nr="966301" titel="kan vergadertechnieken toepassen ten behoeve van de werkuitoefening" />
+        <kennisofvaardigheid nr="966302" titel="kan voorlichting-, advies- en instructievaardigheden toepassen ten behoeve van projecten" />
+      </kennisenvaardigheden>
+      <categoriekennisenvaardigheden />
+      <voorblad titel="Voorblad">
+        <omschrijving>
+          <penvoerder>
+            <sectorkamer referentie="5674" />
+          </penvoerder>
+          <verantwoording>
+            <vaststellingsinformatie>
+              <vastgestelddoor>Sectorkamer zorg, welzijn en sport</vastgestelddoor>
+              <vastgesteldop>26-11-2015</vastgesteldop>
+              <vastgesteldte>Zoetermeer</vastgesteldte>
+            </vaststellingsinformatie>
+          </verantwoording>
+        </omschrijving>
+      </voorblad>
+      <inleiding titel="Inleiding">
+        <omschrijving><![CDATA[<labeltext>
+                                          &lt;h1&gt;Leeswijzer&lt;/h1&gt;
+      &lt;p&gt;Het kwalificatiedossier voor het middelbaar beroepsonderwijs geeft weer wat de beginnend beroepsbeoefenaar moet kennen en kunnen aan het einde van de mbo - opleiding.&lt;/p&gt;
+      &lt;h2&gt;Opbouw dossier&lt;/h2&gt;
+      &lt;p&gt;Dit kwalificatiedossier bevat de kwalificatie - eisen voor één of meerdere mbo -beroepen en bestaat uit:&lt;/p&gt;
+      1.	Het basisdeel (B), dat gevormd wordt door: &lt;br&gt;
+&lt;ol&gt; &lt;li type="a"&gt;De beroepsspecifieke onderdelen. Dit betreft gemeenschappelijke kerntaken en werkprocessen voor het gehele kwalificatie - dossier (met eventueel aanvullende eisen per profiel).&lt;/li&gt;
+&lt;li type="a"&gt;De generieke onderdelen. De generieke onderdelen zijn door de landelijke overheid geformuleerd. Het betreft de onderdelen:&lt;/li&gt;
+            &lt;ul&gt;&lt;li type="1"&gt;Nederlandse taal;&lt;/li&gt;
+            &lt;li type="1"&gt;rekenen;&lt;/li&gt;
+            &lt;li type="1"&gt;loopbaan en burgerschap;&lt;/li&gt;
+            &lt;li type="1"&gt;voor zover het niveau 4 betreft: Engels.&lt;/li&gt;&lt;/ul&gt;&lt;/ol&gt;&lt;br&gt;&lt;/li&gt;
+&lt;p&gt;2.	Het profieldeel (P). Profielen bestaan uit kerntaken (K ) en werkprocessen (W) waarop de kwalificaties in dit kwalificatiedossier van elkaar verschillen. &lt;/p&gt;
+&lt;p&gt;Het kwalificatiedossier bevat een verwijzing naar het keuzedeel (D). Het keuzedeel vergroot de arbeidsmarktkansen van de mbo - student of vergemakkelijkt de doorstroom naar een vervolgstudie. Het vormt als het ware een ‘plus’ op het diploma. Het keuzedeel is dan ook geen onderdeel van de kwalificatie - eis, maar wordt wel op het diploma vermeld.&lt;/p&gt;
+            &lt;h2&gt;Taal en rekenen&lt;/h2&gt;
+&lt;p&gt;De generieke eisen voor taal en rekenen zijn benoemd in het basisdeel. Als sprake is van beroepsspecifieke taal- en rekeneisen is dit aangegeven in de kolom ‘vakkennis en vaardigheden’. Daarnaast kan in de kolom ‘gedrag’ een extra verduidelijking aangegeven zijn hoe deze beroepsspecifieke taal- en rekeneisen worden ingezet in een werkproces.&lt;/p&gt;
+&lt;h2&gt;Verantwoordingsinformatie&lt;/h2&gt;
+&lt;p&gt;Aanvullende (verantwoordings-)informatie bij dit kwalificatiedossier is te vinden op www.kwalificatiesmbo.nl. Deze informatie is geen onderdeel van het kwalificatiedossier.&lt;/p&gt;
+            
+        </labeltext>]]></omschrijving>
+      </inleiding>
+      <basis titel="Basisdeel">
+        <typeringberoepengroep titel="Typering van de beroepengroep">
+          <context>
+            <omschrijving><![CDATA[De sociaal werker is werkzaam in vele, diverse contexten, waarin mensen/burgers ondersteuning nodig hebben om deel uit te maken van de maatschappij. Hij werkt daarvoor vaak in of vanuit wijkaccommodaties. Sociaal werkers zijn ook werkzaam in (overige) welzijnsorganisaties, gemeentes, woonorganisaties, de maatschappelijke opvang, de buitenschoolse opvang, in de recreatie, sport en spel, kunst, cultuur en amusement (waar onder culturele en kunstzinnige festivals), educatie en burgerschapsvorming. 
+]]></omschrijving>
+          </context>
+          <beroepshouding>
+            <omschrijving><![CDATA[Werken in de sociaal-agogische sector betekent direct werken met mensen/cliënten. Hierbij speelt de beroepskracht als persoon een essentiële rol. Zijn kwaliteiten zijn van doorslaggevend belang bij het aangaan van een professionele relatie en bij het bereiken van de gewenste resultaten. De sociaal werker heeft een positieve grondhouding, staat op voet van gelijkwaardigheid met mensen en heeft respect en positieve interesse voor ‘anders-zijn’. Hij is integer, empatisch en assertief. De sociaal werker gaat respectvol om met cliënten. Hij kan diversiteit hanteren en toont een open houding waardoor hij vraagstukken bespreekbaar maakt. De sociaal werker is gericht op betrokkenheid, krachten en talenten van individuele burgers, groepen en samenwerkingsverbanden. Hij is vasthoudend, heeft veel geduld en kan ook weer loslaten. 
+
+]]></omschrijving>
+          </beroepshouding>
+          <resultaatvanhetberoep>
+            <omschrijving><![CDATA[Door de interventies van de sociaal werker is de eigen kracht/zelfredzaamheid van burgers/cliënten vergroot en zijn de formele en informele (sociale) netwerken van de cliënt zijn versterkt. De cliënt is in staat te functioneren als lid van de samenleving. De cliënt participeert zowel op informele (bijvoorbeeld door middel van recreatie) als formele (bijvoorbeeld door middel van werk en voorzieningen) wijze in de maatschappij. ]]></omschrijving>
+          </resultaatvanhetberoep>
+        </typeringberoepengroep>
+        <basistaken titel="Beroepsspecifieke onderdelen">
+          <basiskerntaken>
+            <kerntaak nr="966319" titel="Werken aan de aanpak van sociale problematiek" hoofdstuk="1">
+              <complexiteit><![CDATA[De setting waarin de sociaal werker zijn werkzaamheden verricht is sterk afhankelijk van zijn functie. Een deel van de sociaal werkers voert zijn werkzaamheden vooral uit in de organisatie waarin hij werkzaam is. Een ander deel werkt voornamelijk in de (leef)omgeving van de doelgroep, in de wijk of buurt. Afhankelijk van de setting heeft de sociaal werker te maken met een bekende en gestructureerde context dan wel met een telkens wisselende en niet of weinig gestructureerde omgeving. Naar verwachting zal de laatste context steeds meer het werkgebied worden van de sociaal werker. De sociaal werker heeft te maken met een zeer diverse groep cliënten, bewoners of deelnemers. Daarnaast kan hij te maken hebben met een groot scala aan extern betrokkenen, uiteenlopend van hulpverleners, gemeente-ambtenaren, politie tot personen uit het informele netwerk van de cliënt of doelgroep. Dit maakt het werk complex tot zeer complex. Voor een goede werkuitoefening past de sociaal werker specialistische kennis van de doelgroepen en het sociaal werk toe alsook specifieke vaardigheden om een cliënt/doelgroep methodisch te ondersteunen bij hun hulpvraag of hulpvragen. Hij kan hierbij vooral terugvallen op standaardprocedures en combinaties daarvan. Voor nieuwe cliënt- of doelgroepen of nieuwe ondersteuningsvragen bedenkt hij nieuwe oplossingen en nieuwe werkwijzen. 
+Complicerende factoren zijn onder andere:
+- de grote variëteit aan cliënten/doelgroepen;
+- de grote variëteit aan ondersteuningsvragen;
+- de (regelmatige) wisselingen in cliënten en doelgroepen;
+- het voorkomen van (telkens) nieuwe ondersteuningsvragen;
+- de veelvuldige wisselingen in rol: van ondersteuner, facilitator, luisterend oor tot aanjager;
+- het maatschappelijk krachtenveld van (vaak tegengestelde) belangen;
+- (beperkte) randvoorwaarden en voorzieningen (tijd, geld, capaciteit, accommodatie en hulpmiddelen).  ]]><complexiteitperprofiel /></complexiteit>
+              <verantwoordelijkheid><![CDATA[De sociaal werker werkt zelfstandig aan het voorkomen of aanpakken van sociale vraagstukken. Voor nieuwe en/of complexe hulpvragen kan hij een beroep doen op zijn leidinggevende, het team en/of (in- en externe) deskundigen. Hij werkt samen met collega's en externe professionals aan een integrale aanpak van sociale problematiek. De sociaal werker is verantwoordelijk voor de kwaliteit van de taken die hij uitvoert en zijn aandeel in de samenwerking met anderen. Hij legt verantwoording over zijn werkzaamheden af aan zijn leidinggevende. ]]><verantwoordelijkheidperprofiel /></verantwoordelijkheid>
+              <vakkennisenvaardigheden>
+                <vakkennisenvaardigheden referentie="966268" />
+                <vakkennisenvaardigheden referentie="966274" />
+                <vakkennisenvaardigheden referentie="966262" />
+                <vakkennisenvaardigheden referentie="966255" />
+                <vakkennisenvaardigheden referentie="966260" />
+                <vakkennisenvaardigheden referentie="966269" />
+                <vakkennisenvaardigheden referentie="966278" />
+                <vakkennisenvaardigheden referentie="966263" />
+                <vakkennisenvaardigheden referentie="966276" />
+                <vakkennisenvaardigheden referentie="966273" />
+                <vakkennisenvaardigheden referentie="966280" />
+                <vakkennisenvaardigheden referentie="966254" />
+                <vakkennisenvaardigheden referentie="966256" />
+                <vakkennisenvaardigheden referentie="966257" />
+                <vakkennisenvaardigheden referentie="966258" />
+                <vakkennisenvaardigheden referentie="966261" />
+                <vakkennisenvaardigheden referentie="966259" />
+                <vakkennisenvaardigheden referentie="966283" />
+                <vakkennisenvaardigheden referentie="966275" />
+                <vakkennisenvaardigheden referentie="966265" />
+                <vakkennisenvaardigheden referentie="966279" />
+                <vakkennisenvaardigheden referentie="966270" />
+                <vakkennisenvaardigheden referentie="966251" />
+                <vakkennisenvaardigheden referentie="1003939" />
+                <vakkennisenvaardigheden referentie="966296" />
+                <vakkennisenvaardigheden referentie="966302" />
+                <vakkennisenvaardigheden referentie="966294" />
+                <vakkennisenvaardigheden referentie="966295" />
+                <vakkennisenvaardigheden referentie="966286" />
+                <vakkennisenvaardigheden referentie="966300" />
+                <vakkennisenvaardigheden referentie="966288" />
+                <vakkennisenvaardigheden referentie="966291" />
+                <vakkennisenvaardigheden referentie="966292" />
+                <vakkennisenvaardigheden referentie="966303" />
+                <vakkennisenvaardigheden referentie="966287" />
+                <vakkennisenvaardigheden referentie="966247" />
+                <vakkennisenvaardigheden referentie="966293" />
+                <vakkennisenvaardigheden referentie="966297" />
+                <vakkennisenvaardigheden referentie="966298" />
+                <vakkennisenvaardigheden referentie="966299" />
+                <vakkennisenvaardigheden referentie="966305" />
+                <vakkennisenvaardigheden referentie="966306" />
+                <vakkennisenvaardigheden referentie="966282" />
+                <vakkennisenvaardighedenperprofiel />
+                <vakkennisenvaardigheden_met_categorie />
+              </vakkennisenvaardigheden>
+              <basiswerkprocessen>
+                <werkproces nr="966320" titel="Inventariseert de vraag naar sociaal werk " hoofdstuk="1">
+                  <werkprocesomschrijving><![CDATA[De sociaal werker verzamelt informatie over de cliënt/doelgroep. Hij informeert zich over de achtergrond van de cliënt/doelgroep, over de sociale context en neemt kennis van specifieke behoeften, kansen, risico's en belangen.  Hij legt daartoe contact met de cliënt/doelgroep en zoekt deze op in de sociale context om latente en/of door andere gesignaleerde vragen en behoeften te achterhalen. Hij signaleert sociale en maatschappelijke vraagstukken. Waar nodig zoekt hij samenwerking en overleg met andere beroepskrachten en partnerorganisaties om een volledig beeld te krijgen van de vraag naar en behoefte aan sociaal werk door betrokkene(n). Hij analyseert verkregen informatie en stelt samen met de cliënt/doelgroep, de vraag van cliënt/doelgroep vast.  ]]><werkprocesomschrijvingperprofiel /></werkprocesomschrijving>
+                  <werkprocesresultaat><![CDATA[De vraag/behoefte aan sociaal werk is expliciet en duidelijk. De cliënt/doelgroep stemt in met de vraagstelling. Er is met de juiste partijen samen gewerkt.  
+]]><werkprocesresultaatperprofiel /></werkprocesresultaat>
+                  <werkprocesgedrag><![CDATA[De sociaal werker: 
+- is actief in het achterhalen van de vraag en de mogelijke vraag achter de vraag;
+- toont betrokkenheid bij de problemen/vragen van de cliënt/doelgroep;
+- gaat integer om met vertrouwelijke informatie;
+- communiceert open, duidelijk en doelgericht;
+- gebruikt verschillende bronnen om de juiste en voldoende informatie te verkrijgen;
+- reageert snel en effectief op non-verbale en nieuwe signalen;
+- toont interculturele sensitiviteit;
+- snijdt ook moeilijk bespreekbare onderwerpen effectief aan.]]><werkprocesgedragperprofiel /></werkprocesgedrag>
+                  <werkprocescompetenties>
+                    <competentie referentie="3087" />
+                    <competentie referentie="3089" />
+                    <competentie referentie="3097" />
+                    <competentie referentie="3101" />
+                    <werkprocescompetentiesperprofiel />
+                  </werkprocescompetenties>
+                </werkproces>
+                <werkproces nr="966321" titel="Maakt een plan van aanpak" hoofdstuk="2">
+                  <werkprocesomschrijving><![CDATA[De sociaal werker analyseert de verzamelde gegevens. Op basis van de analyse zet hij de mogelijke aanpakken op een rij. Hij weegt samen met de cliënt/doelgroep alternatieven tegen elkaar af en ondersteunt bij de keuze voor een of meerdere aanpakken. De sociaal werker formuleert samen met de cliënt/doelgroep doelstellingen en acties en werkt deze uit in een plan van aanpak. Hij stemt hierin af met de cliënt/doelgroep, collega's, andere beroepskrachten en betrokkenen. In het plan beschrijft de sociaal werker wie welke acties onderneemt, welke samenwerking met andere instanties/partners nodig is en welke resultaten nagestreefd worden.  ]]><werkprocesomschrijvingperprofiel /></werkprocesomschrijving>
+                  <werkprocesresultaat><![CDATA[Er ligt een plan van aanpak dat haalbaar is met de beschikbare middelen en voorziet in een antwoord op de vraag van de cliënt/doelgroep. 
+]]><werkprocesresultaatperprofiel /></werkprocesresultaat>
+                  <werkprocesgedrag><![CDATA[De sociaal werker: 
+- betrekt actief cliënten en collega's bij het formuleren van doelen en acties;
+- stemt functioneel af met betrokkenen;
+- analyseert de verworven informatie systematisch;
+- trekt logische conclusies;
+- werkt doelstellingen en acties uit in een tijdsplanning en overzicht wat, wanneer door wie moet gebeuren;
+- stemt zijn handelen af op het aanbod van diensten van de organisatie.
+
+]]><werkprocesgedragperprofiel /></werkprocesgedrag>
+                  <werkprocescompetenties>
+                    <competentie referentie="3088" />
+                    <competentie referentie="3096" />
+                    <competentie referentie="3100" />
+                    <werkprocescompetentiesperprofiel />
+                  </werkprocescompetenties>
+                </werkproces>
+                <werkproces nr="966322" titel="Versterkt de eigen kracht van de doelgroep" hoofdstuk="3">
+                  <werkprocesomschrijving><![CDATA[De sociaal werker brengt samen met de cliënt/doelgroep kwaliteiten, talenten en kracht in beeld en faciliteert betrokkene(n) bij het vinden van eigen oplossingen en het voeren van de regie over zijn/hun leven. Hij ondersteunt betrokkene(n) om vaardigheden (verder) te ontwikkelen, keuzes te maken, steun in te schakelen vanuit de eigen omgeving en te vertrouwen op de eigen kracht en die van hun omgeving om (persoonlijke) doelen te realiseren. De sociaal werker blijft overzicht houden en blijft focussen op gestelde (maatschappelijke) doelen. In overleg met de cliënt/doelgroep stuurt hij de aanpak eventueel bij. ]]><werkprocesomschrijvingperprofiel /></werkprocesomschrijving>
+                  <werkprocesresultaat><![CDATA[De sociaal werker heeft de eigen kracht van cliënt/doelgroep effectief gestimuleerd en ondersteund.]]><werkprocesresultaatperprofiel /></werkprocesresultaat>
+                  <werkprocesgedrag><![CDATA[De sociaal werker:
+- ondersteunt cliënt/doelgroep daadkrachtig en enthousiast; 
+- stemt zijn communicatie, gedrag en omgangsvormen af op de cliënt/doelgroep;
+- houdt rekening met verschillen in achtergrond en cultuur;
+- brengt netwerken op methodische wijze in kaart; 
+- maakt bij een taalprobleem gebruik van non-verbale communicatie en/of visuele communicatiemiddelen, passend bij de communicatiestijl van de gesprekspartner(s); 
+- stelt open, reflecterende vragen;
+- checkt of de cliënt/doelgroep hem begrepen heeft.
+]]><werkprocesgedragperprofiel /></werkprocesgedrag>
+                  <werkprocescompetenties>
+                    <competentie referentie="3086" />
+                    <competentie referentie="3087" />
+                    <werkprocescompetentiesperprofiel />
+                  </werkprocescompetenties>
+                </werkproces>
+                <werkproces nr="966323" titel="Behartigt belangen" hoofdstuk="4">
+                  <werkprocesomschrijving><![CDATA[De sociaal werker ondersteunt de cliënt/doelgroep bij belangenbehartiging. Hij informeert de betrokkene(n) over de stappen die gezet kunnen worden bij het opkomen voor de eigen belangen en stimuleert de cliënt/doelgroep om deze stappen zelf te zetten. Hij doet handreikingen en/of geeft instructies. Hij ondersteunt de cliënt/doelgroep bij het maken van afwegingen en helpt betrokkene(n) de gevolgen van keuzes te overzien.  Hij neemt, in overleg met collega's, activiteiten geheel of gedeeltelijk over wanneer de cliënt of de groep daartoe niet zelf in staat is. Hij volgt op de achtergrond of gewenste resultaten behaald worden. 
+]]><werkprocesomschrijvingperprofiel /></werkprocesomschrijving>
+                  <werkprocesresultaat><![CDATA[De sociaal werker heeft de cliënt/doelgroep effectieve ondersteuning geboden bij het behartigen van zijn/hun belangen. ]]><werkprocesresultaatperprofiel /></werkprocesresultaat>
+                  <werkprocesgedrag><![CDATA[De sociaal werker:
+- toont empathie voor de moeilijkheden van de cliënt/doelgroep; 
+- treedt doortastend op;
+- is vasthoudend in het bereiken van zijn doelen;
+- onderzoekt verschillende mogelijkheden/oplossingsstrategieën ten behoeve van de cliënt/doelgroep. 
+]]><werkprocesgedragperprofiel /></werkprocesgedrag>
+                  <werkprocescompetenties>
+                    <competentie referentie="3087" />
+                    <competentie referentie="3097" />
+                    <werkprocescompetentiesperprofiel />
+                  </werkprocescompetenties>
+                </werkproces>
+                <werkproces nr="966324" titel="Bevordert samenwerking en versterkt netwerken  " hoofdstuk="5">
+                  <werkprocesomschrijving><![CDATA[De sociaal werker informeert, stimuleert en activeert de cliënt/doelgroep om  samenwerking en verbinding te zoeken met mogelijke partners zoals andere medeburgers, mantelzorgers, sociale netwerken, vrijwilligersinitiatieven en wijkverbanden.  Hij rust de cliënt/doelgroep toe om zo zelfstandig mogelijk samenwerkingsrelaties aan te gaan en te benutten, door te informeren, te ondersteunen en te faciliteren. In voorkomende situaties verwijst hij de cliënt/doelgroep door naar andere instanties. Hij bevordert afstemming binnen en tussen formele en informele ondersteuning.]]><werkprocesomschrijvingperprofiel /></werkprocesomschrijving>
+                  <werkprocesresultaat><![CDATA[De sociaal werker heeft de cliënt/doelgroep effectief ondersteund bij het samenwerken met derden. Netwerken zijn versterkt.
+
+]]><werkprocesresultaatperprofiel /></werkprocesresultaat>
+                  <werkprocesgedrag><![CDATA[De sociaal werker: 
+- is proactief in het benutten van kansen;
+- kiest een juiste balans tussen zelf doen, coördineren en uit handen geven;
+- toont belangstelling voor de opvattingen en standpunten van de individuen/groep(en);
+- streeft overeenstemming na door doelgericht toe te werken naar win-win situaties;
+- staat open voor andere benaderingen;
+- brengt informatie helder en begrijpelijk over.]]><werkprocesgedragperprofiel /></werkprocesgedrag>
+                  <werkprocescompetenties>
+                    <competentie referentie="3086" />
+                    <competentie referentie="3087" />
+                    <competentie referentie="3091" />
+                    <competentie referentie="3092" />
+                    <werkprocescompetentiesperprofiel />
+                  </werkprocescompetenties>
+                </werkproces>
+                <werkproces nr="966325" titel="Voert beleidsondersteunende taken uit" hoofdstuk="6">
+                  <werkprocesomschrijving><![CDATA[De sociaal werker volgt ontwikkelingen binnen en buiten de organisatie. Hij signaleert knelpunten in bestaand beleid en rapporteert hierover. Hij draagt gegevens en ideeën aan voor beleid, beleidswijzigingen en/of nieuwe activiteiten. Hij verwoordt in voorkomende gevallen het beleid van de organisatie richting extern betrokkenen zoals samenwerkingspartners, vrijwilligers en beleidsmakers. ]]><werkprocesomschrijvingperprofiel /></werkprocesomschrijving>
+                  <werkprocesresultaat><![CDATA[De sociaal werker heeft een bijdrage geleverd aan het beleid van de organisatie. ]]><werkprocesresultaatperprofiel /></werkprocesresultaat>
+                  <werkprocesgedrag><![CDATA[De sociaal werker:
+- onderbouwt zijn voorstellen met steekhoudende argumenten;
+- maakt een juiste inschatting van de waarde van informatie voor (het beleid van) de organisatie; 
+- vat relevante informatie beknopt samen;
+- formuleert passende en haalbare voorstellen voor verbetering/vernieuwing van het beleid;
+- presenteert het beleid naar (extern) betrokkenen op overtuigende en professionele wijze.]]><werkprocesgedragperprofiel /></werkprocesgedrag>
+                  <werkprocescompetenties>
+                    <competentie referentie="3091" />
+                    <competentie referentie="3092" />
+                    <competentie referentie="3096" />
+                    <competentie referentie="3100" />
+                    <competentie referentie="3107" />
+                    <werkprocescompetentiesperprofiel />
+                  </werkprocescompetenties>
+                </werkproces>
+                <werkproces nr="966326" titel="Verricht administratieve werkzaamheden " hoofdstuk="7">
+                  <werkprocesomschrijving><![CDATA[De sociaal werker verzorgt administratieve werkzaamheden behorend bij het eigen werk en verzorgt correspondentie. Hij zorgt voor verslaglegging en verantwoording van projecten en activiteiten aan de opdrachtgever en/of overige betrokkenen. Hij registreert schriftelijk en/of digitaal relevante gegevens in het binnen de organisatie gehanteerde (digitale) systeem om data(bestanden) actueel te houden. Hij zorgt dat gegevens ook voor overige bevoegden toegankelijk en begrijpelijk zijn. ]]><werkprocesomschrijvingperprofiel /></werkprocesomschrijving>
+                  <werkprocesresultaat><![CDATA[De sociaal werker heeft gegevens volledig en betrouwbaar, volgens geldende richtlijnen en/of wet- en regelgeving, vastgelegd, beheerd en/of gearchiveerd.  ]]><werkprocesresultaatperprofiel /></werkprocesresultaat>
+                  <werkprocesgedrag><![CDATA[De sociaal werker: 
+- maakt een juiste inschatting van de relevantie van gegevens;
+- voert administratieve handelingen zorgvuldig en accuraat uit;
+- gaat integer om met vertrouwelijke gegevens;
+- verzorgt correspondentie correct;
+- houdt zich nauwgezet aan de voorgeschreven (werk)procedures;
+- stelt op verzoek tijdig en snel informatie ter beschikking aan (bevoegde) derden;
+- archiveert accuraat en volgens geldende protocollen. 
+]]><werkprocesgedragperprofiel /></werkprocesgedrag>
+                  <werkprocescompetenties>
+                    <competentie referentie="3093" />
+                    <competentie referentie="3101" />
+                    <competentie referentie="3103" />
+                    <competentie referentie="3089" />
+                    <werkprocescompetentiesperprofiel />
+                  </werkprocescompetenties>
+                </werkproces>
+                <werkproces nr="966327" titel="Evalueert de dienstverlening" hoofdstuk="8">
+                  <werkprocesomschrijving><![CDATA[De sociaal werker evalueert de werkzaamheden periodiek en aan het eind van het proces. Hij verzamelt relevante gegevens voor de evaluatie en analyseert deze. Hij bespreekt de gegevens uit de evaluatie met zowel de cliënt/doelgroep als het (multidisciplinair) team en toetst de verkregen gegevens op betrouwbaarheid, volledigheid en relevantie. Op basis daarvan trekt hij conclusies over voortgang en/of resultaat van de werkzaamheden en de dienstverlening en schrijft hij een (eind)evaluatieverslag en/of evalueert hij - indien dit gewenst is - mondeling met team, leidinggevende en/of cliënt/doelgroep. Daarbij doet hij voorstellen tot aanpassingen/verbeteringen. Het eventuele evaluatieverslag schrijft en verwerkt hij overeenkomstig de richtlijnen in de organisatie.]]><werkprocesomschrijvingperprofiel /></werkprocesomschrijving>
+                  <werkprocesresultaat><![CDATA[De beginnend beroepsbeoefenaar heeft relevante evaluatiegegevens verzameld en heeft gereflecteerd op zijn werkwijze. De evaluatie levert input voor verbetering van de werkzaamheden/dienstverlening/activiteiten.
+]]><werkprocesresultaatperprofiel /></werkprocesresultaat>
+                  <werkprocesgedrag><![CDATA[De sociaal werker: 
+- kiest passende methode(n) om evaluatiegegevens te verzamelen;
+- vraagt actief en doelgericht naar de mening van de cliënten en collega's;
+- schetst een reëel beeld van zijn eigen werkwijze;
+- trekt uit gegevens de belangrijkste conclusies;
+- beoordeelt gegevens en 'conclusies’ adequaat op relevantie en prioriteit;
+- formuleert realistische voorstellen tot verbeteringen/veranderingen;
+- schrijft een gestructureerd evaluatieverslag waarin de schrijfstijl is afgestemd op het publiek;
+- verwerkt het evaluatieverslag volgens geldende richtlijnen.]]><werkprocesgedragperprofiel /></werkprocesgedrag>
+                  <werkprocescompetenties>
+                    <competentie referentie="3093" />
+                    <competentie referentie="3096" />
+                    <competentie referentie="3097" />
+                    <werkprocescompetentiesperprofiel />
+                  </werkprocescompetenties>
+                </werkproces>
+              </basiswerkprocessen>
+            </kerntaak>
+            <kerntaak nr="966328" titel="Werken aan kwaliteit en deskundigheid" hoofdstuk="2">
+              <complexiteit><![CDATA[Bij het uitvoeren van organisatiegebonden taken past de sociaal werker standaardwerkwijzen toe en werkt hij aan de hand van standaardprocessen en -procedures. Hiervoor zet hij specialistische kennis op het gebied van werken volgens richtlijnen in. 
+
+De sociaal werker combineert en verbindt voor de uitvoerende taken de eigen specialistische kennis met contextgebonden kennis en kennis van directe collega’s en/of van collega’s uit andere disciplines. Hij beschikt hierdoor over de actuele kennis van ontwikkelingen in het werkveld en is in staat om deze toe te passen in zijn werkzaamheden. Via analyse, logisch denken en nauwkeurig gegevens verzamelen is hij in staat de kwaliteit, dienstverlening, servicegerichtheid, zijn eigen deskundigheid en samenwerking aan te passen en te optimaliseren.]]><complexiteitperprofiel /></complexiteit>
+              <verantwoordelijkheid><![CDATA[De sociaal werker is verantwoordelijk voor de eigen deskundigheidsbevordering en het bijdragen aan die van collega's bijvoorbeeld in intervisie of andere overlegmomenten. Hij is mede verantwoordelijk voor het bevorderen en bewaken van kwaliteitszorg. Hij voert zijn taken op het gebied van kwaliteit en deskundigheid zelfstandig uit dan wel in samenwerking met collega's. Hij is verantwoordelijk voor de kwaliteit van zijn werkzaamheden en voor zijn aandeel in de samenwerking. Hij legt verantwoording over zijn werkzaamheden af aan zijn leidinggevende.]]><verantwoordelijkheidperprofiel /></verantwoordelijkheid>
+              <vakkennisenvaardigheden>
+                <vakkennisenvaardigheden referentie="966253" />
+                <vakkennisenvaardigheden referentie="966264" />
+                <vakkennisenvaardigheden referentie="966252" />
+                <vakkennisenvaardigheden referentie="966301" />
+                <vakkennisenvaardigheden referentie="966297" />
+                <vakkennisenvaardigheden referentie="966298" />
+                <vakkennisenvaardighedenperprofiel />
+                <vakkennisenvaardigheden_met_categorie />
+              </vakkennisenvaardigheden>
+              <basiswerkprocessen>
+                <werkproces nr="966329" titel="Werkt aan de eigen deskundigheid " hoofdstuk="1">
+                  <werkprocesomschrijving><![CDATA[De sociaal werker werkt aan zijn eigen deskundigheid. Hij zorgt ervoor dat hij op de hoogte blijft van maatschappelijke, technologische en vakinhoudelijke ontwikkelingen. Hij leest daarvoor vakliteratuur en volgt bijscholingen. Hij reflecteert op zijn eigen functioneren, vraagt om feedback over zijn eigen functioneren en geeft feedback aan anderen. Hij stelt samen met zijn leidinggevende een persoonlijk ontwikkelplan op en onderneemt stappen om vakkennis, vaardigheden en beroepshouding te  verbeteren. Hij zorgt ervoor dat hij op de hoogte is van actuele wet- en regelgeving m.b.t. de beroepsuitoefening en van de actuele visie op sociaal werk. Hij neemt deel aan inhoudelijke discussies met collega's en anderen over beroepstaken en werkzaamheden. Zo ontwikkelt hij zichzelf en levert hij een bijdrage aan de ontwikkeling van de beroepsuitoefening. Tevens draagt hij de beroeps- en organisatievisie uit naar anderen.]]><werkprocesomschrijvingperprofiel /></werkprocesomschrijving>
+                  <werkprocesresultaat><![CDATA[De sociaal werker heeft zijn persoonlijk ontwikkelplan uitgevoerd waardoor hij zijn deskundigheid verder ontwikkeld heeft. Hij is op de hoogte van actuele wet- en regelgeving en de actuele visie op sociaal werk. Hij heeft zijn deskundigheid gedeeld met collega's.]]><werkprocesresultaatperprofiel /></werkprocesresultaat>
+                  <werkprocesgedrag><![CDATA[De sociaal werker:
+- haalt betekenis uit teksten met hoge informatiedichtheid: zowel mondeling als schriftelijk;
+- deelt doelgericht en actief kennis en expertise met collega's en andere deskundigen;
+- draagt eigen kennis en expertise begrijpelijk over; 
+- gebruikt passend taal- en woordgebruik voor de gesprekspartner;
+- gebruikt feedback om zich verder te ontwikkelen.
+]]><werkprocesgedragperprofiel /></werkprocesgedrag>
+                  <werkprocescompetenties>
+                    <competentie referentie="3094" />
+                    <competentie referentie="3099" />
+                    <competentie referentie="3093" />
+                    <werkprocescompetentiesperprofiel />
+                  </werkprocescompetenties>
+                </werkproces>
+                <werkproces nr="966330" titel="Werkt aan het bewaken en bevorderen van kwaliteitszorg" hoofdstuk="2">
+                  <werkprocesomschrijving><![CDATA[De sociaal werker werkt mee aan het verbeteren van de kwaliteit van de beroepstaken en werkzaamheden. Dat doet hij door bijvoorbeeld te participeren in ontwikkel- of intervisiegroepen en door zijn kennis van het vakgebied in te zetten bij verbetertrajecten. Hij let op de kwaliteit van zijn werkzaamheden. Hij signaleert en meldt knelpunten. Hij draagt er aan bij dat anderen zich houden aan de voorgeschreven protocollen rondom kwaliteitsverbetering.]]><werkprocesomschrijvingperprofiel /></werkprocesomschrijving>
+                  <werkprocesresultaat><![CDATA[De sociaal werker heeft vanuit zijn eigen deskundigheid een bijdrage geleverd aan het bevorderen en bewaken van de kwaliteitszorg.]]><werkprocesresultaatperprofiel /></werkprocesresultaat>
+                  <werkprocesgedrag><![CDATA[De sociaal werker:
+- is zorgvuldig in het volgen van voorgeschreven protocollen, procedures en wettelijke richtlijnen;
+- zet functioneel de eigen expertise in voor het verbeteren van de kwaliteit van de werkzaamheden;
+- geeft actief gesignaleerde tekortkomingen in werkwijze door aan de juiste persoon;
+- motiveert anderen om zich te houden aan de voorgeschreven protocollen rondom kwaliteitszorg; 
+- brengt verbetervoorstellen met overtuigingskracht.
+]]><werkprocesgedragperprofiel /></werkprocesgedrag>
+                  <werkprocescompetenties>
+                    <competentie referentie="3103" />
+                    <competentie referentie="3091" />
+                    <competentie referentie="3102" />
+                    <werkprocescompetentiesperprofiel />
+                  </werkprocescompetenties>
+                </werkproces>
+              </basiswerkprocessen>
+            </kerntaak>
+          </basiskerntaken>
+          <generieke_onderdelen titel="Generieke onderdelen">
+            <omschrijving><![CDATA[<labeltext>
+                            &lt;h1&gt;Generieke onderdelen&lt;/h1&gt;
+&lt;p&gt;Elke kwalificatie kent - naast (beroepsgerichte) specifieke kwalificatieonderdelen - ook generieke kwalificatieonderdelen.&lt;/p&gt;
+&lt;h2&gt;Nederlandse taal&lt;/h2&gt;
+&lt;p&gt;Van elke kwalificatie in dit kwalificatiedossier maakt het generieke kwalificatieonderdeel Nederlandse taal deel uit. De referentieniveaus en de kwalificatie - eisen voor dit generieke onderdeel zijn opgenomen in bijlage 1 bij het Besluit referentieniveaus Nederlandse taal en rekenen. Deze bijlage is te vinden op www.kwalificatiesmbo.nl en vormt een integraal onderdeel van het kwalificatiedossier.&lt;/p&gt;
+Het betreft de volgende referentieniveaus:
+&lt;br&gt;voor entreekwalificaties en voor kwalificaties op niveau 2 en 3: 2F;
+&lt;br&gt;voor kwalificaties op niveau 4: 3F.
+&lt;h2&gt;Rekenen&lt;/h2&gt;
+&lt;p&gt;Van elke kwalificatie in dit kwalificatiedossier maakt het generieke kwalificatieonderdeel rekenen deel uit. De referentieniveaus en de kwalificatie - eisen voor dit generieke onderdeel zijn opgenomen in bijlage 2 bij het Besluit referentieniveaus Nederlandse taal en rekenen. Deze bijlage is te vinden op www.kwalificatiesmbo.nl en vormt een integraal onderdeel van het kwalificatiedossier.&lt;/p&gt;
+Het betreft de volgende referentieniveaus:
+&lt;br&gt;voor entreekwalificaties en voor kwalificaties op niveau 2 en 3: 2F;
+&lt;br&gt;voor kwalificaties op niveau 4: 3F.
+&lt;h2&gt;Loopbaan en burgerschap&lt;/h2&gt;
+&lt;p&gt;Van elke kwalificatie in dit kwalificatiedossier maakt het generieke kwalificatieonderdeel loopbaan en burgerschap deel uit. De kwalificatie - eisen voor dit generieke onderdeel zijn opgenomen in bijlage 1 bij het Examen- en kwalificatiebesluit beroepsopleidingen WEB. Deze bijlage is te vinden op www.kwalificatiesmbo.nl en vormt een integraal onderdeel van het kwalificatiedossier.&lt;/p&gt;
+&lt;h2&gt;Engels (alleen voor niveau 4)&lt;/h2&gt;
+&lt;p&gt;Van elke kwalificatie op mbo niveau 4 in dit kwalificatiedossier maakt het generieke kwalificatieonderdeel Engels deel uit. Op grond van artikel 17a van het Examen- en kwalificatiebesluit beroepsopleidingen WEB zijn de referentieniveaus en de kwalificatie - eisen voor dit generieke onderdeel opgenomen in bijlage 2 bij dit besluit. Deze bijlage is te vinden op www.kwalificatiesmbo.nl en vormt een integraal onderdeel van het kwalificatiedossier. &lt;/p&gt;
+Het betreft de volgende referentieniveaus:
+&lt;br&gt;lezen en luisteren: B1;
+&lt;br&gt;schrijven, spreken en gesprekken voeren: A2.
+    
+        </labeltext>]]></omschrijving>
+          </generieke_onderdelen>
+        </basistaken>
+      </basis>
+      <profielen titel="Profieldeel">
+        <profiel nr="966307" titel="Sociaal-maatschappelijk dienstverlener" hoofdstuk="1" niveau="4" beroepsgroep="Welzijn">
+          <omschrijving>
+            <typeringvanhetberoep><![CDATA[De sociaal-maatschappelijk dienstverlener is erop gericht om de zelfstandigheid, de zelfredzaamheid en de maatschappelijke participatie van de cliënt te vergroten door te informeren en adviseren over regelingen/procedures of voorzieningen en ondersteuning te bieden.
+De sociaal-maatschappelijk dienstverlener kan werkzaam zijn in een veelheid aan organisaties zoals gemeenten, centra voor werk en inkomen, arbeidsbemiddeling, organisaties voor algemeen maatschappelijk werk, vluchtelingenwerk, justitiële inrichtingen, organisaties voor maatschappelijke opvang, slachtofferhulp, verslaafdenzorg, bureau sociaal raadslieden, woonorganisaties, verpleeg- en verzorgingshuizen, gehandicaptenzorg, thuiszorg en ziekenhuizen.
+]]></typeringvanhetberoep>
+            <wettelijkeberoepsvereisten>Nee</wettelijkeberoepsvereisten>
+            <toelichtingwettelijkeberoepsvereisten><![CDATA[]]></toelichtingwettelijkeberoepsvereisten>
+            <bronwettelijkeberoepsvereisten></bronwettelijkeberoepsvereisten>
+            <certificaten />
+            <sbu>4800</sbu>
+            <soortopleiding>middenkaderopleiding</soortopleiding>
+            <instellingendieaanmogenbieden />
+          </omschrijving>
+          <creboinformatie>
+            <crebo ministerie="OCW" prijsfactor="1,10" Geldig_vanaf="01-08-2015" Datum_einde_instroom="" Datum_einde_opleiding="">25489</crebo>
+          </creboinformatie>
+          <profielkerntaken>
+            <kerntaak nr="966308" titel="Ondersteunen van (individuele) cliënten bij sociaal maatschappelijke vragen/problemen" hoofdstuk="1">
+              <complexiteit><![CDATA[De sociaal-maatschappelijk dienstverlener ondersteunt individuele cliënten en groepen bij problemen en vragen van sociaal maatschappelijke aard. Dit doet hij in het algemeen vanuit organisaties met een maatschappelijke opdracht. De specifieke setting waarin hij zijn werkzaamheden uitvoert is wisselend, in bepaalde situaties is dit beperkt tot de organisatie waarvoor hij werkt. Het kan ook zijn dat hij de cliënt opzoekt in zijn eigen leefomgeving en daarmee is ook de mate van gestructureerdheid van zijn werksetting wisselend van sterk gestructureerd tot weinig gestructureerd. De groep cliënten waarmee hij werkt is zeer divers, bijvoorbeeld als het gaat om achtergrond, cultuur, sekse en leeftijd, alsook wat betreft sociaal-psychologische problematiek. Dit maakt het werk complex. De sociaal-maatschappelijk dienstverlener moet voortdurend schakelen tussen ondersteuningsmethodieken, bijvoorbeeld zowel informeren en voorlichten als een luisterend oor bieden alsook activeren en enige drang uitoefenen. Hiervoor is specialistische kennis nodig van de doelgroep, van psychologie en psychische ziektebeelden, van ondersteuningsmethodieken alsook inhoudelijke kennis en kennis van wet- en regelgeving inzake die ondersteuningsvraag van de cliënt, bijvoorbeeld een juridisch conflict. Voor een passende ondersteuning past hij sociale vaardigheden, gesprekstechnieken en begeleidingsmethodieken toe. Voor de ondersteuning maakt de sociaal-maatschappelijk dienstverlener vooral gebruik van een combinatie van standaardprocedures. De sociaal-maatschappelijk dienstverlener heeft ook te maken met collega's met wie hij overlegt en werkzaamheden afstemt en met externe deskundigen met wie hij overlegt, informatie uitwisselt en in voorkomende situaties ook werkzaamheden afstemt.
+ ]]></complexiteit>
+              <verantwoordelijkheid><![CDATA[De sociaal-maatschappelijk dienstverlener voert zijn werkzaamheden ten behoeve van de ondersteuning van de cliënt(en) zelfstandig uit en stemt daarbij af met collega's of andere hulpverleners. Hij is verantwoordelijk voor zijn eigen werkzaamheden en zijn aandeel in de samenwerking. Hij legt over zijn werkzaamheden verantwoording af aan zijn leidinggevende. ]]></verantwoordelijkheid>
+              <vakkennisenvaardigheden>
+                <vakkennisenvaardigheden referentie="966250" />
+                <vakkennisenvaardigheden referentie="966281" />
+                <vakkennisenvaardigheden referentie="966279" />
+                <vakkennisenvaardigheden referentie="966280" />
+                <vakkennisenvaardigheden referentie="966283" />
+                <vakkennisenvaardigheden referentie="966262" />
+                <vakkennisenvaardigheden referentie="1004211" />
+                <vakkennisenvaardigheden referentie="1004361" />
+                <vakkennisenvaardigheden referentie="966292" />
+                <vakkennisenvaardigheden referentie="966294" />
+                <vakkennisenvaardigheden referentie="966297" />
+                <vakkennisenvaardigheden referentie="966289" />
+                <vakkennisenvaardigheden referentie="966286" />
+                <vakkennisenvaardigheden referentie="1004210" />
+                <vakkennisenvaardigheden_met_categorie />
+              </vakkennisenvaardigheden>
+              <profielwerkprocessen>
+                <werkproces nr="966309" titel="Ondersteunt de cliënt bij praktische diensten" hoofdstuk="1">
+                  <werkprocesomschrijving><![CDATA[De sociaal-maatschappelijk dienstverlener geeft de cliënt praktische aanwijzingen hoe deze in concrete situaties kan handelen en op welke wijze hij daarbij gebruik kan maken van voorzieningen, procedures, hulpverlening en instanties. Hij reageert op agressie en treedt regelend op bij ongewenst gedrag. Hij helpt de cliënt bij het schrijven van brieven, het aanvragen en invullen van formulieren, het raadplegen van informatiebronnen en bellen naar instanties. Hij maakt de stappen die hij neemt en de te volgen procedures inzichtelijk en rust de cliënt toe met vaardigheden om praktische zaken te regelen.]]></werkprocesomschrijving>
+                  <werkprocesresultaat><![CDATA[De sociaal-maatschappelijk dienstverlener heeft de cliënt ondersteund bij praktische diensten en bij het wegwijs worden in de voorzieningen op gebied van wonen, werken en vrije tijd en hem toegerust met vaardigheden om praktische zaken zelf te regelen.]]></werkprocesresultaat>
+                  <werkprocesgedrag><![CDATA[De sociaal-maatschappelijk dienstverlener: 
+- stimuleert doelgericht de zelfredzaamheid van de cliënt; 
+- geeft de cliënt passende adviezen en instructies hoe deze praktische zaken zelf kan aanpakken;  
+- stemt de ondersteuning adequaat af op behoeften, verwachtingen en mogelijkheden van de cliënt.
+
+  ]]></werkprocesgedrag>
+                  <werkprocescompetenties>
+                    <competentie referentie="3086" />
+                    <competentie referentie="3101" />
+                  </werkprocescompetenties>
+                </werkproces>
+                <werkproces nr="966310" titel="Ondersteunt de cliënt  bij juridische en financiële vragen " hoofdstuk="2">
+                  <werkprocesomschrijving><![CDATA[De sociaal-maatschappelijk dienstverlener behandelt vragen van de cliënt over gebruik van en toegang tot sociale wet- en regelgeving, die een eenvoudig juridisch karakter kennen. Hij informeert en adviseert de cliënt over zijn juridische rechten en plichten en vertaalt juridische procedures en regelingen naar de cliënt. Hij stelt juridische documenten zoals bezwaarschriften en beroepsgeschriften op en verwijst waar nodig door naar juridische deskundigen. In opdracht van een hulpverlener of instantie met meer bevoegdheden ondersteunt de sociaal-maatschappelijk dienstverlener de cliënt bij financiële problemen en budgetbeheersing. Hij adviseert de cliënt over het uitgavenpatroon en reikt middelen aan ter ondersteuning. Hij maakt inkomsten en uitgaven inzichtelijk en helpt de cliënt zich bewust te worden van zijn uitgavengedrag. Hij herkent risicofactoren en signalen van armoede en overige sociale problematiek zoals verslaving, huiselijk geweld en seksueel misbruik. Hij stimuleert de cliënt tot gedragsverandering en faciliteert daarbij.]]></werkprocesomschrijving>
+                  <werkprocesresultaat><![CDATA[De cliënt is effectief ondersteund en is indien van toepassing ook gestimuleerd tot en ondersteund bij gedragsverandering. ]]></werkprocesresultaat>
+                  <werkprocesgedrag><![CDATA[De sociaal-maatschappelijk dienstverlener:
+- past de juiste technieken toe om de cliënt te stimuleren om gegevens te verschaffen; 
+- geeft de cliënt duidelijke, eerlijke en constructieve feedback;  
+- motiveert de cliënt om zijn best te doen, doelen te bereiken en gedrag te veranderen;
+- brengt structuur aan in de veelheid aan gegevens;
+- toont juridisch en rekenkundig inzicht door procedures en regelingen in specifieke situaties toe te passen; 
+- rekent vlot en accuraat;   
+- stelt een passend advies op met passende handreikingen; 
+- geeft voor- en nadelen van de te volgen aanpak of richting duidelijk aan; 
+- vermijdt onnodig gebruik van juridisch vakjargon in de communicatie met cliënten; 
+- zorgt voor nauwkeurige en volledige juridische documenten.
+]]></werkprocesgedrag>
+                  <werkprocescompetenties>
+                    <competentie referentie="3086" />
+                    <competentie referentie="3093" />
+                    <competentie referentie="3094" />
+                    <competentie referentie="3096" />
+                  </werkprocescompetenties>
+                </werkproces>
+                <werkproces nr="966311" titel="Verricht informatie-, advies- en voorlichtingswerkzaamheden ten behoeve van de cliënt(en)" hoofdstuk="3">
+                  <werkprocesomschrijving><![CDATA[De sociaal-maatschappelijk dienstverlener geeft informatie, advies en/of voorlichting aan cliënt(en) over bepaalde problematiek en de mogelijkheden om deze zelf en/of met hulp van anderen (of met professionele hulp) aan te pakken. Hij organiseert voorlichtingsbijeenkomsten waarin hij gerichte informatie geeft over regelingen, procedures en voorzieningen en hij verspreidt gericht (zelf gemaakt) informatiemateriaal. Hij brengt de informatie begrijpelijk en toegankelijk over en laat de informatieoverdracht aansluiten bij de mogelijkheden van de cliënt(groep)en. ]]></werkprocesomschrijving>
+                  <werkprocesresultaat><![CDATA[De cliënt(groep) is op een doelgerichte en duidelijke wijze voorgelicht en geïnformeerd. De sociaal-maatschappelijk dienstverlener heeft hiertoe voorlichtingsbijeenkomsten georganiseerd en informatiemateriaal verspreid, afgestemd op de achtergrond en omstandigheden van de cliënt(groep)en. ]]></werkprocesresultaat>
+                  <werkprocesgedrag><![CDATA[De sociaal-maatschappelijk dienstverlener:
+- geeft passende informatie, advies en voorlichting aan cliënt(en);
+- stemt informatie en manier van informatieoverdracht af op de specifieke cliënt(groep)(cultuur, sekse, geloof, inkomen); 
+- geeft toegesneden advies;  
+- stimuleert de cliënt(en) zich te ontwikkelen en de grenzen van zijn mogelijkheden te verkennen;
+- speelt adequaat in op verbale en non-verbale signalen;
+- checkt regelmatig of de aansluiting met het publiek er nog is; 
+- maakt passende keuzes om (specifieke)doelgroepen te bereiken;  
+- benadert vragen/problemen vanuit verschillende gezichtspunten.
+]]></werkprocesgedrag>
+                  <werkprocescompetenties>
+                    <competentie referentie="3086" />
+                    <competentie referentie="3092" />
+                    <competentie referentie="3100" />
+                  </werkprocescompetenties>
+                </werkproces>
+              </profielwerkprocessen>
+            </kerntaak>
+          </profielkerntaken>
+        </profiel>
+        <profiel nr="966313" titel="Sociaal-cultureel werker" hoofdstuk="2" niveau="4" beroepsgroep="Welzijn">
+          <omschrijving>
+            <typeringvanhetberoep><![CDATA[De sociaal cultureel werker is er op gericht om sociale vraagstukken samen met burgers op te lossen. Veelal werkt hij in of vanuit wijkaccommodaties, gebiedsgericht (wijk, buurt of dorp) of stedelijk ten behoeve van een specifieke bevolkingsgroep. In deze setting heeft zijn werk steeds vaker een niet locatiegebonden, outreachend karakter. Hij kan ook werkzaam zijn in functies op sociaal-cultureel gebied binnen de maatschappelijke opvang, in de buitenschoolse opvang en de gehandicaptenzorg. Sociaal-cultureel werkers kunnen ook werkzaam zijn in organisaties voor kunst, cultuur en amusement en educatie. 
+]]></typeringvanhetberoep>
+            <wettelijkeberoepsvereisten>Nee</wettelijkeberoepsvereisten>
+            <toelichtingwettelijkeberoepsvereisten><![CDATA[]]></toelichtingwettelijkeberoepsvereisten>
+            <bronwettelijkeberoepsvereisten></bronwettelijkeberoepsvereisten>
+            <certificaten />
+            <sbu>4800</sbu>
+            <soortopleiding>middenkaderopleiding</soortopleiding>
+            <instellingendieaanmogenbieden />
+          </omschrijving>
+          <creboinformatie>
+            <crebo ministerie="OCW" prijsfactor="1,10" Geldig_vanaf="01-08-2015" Datum_einde_instroom="" Datum_einde_opleiding="">25488</crebo>
+          </creboinformatie>
+          <profielkerntaken>
+            <kerntaak nr="966314" titel="Ondersteunen van doelgroepen bij maatschappelijke participatie " hoofdstuk="1">
+              <complexiteit><![CDATA[De sociaal cultureel werker vervult bij het ondersteunen van de doelgroep(en) bij sociaal maatschappelijke vragen en problemen verschillende rollen en een diversiteit aan werkzaamheden. Hij begeleidt doelgroep(en) bij het doen van activiteiten, hij stuurt vrijwilligers aan en coördineert de uitvoering van activiteiten en projecten. Hierbij speelt hij in op wisselende omstandigheden, dat wil zeggen verschillende medewerkers, cliënten, omgevingen. De sociaal-cultureel werker heeft specialistische kennis en vaardigheden met betrekking tot vraaggericht/behoeftegericht werken, het aanbieden van activiteiten en het samenwerken met een diverse cliëntgroep en collega's. ]]></complexiteit>
+              <verantwoordelijkheid><![CDATA[De sociaal-cultureel werker voert zijn werkzaamheden zelfstandig uit en stemt daarbij af met collega's of externe deskundigen. Hij is verantwoordelijk voor zijn eigen werkzaamheden en zijn aandeel in de samenwerking. Hij legt over zijn werkzaamheden verantwoording af aan zijn leidinggevende. ]]></verantwoordelijkheid>
+              <vakkennisenvaardigheden>
+                <vakkennisenvaardigheden referentie="966271" />
+                <vakkennisenvaardigheden referentie="966284" />
+                <vakkennisenvaardigheden referentie="966270" />
+                <vakkennisenvaardigheden referentie="966277" />
+                <vakkennisenvaardigheden referentie="966266" />
+                <vakkennisenvaardigheden referentie="966262" />
+                <vakkennisenvaardigheden referentie="966287" />
+                <vakkennisenvaardigheden referentie="966293" />
+                <vakkennisenvaardigheden referentie="966304" />
+                <vakkennisenvaardigheden referentie="966305" />
+                <vakkennisenvaardigheden_met_categorie />
+              </vakkennisenvaardigheden>
+              <profielwerkprocessen>
+                <werkproces nr="966315" titel="Bereidt projecten en activiteiten voor" hoofdstuk="1">
+                  <werkprocesomschrijving><![CDATA[De sociaal-cultureel werker bereidt projecten en activiteiten voor op het gebied van kunst, cultuur en amusement én op het gebied van sport, spel en recreatie én op het gebied van educatie en burgerschap. Hiertoe neemt hij kennis van het plan van aanpak en van de daarin gemaakte keuzes. Hij specificeert het plan van aanpak tot concrete activiteiten. Hij gaat na welke groepen van welke diensten gebruik kunnen maken. Hij stelt de beginsituatie van de doelgroep vast en maakt afspraken met de groepen over de wijze waarop zij ondersteund gaan worden en besluit over de gewenste samenstelling van de groep. Vervolgens regelt hij medewerkers/vrijwilligers, materiaal, accommodatie en andere voorzieningen en hij verzorgt de publiciteit over de activiteiten. Hij voert overleg en maakt afspraken met bij de uitvoering betrokkenen. Tot slot checkt hij nog eens of geplande activiteiten voldoende aansluiten bij (de belevingswereld van) de doelgroep. Hij kiest ervoor de activiteiten zelf uit te voeren, te laten uitvoeren door vrijwilligers of te delegeren aan een deskundige op een specifiek terrein.]]></werkprocesomschrijving>
+                  <werkprocesresultaat><![CDATA[Het plan van aanpak is uitgewerkt tot concrete projecten/activiteiten en de publiciteit is verzorgd. De beginsituatie van de doelgroep is helder, de inbreng van medewerkers/vrijwilligers en de voorzieningen zijn geregeld. De potentiële doelgroep is op de hoogte van de activiteit / het project.]]></werkprocesresultaat>
+                  <werkprocesgedrag><![CDATA[De sociaal-cultureel werker:
+- bespreekt actief met de doelgroep het geplande project/ de geplande activiteit;
+- achterhaalt actief de wensen en verwachtingen van de doelgroep;
+- presenteert het aanbod aan projecten en activiteiten op een boeiende en op de doelgroep afgestemde wijze; 
+- kiest passende materialen en middelen; 
+- regelt tijdig de beschikbaarheid van essentiële middelen en medewerkers/vrijwilligers;
+- informeert de clientgroep en de medewerkers/vrijwilligers duidelijk over hetgeen ze kunnen verwachten;
+- kiest weloverwogen een passende wervingsmethode of een passende mix aan wervingsmethoden. 
+]]></werkprocesgedrag>
+                  <werkprocescompetenties>
+                    <competentie referentie="3092" />
+                    <competentie referentie="3095" />
+                    <competentie referentie="3100" />
+                    <competentie referentie="3101" />
+                  </werkprocescompetenties>
+                </werkproces>
+                <werkproces nr="966316" titel="Ondersteunt de doelgroep(en) bij activiteiten" hoofdstuk="2">
+                  <werkprocesomschrijving><![CDATA[De sociaal-cultureel werker ondersteunt de doelgroep bij activiteiten op het gebied educatie én op het gebied van kunst, cultuur en amusement én/of op het gebied van sport, spel en recreatie. De activiteit gebruikt hij om gestelde doelen te realiseren. Hij kiest werkvormen, materialen en middelen en bepaalt de gewenste groepsindeling of -opstelling. Hij brengt differentiatie aan in de uitvoering passend bij de doelgroep en gestelde doelen. Hij enthousiasmeert de doelgroep tot optimale inzet en prestaties en geeft instructies en begeleiding. Hij richt het programma zodanig in dat de uiteenlopende groepen/individuen tot hun recht komen. Zo nodig past hij de begeleidingsstijl verder aan op de beginsituatie van de doelgroep. De sociaal-cultureel werker stimuleert zelfwerkzaamheid, creativiteit, eigen initiatief en onderlinge betrokkenheid. Hij bewaakt de voortgang van en de veiligheid tijdens de activiteit en stuurt bij indien nodig.]]></werkprocesomschrijving>
+                  <werkprocesresultaat><![CDATA[De doelgroep wordt optimaal ondersteund volgens de gestelde doelen. Tijdens de uitvoering van de activiteiten wordt rekening gehouden met veiligheid en doeltreffend gebruik van materialen en dergelijke. Gestelde doelen worden gerealiseerd. ]]></werkprocesresultaat>
+                  <werkprocesgedrag><![CDATA[De sociaal-cultureel werker:
+- geeft duidelijke en op gedifferentieerde wijze aanwijzingen en instructies;  
+- kiest doeltreffende en gevarieerde werkvormen, materialen en middelen; 
+- toont vaardigheid in het toepassen van de werkvormen, materialen en middelen;
+- checkt regelmatig of de doelgroep 'tevreden' is; 
+- past zijn aanpak soepel aan op veranderende omstandigheden, zonder daarbij het doel los te laten;
+- speelt soepel en adequaat in op de diversiteit in de doelgroep.
+]]></werkprocesgedrag>
+                  <werkprocescompetenties>
+                    <competentie referentie="3085" />
+                    <competentie referentie="3086" />
+                    <competentie referentie="3094" />
+                    <competentie referentie="3101" />
+                    <competentie referentie="3103" />
+                    <competentie referentie="3104" />
+                  </werkprocescompetenties>
+                </werkproces>
+                <werkproces nr="966317" titel="Voert coördinerende taken uit" hoofdstuk="3">
+                  <werkprocesomschrijving><![CDATA[De sociaal-cultureel werker voert coördinerende taken uit. Hij plant de werkzaamheden, maakt een werkverdeling, geeft prioriteiten aan en houdt contact met de verschillende medewerkers (waaronder vrijwilligers). De sociaal-cultureel werker stemt de werkzaamheden van de verschillende medewerkers op elkaar af en ziet toe op de uitvoering van de werkzaamheden en de continuïteit van de dienstverlening. Hij voorziet de medewerkers van de benodigde informatie, en in voorkomende gevallen van expertise,  ondersteunt en faciliteert hen (in de randvoorwaardelijke sfeer). Hij bewaakt de afstemming tussen verschillende projecten en activiteiten. Hij werkt aan en onderhoudt een actief netwerk aan contacten binnen en buiten de organisatie.]]></werkprocesomschrijving>
+                  <werkprocesresultaat><![CDATA[De sociaal cultureel werker heeft de dienstverlening zodanig georganiseerd en gecoördineerd dat de kwaliteit, continuïteit en eenduidigheid van de dienstverlening gewaarborgd is. ]]></werkprocesresultaat>
+                  <werkprocesgedrag><![CDATA[De sociaal-cultureel werker:
+- voorziet op effectieve wijze in de randvoorwaarden; 
+- deelt proactief informatie - en in voorkomende situaties kennis en ervaring - met medewerkers;
+- zorgt voor een effectieve verdeling van taken door rekening te houden met capaciteit, middelen, heldere rolverdeling, evenwichtige verdeling van de werkbelasting en afstemming;
+- geeft heldere en relevante instructies;
+- maakt duidelijke resultaatafspraken met de medewerkers;
+- bewaakt effectief de voortgang van de werkzaamheden;
+- spreekt medewerkers zo nodig aan op hun functioneren;
+- maakt actief gebruik van zijn netwerkcontacten om werkdoelen te realiseren.
+]]></werkprocesgedrag>
+                  <werkprocescompetenties>
+                    <competentie referentie="3085" />
+                    <competentie referentie="3088" />
+                    <competentie referentie="3100" />
+                  </werkprocescompetenties>
+                </werkproces>
+              </profielwerkprocessen>
+            </kerntaak>
+          </profielkerntaken>
+        </profiel>
+      </profielen>
+      <verantwoordingsinformatie titel="Verantwoordingsinformatie">
+        <brondocumenten titel="Beroepscompetentieprofielen (BCP)" hoofdstuk="1">
+          <brondocument naam="SOCIAAL RAADSMAN SOCIAAL DIENSTVERL.pdf" type="Beroepscompetentie profiel (BCP)" datum="01-01-2006" omschrijving="BCP Sociaal Raadsman/Sociaal Dienstverlener" link="http://digik.s-bb.nl/UserControls/DossierResource.ashx?D25fb1c88-c0fd-410b-8ce2-ae29d0961390" />
+          <brondocument naam="SOCIAAL CULTUREEL WERKER.pdf" type="Beroepscompetentie profiel (BCP)" datum="01-10-2005" omschrijving="BCP Sociaal-cultureel werker" link="http://digik.s-bb.nl/UserControls/DossierResource.ashx?D9e12e537-65a0-4c06-a56f-48cc9953a69e" />
+          <brondocument naam="BCP Jongerenwerker.pdf" type="Beroepscompetentie profiel (BCP)" datum="01-08-2008" omschrijving="BCP Jongerenwerker" link="http://digik.s-bb.nl/UserControls/DossierResource.ashx?Df7a85560-b63b-4140-a6b0-e70bcb242157" />
+          <brondocument naam="BCP_Groepsleidster_Buitenschoolse_opvang.pdf" type="Beroepscompetentie profiel (BCP)" datum="01-06-2006" omschrijving="BCP Groepsleidster Buitenschoolse Opvang" link="http://digik.s-bb.nl/UserControls/DossierResource.ashx?Dbe739d99-bac6-45e9-bc6b-5618c763b748" />
+          <brondocument naam="Competenties maatschappelijke ondersteuning in WMD [MOV-411969-0.2].pdf" type="Beroepscompetentie profiel (BCP)" datum="01-03-2013" omschrijving="Competenties maatschappelijke ondersteuning" link="http://digik.s-bb.nl/UserControls/DossierResource.ashx?Dea65c0ed-2b81-4f90-a357-2b206e88a73b" />
+          <brondocument naam="Niveaus competenties sociale professional 16-04-2013 pdf.pdf" type="Beroepscompetentie profiel (BCP)" datum="01-04-2013" omschrijving="Niveaus competenties sociale professional" link="http://digik.s-bb.nl/UserControls/DossierResource.ashx?D45f8246c-17ee-48ae-b6c6-1aaef841b5e7" />
+        </brondocumenten>
+        <arbeidsmarktinformatie titel="Arbeidsmarktinformatie" hoofdstuk="2"><![CDATA[Sociaal-maatschappelijk Dienstverlener
+
+Kans op werk
+Er zijn in 2013-2014 relatief weinig vacatures voor gediplomeerden sociaal-maatschappelijk dienstverlener. Tot dan toe zijn de meeste studenten na hun opleiding wel aan een baan gekomen. De kans op werk is voldoende. Onder invloed van het kabinetsbeleid kan dat in de toekomst ongunstiger worden. Toekomstige bezuinigingen op (semi-)overheidsdiensten, zorg- en welzijnsbranches zullen leiden tot een afnemende werkgelegenheid van sociaal-maatschappelijk dienstverleners in die sectoren. 
+Van gediplomeerde schoolverlaters doet 60% een vervolgstudie;  30% gaat direct werken. Van die laatste groep gaat 36% werken in de GGZ  28% in een verpleeg- of verzorgingshuis en 36% in een branche buiten zorg, welzijn, sport of onderwijs.
+
+Kans op stage
+Voor studenten van de opleiding sociaal-maatschappelijk dienstverlener is de kans op stage op landelijk niveau matig. Er zijn echter veel verschillen tussen regio’s: van een geringe tot ruim voldoende kans op stage.  In 2013-2014 is er sprake van een divers beeld, net als in de daar aan voorafgaande jaren.
+In schooljaar 2013-2014 zijn er 3.100 studenten sociaal-maatschappelijk dienstverlener in opleiding. Dit zijn 2% minder studenten dan in het schooljaar 2012-2013. Er zijn vrijwel alleen BOL studenten. 
+
+
+Sociaal Cultureel Werker
+
+Kans op werk
+Er is in 2013-2014 voldoende kans op werk voor gediplomeerden sociaal cultureel werker. Wel neemt het aantal vacatures vergeleken met 2012-2013 af.  Het is onzeker of het arbeidsmarktperspectief de komende jaren voldoende blijft.  Bezuinigingen van de overheid leidt tot minder arbeidsperspectief in de branche kinderopvang. Ook (semi-) overheidsinstellingen en gesubsidieerde instanties hebben minder budget voor nieuwe werknemers. 
+Van de gediplomeerden doet 30% een vervolgstudie; een kleine 40% gaat direct werken. Gediplomeerden ‘sociaal cultureel werker’ komen diverse sectoren terecht.  41% van de gediplomeerden, die direct instromen op de arbeidsmarkt,  gaat werken in sectoren buiten zorg, welzijn, sport of onderwijs. Daarnaast gaat 31% naar de kinderopvang en 10% naar de zorg. 
+
+Kans op stage
+Voor studenten in opleiding is de kans op stage over het algemeen voldoende. Er zijn echter grote verschillen tussen regio’s: van een geringe tot een goede kans op stage. Net als de jaren daarvoor is er in 2013-2014 sprake van een divers beeld. In het algemeen is de kans op stage beter dan tijdens schooljaar 2012-2013.
+In schooljaar 2013-2014 zijn er ruim 2.500 studenten sociaal cultureel werker in opleiding. Dit zijn 15% minder studenten dan in schooljaar 2012-2013. Het  gaat vrijwel alleen om  BOL-studenten.
+
+
+Voor actuele gegevens, zie www.kansopstage.nl en www.kansopwerk.nl
+
+
+Bronnen
+-	Arbeidsmarktprognoses van VOV personeel in zorg en welzijn 2013-2017, landelijk onderzoeksprogramma AZW, aug. 2013
+-	DUO, studentenbestanden 2012-2013 en 2013-2014, peildatum okt. 2012 en okt. 2013
+-	Kans op Stage, Calibris, diverse peilmomenten in 2012, 2013 en 2014
+-	Kans op Werk, Calibris, nov. 2013
+-	Monitor Arbeidsmarkt en Onderwijs Zorg, Calibris, november 2013
+-	Monitor Arbeidsmarkt en Onderwijs Welzijn, Calibris, november 2013
+-	Regeerakkoord, Zorgakkoord en Sociaal akkoord, 2013
+-	DUO Market Research, rendement opleidingen Calibris, 2012 (bewerking Calibris, 2013)
+]]></arbeidsmarktinformatie>
+        <trendsenontwikkelingen titel="Trends en ontwikkelingen" hoofdstuk="3">
+          <wetenregelgeving><![CDATA[Wet Meldcode huiselijk geweld en kindermishandeling
+Op 1 juli 2013 treedt de wet Meldcode huiselijk geweld en kindermishandeling in werking voor de sectoren gezondheidszorg, onderwijs, kinderopvang, maatschappelijke ondersteuning, jeugdzorg en justitie. De meldcode behelst een stappenplan dat duidelijkheid geeft over hoe te handelen bij vermoedens van geweld. Het betreft alle vormen van geweld in afhankelijkheidsrelaties, naast huiselijk geweld en kindermishandeling, ook seksueel geweld, ouderenmishandeling, eergerelateerd geweld en vrouwelijk genitale verminking. Het gaat om een wettelijke verplichting tot het hebben van een meldcode en een plicht tot zorgvuldig handelen, niet om een meldplicht.www.meldcode.nl
+In de kwalificatiedossiers is de Wet Meldcode huiselijk geweld en kindermishandeling ondergebracht bij vakkennis en vaardigheden. In de uitwerking kan de onderwijsinstelling, indien aanwezig, gebruik maken van specifieke richtlijnen van branches.
+
+In de kwalificatiedossiers op niveau 2 staat bij kennis: Basiskennis van wet- en regelgeving waaronder: Meldcode huiselijk geweld en kindermishandeling, .......
+In de kwalificatiedossiers op niveau 3 staat bij kennis: Kennis van wet- en regelgeving waaronder: Meldcode huiselijk geweld en kindermishandeling, ..........
+In de kwalificatiedossiers op niveau 4 staat bij kennis: Specialistische kennis van wet- en regelgeving waaronder: Meldcode huiselijk geweld en kindermishandeling, ..........
+
+In alle kwalificatiedossiers op niveau 2 bij vaardigheden: Herkent signalen van sociale problematiek waaronder huiselijk geweld, seksueel misbruik en kindermishandeling en meldt deze signalen aan de leidinggevende volgens wet- en regelgeving en het beleid/protocol van de organisatie. 
+In alle kwalificatiedossiers op niveau 3 en 4 bij vaardigheden: Herkent signalen van sociale problematiek waaronder huiselijk geweld, seksueel misbruik en kindermishandeling en onderneemt actie volgens wet- en regelgeving en het beleid/protocol van de organisatie.
+
+Wet op de maatschappelijke ondersteuning (WMO) 
+De Wet Maatschappelijke Ondersteuning (WMO) is in 2007 ingevoerd en moet ervoor zorgen dat iedereen kan meedoen aan de maatschappij en zelfstandig kan blijven wonen. Mensen met beperkingen door ouderdom of handicap, een chronisch psychisch probleem, maar ook vrijwilligers en mantelzorgers, kunnen de gemeente vragen om ondersteuning, zoals o.a. thuiszorg, begeleidende ondersteuning of een rolstoel. 
+
+De wet- en regelgeving rondom het welzijnswerk is momenteel vollop in ontwikkeling. Er komen grote transities waarbij de verantwoordelijkheid voor het uitvoeren van welzijnswerk bij gemeenten komt te liggen. Dit heeft consequenties voor de werkzaamheden van de sociaal werker. 
+
+
+Wijzigingen in wet en regelgeving 
+Tijdens het opstellen van de kwalificatiedossiers zijn er een aantal ingrijpende stelselwijzigingen in voorbereiding, waarvan de gevolgen voor de beroepsuitoefening nog niet geheel zijn te overzien. Beoogd wordt de collectieve uitgaven te beheersen en de eigen kracht van de burger en diens netwerk te versterken. Het gaat om ombuigingen van miljarden die vele cliënten, beroepskrachten en organisaties zullen raken. De eerste vraag hierbij is wat kan de cliënt zelf nog wel. Daarna is de vraag welke ondersteuning de cliënt uit diens netwerk kan krijgen en vervolgens of buurtgenoten of vrijwilligers een bijdrage kunnen leveren. Pas nadat gekeken is naar de rol die algemene voorzieningen kunnen spelen, is de vraag aan de orde of gespecialiseerde zorg nodig is.
+Om deze veranderingen te realiseren worden een aantal wetten samengevoegd en/of overgeheveld naar gemeenten. Gelijktijdig wordt bevorderd dat iedereen met een beperking kan deelnemen aan de samenleving. Dit op alle domeinen van het leven, dus, zowel op het gebied van wonen, als van mobiliteit, opleiding/werk en vrijetijdsbesteding. Belangrijke wetgeving en regelgeving die hierover wordt uitgewerkt is:
+1. Ratificering VN-verdrag voor de rechten van mensen met een beperking. 
+Nederland heeft dit verdrag ondertekend en zal dit deze kabinet periode bekrachtigen. De definitie van mensen met een beperking in het verdrag is breed.
+2. Uitbreiding Wet gelijke behandeling op grond van handicap of ziekte. 
+De   werkingsfeer van deze wet die sinds 2003 van kracht is wordt fasegewijs uitgebreid. Naast arbeid, naar wonen, openbaar vervoer, voortgezet onderwijs, etc. 
+3. Nieuwe Wet Maatschappelijke Ondersteuning. 
+Een belangrijk deel van de AWBZ wordt overgeheveld naar de WMO, waaronder ook het welzijnswerk resulteert. Hierbij wordt een bezuiniging toegepast van 25%. Gemeenten zullen het werk gaan gunnen via aanbestedingsprocedures. De verwachting is dat de verschillende doelgroepen meer door elkaar heengaan lopen, en zorgorganisaties deskundigheid over de doelgroepen van welzijnen welzijn van de doelgroepen in de zorg op moeten gaan bouwen.
+4. Nieuwe wet op de Jeugdzorg. 
+Ook hierbij krijgt de gemeente een regierol voor de ondersteuning van jongeren en gezinnen. Zowel de AWBZ zorg voor mensen met een beperking als de tot dusver provinciaal gefinancierde jeugdhulp wordt hierin opgenomen. Uitgangspunt hierbij is één regisseur per gezin, en het opheffen van de schottentussen diverse hulpverleningsinstanties.
+5. Nieuwe Participatiewet. 
+Met de participatiewet beoogt de overheid dat iedereen die kan werken, ook gaat werken. Dit geldt ook voor mensen met een arbeidsbeperking. Er komt één regeling voor alle mensen die een opstap naar de arbeidsmarkt nodig hebben. Dit is nu nog verspreidt over de Wet Werk en Bijstand (WWB), de Wet Sociale Werkvoorziening (WSW) en Wet werk en arbeidsondersteuning jong gehandicapten (WAJONG).
+6. Nieuwe Wet Langdurig Intensieve Zorg. 
+Voor mensen met een intensieve zorgzwaarte waarvoor de WMO en Participatiewet niet van toepassing is, komt een nieuwe Wet Langdurig Intensieve Zorg (kern AWBZ).
+
+
+ 
+
+ 
+
+ 
+]]></wetenregelgeving>
+          <ontwikkelingenindeberoepsuitoefening><![CDATA[Diverse maatschappelijke ontwikkelingen hebben consequenties voor de beroepsuitoefening in de sociaal-maatschappelijke dienstverlening. Bij deze maatschappelijke ontwikkelingen is te denken aan: een inkrimpende verzorgingsstaat; toenemende eigen verantwoordelijkheid van burgers; groeiende maatschappelijke betrokkenheid en inzet en toenemende mondigheid van burgers; meer vrije tijd en de invloed van politiek en (sociale) media. Deze ontwikkelingen hebben gevolgen voor de beroepsuitoefening en doet de behoefte ontstaan aan twee nieuwe typen beroepskrachten: - brede nabije beroepskrachten die vooral als netwerker en aanspreekpunt fungeren; - gespecialiseerde beroepskrachten met een brede blik die specifieke kennis en vaardigheden inzetten voor bepaalde groepen, vragen en problemen. 
+Bron: Toekomstverkenningen ten behoeve van een beroepenstructuur in zorg en welzijn. Utrecht: Verweij - Jonker Instituut, 2004
+
+Het Innovatieplatform heeft voor 2027 op gebied van ‘Gezondheid’ een inspirerend wensbeeld gedefinieerd. In dit wensbeeld heeft er een denkslag plaatsgevonden in het centraal stellen van ‘de cliënt’, in plaats van specialismen. De professionele zorgverlener is continu bewust van zijn eigen leerproces en zijn bijdrage aan ‘de klant’, ieder op zijn eigen niveau. Middels ‘actieve zorg’ worden alle mogelijkheden voor zorgverlening benut, waaronder ook de mogelijkheden voor preventieve zorg.
+
+In dit wensbeeld is er optimale synergie gerealiseerd tussen preventie, cure en care. Dit is o.a. gerealiseerd doordat de organisaties die zich bezig houden met het aanbieden van preventie, cure en care hun krachten hebben gebundeld en een samenhangend pakket op maat voor de burger/patiënt bieden. In deze structuur zijn er ook middelen beschikbaar om nieuwe innovaties die op de burgers/patiënten zijn gericht te realiseren. Een praktische uitwerking van dit wensbeeld is bijvoorbeeld dat ouderen één vaste aanspreekpersoon krijgen voor alles, de onafhankelijke ‘universele verzorger’. Dit wordt ook wel de zorgmakelaar genoemd. Hoe ouder mensen worden hoe minder goed ze kunnen omgaan met alle verschillende loketten. De ‘universele verzorger’ zorgt voor een gebalanceerd aanbod van preventie, zorg en medische hulp. De universele verzorger is onafhankelijk omdat ze vrij naar behoefte van de klantdiensten moet kunnen aan bieden, preventie, care of cure.
+Bron: Innovatie in maatschappelijke sectoren, Projectbureau Innovatieplatform, Den Haag april 2007
+
+Daarnaast zijn er ontwikkelingen zoals het ontstaan van dagarrangementen, de Brede school en een integrale wijkgerichte aanpak van problemen. Deze brengen met zich mee dat de sociaal-cultureel werker vaker in interdisciplinair verband zal werken met o.a. pedagogisch werkers en onderwijsassistenten enz.
+ 
+Welzijn  Nieuwe  Stijl
+De WMO is al vier jaar van kracht en heeft de volgende  doelen:
+· Burgers weten zich beschermd, zijn zelfredzaam, maatschappelijk actief en zorgen voor elkaar
+· De sociale samenhang en betrokkenheid neemt toe 
+· Mensen met een beperking, zonodig met een steuntje in de rug, redden zich in en om het huis en blijven langer zelfstandig wonen en meedoen in de maatschappij.  Zij geloven meer in eigen kracht en leunen minder op de overheid en professionals.
+
+Met de Wet Maatschappelijke Ondersteuning (WMO) is het welzijnswerk weer in beeld gekomen. Dit vraagt van gemeenten, instellingen en burgers een meer gemeenschappelijke, vraaggerichte,  resultaatgerichte en efficiëntere aanpak. Om deze aanpak een impuls te geven start het Ministerie van Volksgezondheid, Welzijn en Sport (VWS) met de Vereniging van Nederlandse Gemeenten en werkgeversorganisatie MOgroepWelzijn & Maatschappelijke Dienstverlening (W&MD) ‘Welzijn nieuwe stijl’. Vooral de(sturings)relatie tussen gemeenten, welzijnsinstellingen en de verbetering van de kwaliteit en professionaliteit van het welzijnswerk kunnen een extra positieve impuls geven aan het bereiken van de doelen van de WMO. 
+
+Voor verbetering van de kwaliteit en professionaliteit van de betrokkenen zijn de volgende bakens om richting aan het handelen te geven opgesteld:
+1.     Gericht op de vraag achter de vraag
+2.     Gebaseerd op de eigen kracht van de burger
+3.     Direct er op af
+4.     Formeel en informeel in optimale verhouding 
+5.     Doordachte balans van collectief en individueel
+6.     Integraal werken
+7.     Niet vrijblijvend en resultaatgericht
+8.     Gebaseerd op ruimte voor de professional
+
+ 
+]]></ontwikkelingenindeberoepsuitoefening>
+        </trendsenontwikkelingen>
+        <wettelijkeberoepsvereisten titel="Wettelijke beroepsvereisten" hoofdstuk="4"><![CDATA[Niet van toepassing. ]]></wettelijkeberoepsvereisten>
+        <bijzonderevereisten titel="Bijzondere vereisten" hoofdstuk="5">
+          <profiel referentie="966307">
+            <eisen>Nee</eisen>
+            <toelichtingvereisten><![CDATA[]]></toelichtingvereisten>
+          </profiel>
+          <profiel referentie="966313">
+            <eisen>Nee</eisen>
+            <toelichtingvereisten><![CDATA[]]></toelichtingvereisten>
+          </profiel>
+        </bijzonderevereisten>
+        <taalbeheersingseisen titel="Beroepsspecifieke moderne vreemde talen" hoofdstuk="6">
+          <toelichting><![CDATA[]]></toelichting>
+          <taalbeheersingseis titel="Beroepsspecifieke moderne vreemde talen" />
+        </taalbeheersingseisen>
+        <ontwikkelmogelijkheden titel="Ontwikkelmogelijkheden van de beroepsbeoefenaar in het onderwijs" hoofdstuk="7"><![CDATA[De gediplomeerde sociaal werker kan doorstromen naar aansluitende HBO opleidingen. Dit geldt voor zowel het profiel Sociaal-maatschappelijk dienstverlener als het profiel Sociaal-cultureel werker. 
+
+Opleidingen die in het verlengde van Sociaal Werk liggen zijn bijvoorbeeld:
+- Maatschappelijk werk en dienstverlening
+- HBO pedagogiek
+- Toegepast psychologie
+- Sociaal pedagogische hulpverlening 
+- Social Work. ]]></ontwikkelmogelijkheden>
+        <onderhoudsagenda titel="Onderhoudsagenda" hoofdstuk="8">
+          <agenda>
+            <onderdeel>
+              <onderwerp><![CDATA[Examenprofiel ZWS]]></onderwerp>
+              <actie><![CDATA[Examenprofiel ZWS aanpassen aan nieuwe eisen]]></actie>
+              <wie><![CDATA[Paritaire commissie 
+Sub-pc’s 
+Calibris
+]]></wie>
+              <wanneer><![CDATA[2014]]></wanneer>
+            </onderdeel>
+            <onderdeel>
+              <onderwerp><![CDATA[Onderhoud kwalificatiedossiers ]]></onderwerp>
+              <actie><![CDATA[Monitoren en zo nodig actie ondernemen/initiëren van visie, trends, wetenschap en ontwikkelingen in de beroepsuitoefening en op de arbeidsmarkt en dit jaarlijks plaatsen in onderhoudsperspectief]]></actie>
+              <wie><![CDATA[Paritaire commissie 
+Sub-pc’s 
+Calibris
+]]></wie>
+              <wanneer><![CDATA[2014-2020]]></wanneer>
+            </onderdeel>
+            <onderdeel>
+              <onderwerp><![CDATA[Ontwikkelingen beroepenstructuur en bcp’s]]></onderwerp>
+              <actie><![CDATA[Nieuwe bcp’s en geactualiseerde bcp’s worden aangeleverd door sociale partners]]></actie>
+              <wie><![CDATA[Sociale partners]]></wie>
+              <wanneer><![CDATA[2014-2020]]></wanneer>
+            </onderdeel>
+            <onderdeel>
+              <onderwerp><![CDATA[Actualisatie kwalificatiestructuur en kwalificatiedossiers]]></onderwerp>
+              <actie><![CDATA[Op basis van nieuwe en/of geactualiseerde bcp’s worden kwalificatiedossiers aangepast]]></actie>
+              <wie><![CDATA[Paritaire commissie 
+Sub-pc’s 
+Calibris
+]]></wie>
+              <wanneer><![CDATA[2014-2020]]></wanneer>
+            </onderdeel>
+            <onderdeel>
+              <onderwerp><![CDATA[Technologische ontwikkelingen]]></onderwerp>
+              <actie><![CDATA[Doorvertaling van technologische ontwikkelingen naar kd’s, keuzedelen en servicedocumenten]]></actie>
+              <wie><![CDATA[Paritaire commissie 
+Sub-pc’s 
+Calibris
+]]></wie>
+              <wanneer><![CDATA[2014-2020]]></wanneer>
+            </onderdeel>
+            <onderdeel>
+              <onderwerp><![CDATA[Keuzedelen]]></onderwerp>
+              <actie><![CDATA[Bepalen en ontwikkelen branche- en sectorspecifieke keuzedelen]]></actie>
+              <wie><![CDATA[Paritaire commissie 
+Sub-pc’s 
+Calibris]]></wie>
+              <wanneer><![CDATA[2014-2020]]></wanneer>
+            </onderdeel>
+            <onderdeel>
+              <onderwerp><![CDATA[Servicedocumenten]]></onderwerp>
+              <actie><![CDATA[Gedurende de looptijd van de kd’s door onderwijs en/of werkveld gewenste servicedocumenten i.r.t. kd’s ontwikkelen]]></actie>
+              <wie><![CDATA[Paritaire commissie 
+Sub-pc’s 
+Calibris
+]]></wie>
+              <wanneer><![CDATA[2014-2020]]></wanneer>
+            </onderdeel>
+            <onderdeel>
+              <onderwerp><![CDATA[Algemene wet- en regelgeving]]></onderwerp>
+              <actie><![CDATA[Monitoring algemene wet- en regelgeving. Zo nodig gevolgen in kd’s doorvoeren]]></actie>
+              <wie><![CDATA[Paritaire commissie 
+Sub-pc’s 
+Calibris]]></wie>
+              <wanneer><![CDATA[2014-2020]]></wanneer>
+            </onderdeel>
+            <onderdeel>
+              <onderwerp><![CDATA[Uitvoerbaarheid kwalificatiedossiers]]></onderwerp>
+              <actie><![CDATA[Onderzoek naar uitvoerbaarheid van kwalificatiedossiers voor het werkveld en onderwijs]]></actie>
+              <wie><![CDATA[Paritaire commissie 
+Sub-pc’s 
+Calibris
+]]></wie>
+              <wanneer><![CDATA[2014-2020]]></wanneer>
+            </onderdeel>
+            <onderdeel>
+              <onderwerp><![CDATA[Uitvoerbaarheid keuzedelen]]></onderwerp>
+              <actie><![CDATA[Onderzoek naar uitvoerbaarheid van keuzedelen voor het werkveld en onderwijs]]></actie>
+              <wie><![CDATA[Paritaire commissie 
+Sub-pc’s 
+Calibris
+]]></wie>
+              <wanneer><![CDATA[2014-2020]]></wanneer>
+            </onderdeel>
+            <onderdeel>
+              <onderwerp><![CDATA[Actuele thema’s]]></onderwerp>
+              <actie><![CDATA[Inspelen op actuele thema’s zoals doelmatigheid en bpv i.r.t kwalificatiedossiers en kwalificatiestructuur	]]></actie>
+              <wie><![CDATA[Paritaire commissie 
+Sub-pc’s 
+Calibris	
+]]></wie>
+              <wanneer><![CDATA[2014-2020
+]]></wanneer>
+            </onderdeel>
+            <onderdeel>
+              <onderwerp><![CDATA[Gastouders]]></onderwerp>
+              <actie><![CDATA[Ontwikkelingen volgen en zo mogelijk doorontwikkeling bcp starten]]></actie>
+              <wie><![CDATA[Sociale partners
+Paritaire commissie 
+Sub-pc SAW
+Calibris
+
+]]></wie>
+              <wanneer><![CDATA[2014-2020]]></wanneer>
+            </onderdeel>
+          </agenda>
+          <toelichting><![CDATA[]]></toelichting>
+        </onderhoudsagenda>
+        <wijzigingen titel="Wijzigingen ten opzichte van de voorgaande versie" hoofdstuk="9">
+          <wijzigingscategorien>
+            <wijzigingscategorie titel="Categorie 2: Nieuwe elementen" categorie="2" />
+          </wijzigingscategorien>
+          <omschrijving><![CDATA[De kwalificatiedossiers 2015 kennen een geheel nieuwe opbouw (model basis-profiel-keuze) in vergelijking met het kwalificatiedossier 2011
+(identiek aan 2012 en 2013 en verder). Daarom is er geen specifieke verantwoording van verschillen op het niveau van werkproces en
+kennis/vaardigheden beschreven. Wel zijn hieronder in hoofdlijnen de mutaties tussen de kwalificatiedossiers 2011 en het kwalificatiedossier 2015 weergegeven. 
+
+Mutaties:
+Het kwalificatiedossier Sociaal Werk bestaat uiteen samenvoeging van de voorgaande kwalificatiedossiers ‘Sociaal-cultureel werker' en ‘Sociaal-maatschappelijk dienstverlener'. In dit dossier zijn de 'nieuwe' beroepscompetenties voor de maatschappelijke ondersteuning/de sociale professional verwerkt (Movisie 2013). Deze competenties vormen een aanvulling op de beroepsstandaarden die sociale professionals kunnen gebruiken om een bijdrage te leveren aan het realiseren van de doelstellingen van de WMO. Het formuleren van deze nieuwe beroepscompetenties heeft tot doel om de beroepsuitoefening van de sociale werkers in de WMO te versterken en te vernieuwen met het oog op de sterk veranderende maatschappelijke en organisatorische context. Het zijn geen vervangende competenties: de eigen competenties blijven van kracht. Het betreft ook niet altijd nieuwe competenties, maar ook wijziging in urgentie. De set van competenties is door het hele dossier heen verwerkt en is van invloed op alle onderdelen van het kwalificatiedossier. Algemene teksten en werkprocessen met een gelijkwaardige strekking zijn in alle kwalificatiedossiers van Calibris (zoveel mogelijk) gelijk geformuleerd. De kennis en complexiteit is beschreven met behulp van NLQF-indicatoren, conform de voorschriften.]]></omschrijving>
+        </wijzigingen>
+        <betrokkenen titel="Betrokkenen" hoofdstuk="10"><![CDATA[Implementatietoets 2013
+In maart 2013 is het kwalificatiedossier uitvoerig besproken in de implementatietest van de MBO-Raad door vertegenwoordigers uit onderwijs en exameninstellingen. De voorstellen vanuit de implementatietoets zijn door de (sub)paritaire commissie (al dan niet) bekrachtigd, waarna de dossiers conform zijn bijgesteld.  
+
+Werkgroepen kwalificatiedossier 2013
+Werkveld- en onderwijspartijen uit de (sub)paritaire commissie hebben uit hun achterban leden afgevaardigd om zitting te nemen in de diverse werkgroepen kwalificatiedossier. De leden hebben de taak om de inhoud van het dossier te valideren.
+In 2013 heeft Calibris (volgens bovenstaande werkwijze) voor elk dossier een werkgroep van relevante deskundigen georganiseerd: in februari en april.   De voorstellen vanuit de werkgroepen zijn door de (sub)paritaire commissie (al dan niet) bekrachtigd, waarna de dossiers conform bijgesteld zijn.  
+
+Op 7 en 8 januari 2014 is het kwalificatiedossier besproken in een gebruikerstest met vertegenwoordigers van onderwijs en werkveld. 
+De volgende centrale vragen zijn daarbij aan het gebruikerspanel voorgelegd:
+1. Is in het kwalificatiedossier het beroep resp. de beroepen herkenbaar beschreven?
+2. Is het mogelijk om op basis van het kd de examinering goed vorm te geven?
+3. Is het mogelijk om op basis van het kd een goed curriculum te ontwikkelen?
+4. Is het mogelijk om op basis van het kd de bpv goed vorm te geven?
+5. Is het kwalificatiedossier: herkenbaar, uitvoerbaar, betaalbaar, organiseerbaar?
+
+Op elk van de vijf vragen is er per profiel/kwalificatiedossier een ja/nee met argumenten opgesteld. De uitkomsten van de gebruikerstest zijn besproken in de sub-pc en na akkoord van de sub-pc zijn, indien van toepassing, voorgestelde wijzigingen verwerkt in de definitieve versie van het kwalificatiedossier.
+
+
+Sub-paritaire commissie 
+Namens onderwijs (MBO Raad en NRTO)
+Lid sectordirectie Gezondheidszorg, Welzijn en Sport Deltion College
+Lid commissie welzijn ROC Friese Poort
+Programmamanager welzijnsopleidingen ROC Zadkine
+Directeur sector Zorg en Welzijn Graafschap College
+Docent/coördinator ROC Eindhoven
+Opleidingsmanager opleiding onderwijsassistent Graafschap College
+Opleidingsmanager opleidingen MZ, OA, PW en SMD bij Nova College
+Directeur mbo College voor Mens en Maatschappij ROC van Twente
+Manager Onderwijs NHA
+Afdelingsmanager bij ROC Midden Nederland 
+Directeur ROC Zadkine
+Algemeen directeur NHA
+Teamleider Scalda
+Teammanager Noorderpoort College
+
+Namens werkgeversorganisaties
+Senior beleidsadviseur VO-Raad/Werkgevers VO
+Beleidsmedewerker Mogroep Welzijn en Maatschappelijke Dienstverlening
+Senior beleidsadviseur VGN
+Medewerker brancheorganisatie Cedris
+Beleidsmedewerker Jeugdzorg Nederland
+Beleidsadviseur GGZ Nederland
+Bestuurssecretaris Stichting De Tussenvoorziening
+Beleidsadviseur Kwaliteit en Arbeid NVZ
+
+Namens werknemersorganisaties
+Arbeidsvoorwaardenadviseur ABVAKABO FNV
+CNV Adviseur
+Juridisch medewerkster NU'91
+
+
+Namens VMBO 
+Docent/medewerker organisatie Christelijk College Zeist
+
+Voorzitter sub-paritaire commissie, Onderhandelaar en belangenbehartiger VakbondZL
+
+Paritaire Commissie
+Namens Onderwijs (MBO Raad en NRTO)
+Directeur ROC Zadkine
+Manager Onderwijs NHA
+Lid sectordirectie Gezondheidszorg, Welzijn en Sport Deltion College
+Directeur Welzijn en Educatie Horizon College
+Directeur mbo College voor Mens en Maatschappij ROC van Twente
+Directeur Gezondheidszorg, Welzijn en Labaratoriumtechniek Nova College
+
+Namens werkgeversorganisaties
+Beleidsmedewerker Opleidingen Actiz
+Bestuurslid WOS
+Senior beleidsadviseur VGN
+Beleidsadviseur GGZ Nederland
+
+Namens werknemersorganisaties
+Arbeidsvoorwaardenadviseur ABVAKABO FNV
+Juridisch medewerkster NU'91
+Assistent bestuur FNV Sport
+Adviseur CNV Publieke Zaak
+
+Voorzitter paritaire commissie, Onderhandelaar en belangenbehartiger VakbondZL
+
+Bestuur
+Namens Onderwijs (MBO Raad en NRTO)
+Voorzitter College van Bestuur Friesland College
+Lid College van Bestuur ROC Aventus
+Directeur Onderwijsgroep Capabel
+
+Namens werkgeversorganisaties
+Manager afdeling Kwaliteit en Arbeid NVZ
+Lid Raad van Bestuur MaasDuinen
+]]></betrokkenen>
+        <aanvullendeinfo titel="Aanvullende informatie" hoofdstuk="12"><![CDATA[]]></aanvullendeinfo>
+        <examenprofielen titel="Examenprofielen" hoofdstuk="13"><![CDATA[http://kwalificaties.s-bb.nl/Handlers/CohortOutputLibrary.ashx?linkcode=17]]></examenprofielen>
+      </verantwoordingsinformatie>
+    </dossier>
+  </dossiers>
+</sbb>
