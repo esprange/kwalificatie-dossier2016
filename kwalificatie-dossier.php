@@ -97,6 +97,7 @@ function qd_toonWerkProces(&$xml, $tabel_id, $dossier_nr, $indexes) {
         $separator = ', ';
     }
     return "<a href=\"#TB_inline?inlineId=kwaldoc16_$tabel_id\" class=\"thickbox\" title=\"Kwalificatiedossier $dossier_titel\">Kwalificatiedossier $dossier_titel</a>
+        <p><i>$werkproces_naam: $werkproces_titel</i></p>
         <div id=\"kwaldoc16_$tabel_id\" class=\"kwaldoc_thickbox\">
             <div class=\"kwaldoc_table\">
                 <div class=\"kwaldoc_row  kwaldoc_head\">

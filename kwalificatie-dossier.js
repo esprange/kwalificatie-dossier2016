@@ -17,11 +17,20 @@
  */
 
 (function ($) {
-    'use strict';
+    "use strict";
     $(document).ready(function () {
         $(".thickbox").each(function () {
+            var width = $(window).width();
+            var height = $(window).height();
+            if (width > 700) {
+                height = Math.floor(height * 0.70);
+                width = Math.floor(width * 0.9);
+            } else {
+                height = Math.floor(height * 0.9);
+                width = Math.floor(width * 0.9);
+            }
             var link = $(this).attr("href");
-            $(this).attr("href", link + "&width=" + Math.floor($(window).width() * 0.9));
+            $(this).attr("href", link + "&width=" + width + "&height=" + height);
         });
     });
 })(jQuery);
